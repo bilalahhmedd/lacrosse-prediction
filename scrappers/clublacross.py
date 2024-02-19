@@ -11,29 +11,25 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support.ui import Select
-
-
 # chromedriver_autoinstaller.install()
 
+SCRAPE_LINK="https://public.clublacrosse.org/commitments"
+OUTPUT_FOLDER="../data/clublacrosse"
 
-download_dir = f'{os.path.abspath(os.getcwd())}/temporary_clublarcose'
+if (not os.path.exists(OUTPUT_FOLDER)):
+    print('dir created '+str(OUTPUT_FOLDER))+' successfully'
+    os.mkdir(OUTPUT_FOLDER)
+
+TEMP_DIR = f'{os.path.abspath(os.getcwd())}/temp'
 chrome_options = Options()
 chrome_options.add_argument("--headless")
 chrome_options.add_experimental_option("prefs", {
-    "download.default_directory": f"{download_dir}",
+    "download.default_directory": f"{TEMP_DIR}",
     "download.prompt_for_download": False,
     "download.directory_upgrade": True,
     "safebrowsing.enabled": True
 })
 chrome_options.add_argument("--start-maximized")
-
-
-
-scrape_link="https://public.clublacrosse.org/commitments"
-output_folder_name="../data/clublacrosse"
-if (not os.path.exists(output_folder_name)):
-    print('dir created '+str(output_folder_name))+' successfully'
-    os.mkdir(output_folder_name)
 
 
 def get_csv_files(directory):
@@ -60,7 +56,7 @@ driver = webdriver.Chrome(options=chrome_options)
 print('chrome driver loaded successfully')
 print('loading weblink with recursive approach')
 
-if load_table_recursively(weblink=scrape_link,driver=driver,sleep_time=15,thresh_hold=130):
+if load_table_recursively(weblink=SCRAPE_LINK,driver=driver,sleep_time=15,thresh_hold=130):
         categories={
             "clublacrosse_boys": driver.find_element(By.XPATH,'.//div[@row-id="row-group-1"]'),
             "clublacrosse_girls": driver.find_element(By.XPATH,'.//div[@row-id="row-group-0"]'),      
@@ -89,13 +85,13 @@ if load_table_recursively(weblink=scrape_link,driver=driver,sleep_time=15,thresh
             while True:
                 try:
 
-                    csv_files_list = get_csv_files(download_dir)
+                    csv_files_list = get_csv_files(TEMP_DIR)
 
                     if csv_files_list:
                         break
                 except:
                     pass
-            file_name=f"{download_dir}/export.csv"
+            file_name=f"{TEMP_DIR}/export.csv"
             df=pd.read_csv(file_name)
 
             try:
@@ -106,7 +102,7 @@ if load_table_recursively(weblink=scrape_link,driver=driver,sleep_time=15,thresh
 
             print(f"{df.shape} records found")
 
-            df.to_csv(f"{output_folder_name}/{name.replace(' ','_').lower()}.csv", index =False)
+            df.to_csv(f"{OUTPUT_FOLDER}/{name.replace(' ','_').lower()}.csv", index =False)
 
             sleep(5)
 
