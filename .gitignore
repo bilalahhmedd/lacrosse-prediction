@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 # large data csv files
 *.csv
+
+# ignore folder
+tmp-work/*
