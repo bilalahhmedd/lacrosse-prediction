@@ -1,0 +1,876 @@
+rank,club,rating,link,class,season,gender,websource
+--,214LAX DALLAS 2026 VOLT,--,,2026,2024,girls,insidelacrosse
+--,315 Elite 2026 Green,--,,2026,2024,girls,insidelacrosse
+--,Common Goal 2026,--,,2026,2024,girls,insidelacrosse
+--,3d New England 2026,--,,2026,2024,girls,insidelacrosse
+--,3d Virginia Metro 2026 Navy,--,,2026,2024,girls,insidelacrosse
+--,3Point 2026,--,,2026,2024,girls,insidelacrosse
+--,518 Excelerate 2026,--,,2026,2024,girls,insidelacrosse
+--,518 Excelerate 2026 Blue,--,,2026,2024,girls,insidelacrosse
+--,Aces Elite 2026,--,,2026,2024,girls,insidelacrosse
+--,ADK Peak 2026,--,,2026,2024,girls,insidelacrosse
+--,AFA 2026,--,,2026,2024,girls,insidelacrosse
+--,All Lax Select 2026,--,,2026,2024,girls,insidelacrosse
+--,AIM 2026,--,,2026,2024,girls,insidelacrosse
+--,Alliance National 2026,--,,2026,2024,girls,insidelacrosse
+--,Arc 2026,--,,2026,2024,girls,insidelacrosse
+--,Atlanta Storm 2026 Blue,--,,2026,2024,girls,insidelacrosse
+--,Atlanta Storm 2026 Orange,--,,2026,2024,girls,insidelacrosse
+--,Atlantic County Wave 2026,--,,2026,2024,girls,insidelacrosse
+--,Atlantic Shore 2026/2027,--,,2026,2024,girls,insidelacrosse
+--,B12 Girls LAX 2026,--,,2026,2024,girls,insidelacrosse
+--,214Lax Dallas 2025,--,,2025,2021,girls,insidelacrosse
+--,3D Colorado 2025 AA,--,,2025,2021,girls,insidelacrosse
+--,3D Maryland 2025 Baltimore,--,,2025,2021,girls,insidelacrosse
+--,3D Maryland 2025 Baltimore,--,,2025,2021,girls,insidelacrosse
+--,3D Maryland 2025 Frederick,--,,2025,2021,girls,insidelacrosse
+--,3D National 2025 Dodgers,--,,2025,2021,girls,insidelacrosse
+--,Aces 2025 Blue,--,,2025,2021,girls,insidelacrosse
+--,ADK 2025,--,,2025,2021,girls,insidelacrosse
+--,AFA 2025,--,,2025,2021,girls,insidelacrosse
+--,All Lax Select 2025 Empower,--,,2025,2021,girls,insidelacrosse
+--,ALL Lax Select 2025 Inspire,--,,2025,2021,girls,insidelacrosse
+--,Aim 2025,--,,2025,2021,girls,insidelacrosse
+--,All American Aim 2025 Stars and Stripes,--,,2025,2021,girls,insidelacrosse
+--,Atlanta Storm 2025 Blue,--,,2025,2021,girls,insidelacrosse
+--,Atlanta Storm 2025 Orange,--,,2025,2021,girls,insidelacrosse
+--,Bandits 2025,--,,2025,2021,girls,insidelacrosse
+--,Bay Area 2025,--,,2025,2021,girls,insidelacrosse
+--,BBL Elite 2025 Black,--,,2025,2021,girls,insidelacrosse
+--,BBL Elite 2025 Select,--,,2025,2021,girls,insidelacrosse
+--,BBL 2025 North,--,,2025,2021,girls,insidelacrosse
+--,Big 4 HHH 2025,--,,2025,2021,girls,insidelacrosse
+--,Big 4 HHH 2025,--,,2025,2021,girls,insidelacrosse
+--,Blackjack 2025-26,--,,2025,2021,girls,insidelacrosse
+--,BLC 2025 Blue,--,,2025,2021,girls,insidelacrosse
+--,BLC 25/26 Orange,--,,2025,2021,girls,insidelacrosse
+--,Cardinal 2025,--,,2025,2021,girls,insidelacrosse
+--,Cavalier 2025,--,,2025,2021,girls,insidelacrosse
+--,Cavalier 2025-2026,--,,2025,2021,girls,insidelacrosse
+--,CCLAX 2025,--,,2025,2021,girls,insidelacrosse
+--,CLC 2025 Bold,--,,2025,2021,girls,insidelacrosse
+1,LI Yellow Jackets 2025 Spallina,99.9,,2025,2023,girls,insidelacrosse
+2,M&D 2025 Black,98.45,,2025,2023,girls,insidelacrosse
+3,Mass Elite 2025 Red,98.36,,2025,2023,girls,insidelacrosse
+4,Capital 2025 Blue,97.57,,2025,2023,girls,insidelacrosse
+5,Sky Walkers 2025 Blue,97.18,,2025,2023,girls,insidelacrosse
+6,STEPS Elite NJ 2025 Navy,97.13,,2025,2023,girls,insidelacrosse
+7,Primetime 2025,97.1,,2025,2023,girls,insidelacrosse
+8,Big 4 HHH 2025,96.45,,2025,2023,girls,insidelacrosse
+9,NXT 2025 Black,96.41,,2025,2023,girls,insidelacrosse
+10,Monster Elite 2025 Purple,96.07,,2025,2023,girls,insidelacrosse
+11,Hero's 2025 Green,95.75,,2025,2023,girls,insidelacrosse
+12,LI Yellow Jackets 2025 Thorn Rella,95.44,,2025,2023,girls,insidelacrosse
+13,Aces Elite 2025,95.41,,2025,2023,girls,insidelacrosse
+14,LI Top Guns 2025 Black,95.0,,2025,2023,girls,insidelacrosse
+15,Salt City Snipers 2025 Pink,94.87,,2025,2023,girls,insidelacrosse
+16,CT Grizzlies 2025 Navy,94.81,,2025,2023,girls,insidelacrosse
+17,STEPS California 2025,94.26,,2025,2023,girls,insidelacrosse
+18,LI Yellow Jackets 2025 Bertolone,93.96,,2025,2023,girls,insidelacrosse
+19,LI Legacy 2025 Blue,93.94,,2025,2023,girls,insidelacrosse
+20,Eagle Stix 2025 Blue,93.91,,2025,2023,girls,insidelacrosse
+21,Florida Select 2025,93.86,,2025,2023,girls,insidelacrosse
+22,Aim 2025,93.4,,2025,2023,girls,insidelacrosse
+23,Team Elevate 2025 Blue,93.22,,2025,2023,girls,insidelacrosse
+24,LI Jesters 2025 Black,93.19,,2025,2023,girls,insidelacrosse
+25,MD United 2025 East,93.0,,2025,2023,girls,insidelacrosse
+26,Tradition 2025,92.9,,2025,2023,girls,insidelacrosse
+27,GRIT Dallas 2025,92.73,,2025,2023,girls,insidelacrosse
+28,Triple Threat Elite 2025 Iron,92.66,,2025,2023,girls,insidelacrosse
+29,DEWLAX 2025 BLACK,92.61,,2025,2023,girls,insidelacrosse
+30,Philly Blast 2025,92.54,,2025,2023,girls,insidelacrosse
+1,M&D 2024 Black,99.9,,2024,2023,girls,insidelacrosse
+2,Monster Elite 2024 Purple,99.08,,2024,2023,girls,insidelacrosse
+3,CT Grizzlies 2024 Navy,98.72,,2024,2023,girls,insidelacrosse
+4,Sky Walkers 2024 Blue,98.45,,2024,2023,girls,insidelacrosse
+5,LI Yellow Jackets Swarm 2024 Weiner,98.37,,2024,2023,girls,insidelacrosse
+6,STEPS Elite NJ 2024 Blue,98.16,,2024,2023,girls,insidelacrosse
+7,Florida Select 2024,97.48,,2024,2023,girls,insidelacrosse
+8,NEMS 2024,97.26,,2024,2023,girls,insidelacrosse
+9,STEPS California 2024,97.22,,2024,2023,girls,insidelacrosse
+10,Big 4 HHH 2024,97.1,,2024,2023,girls,insidelacrosse
+11,Hero's 2024 Green,97.09,,2024,2023,girls,insidelacrosse
+12,Team 180 2024,96.96,,2024,2023,girls,insidelacrosse
+13,Integrity 2024 Green,96.36,,2024,2023,girls,insidelacrosse
+14,Capital 2024 Blue,96.09,,2024,2023,girls,insidelacrosse
+15,LI Legacy 2024 Blue,95.97,,2024,2023,girls,insidelacrosse
+16,Primetime 2024,95.78,,2024,2023,girls,insidelacrosse
+17,DEWLAX 2024 Black,95.71,,2024,2023,girls,insidelacrosse
+18,Mad Dog West Elite 2024,95.69,,2024,2023,girls,insidelacrosse
+19,MD United 2024,95.65,,2024,2023,girls,insidelacrosse
+20,Salt City Snipers 2024 Pink,95.56,,2024,2023,girls,insidelacrosse
+21,Cav Lax Elite 2024,95.43,,2024,2023,girls,insidelacrosse
+22,LI Top Guns 2024 Black,95.35,,2024,2023,girls,insidelacrosse
+23,Jersey Shore Select 2024 Blue,95.06,,2024,2023,girls,insidelacrosse
+24,Storm Select 2024,94.9,,2024,2023,girls,insidelacrosse
+25,Mass Elite 2024 Red,94.8,,2024,2023,girls,insidelacrosse
+26,Aim 2024,94.71,,2024,2023,girls,insidelacrosse
+27,LI Yellow Jackets 2024 Kildare,94.46,,2024,2023,girls,insidelacrosse
+28,MD United 2024 East,94.38,,2024,2023,girls,insidelacrosse
+29,South Jersey Select 2024 Pink,94.31,,2024,2023,girls,insidelacrosse
+30,LI Yellow Jackets 2024 Ramos,94.11,,2024,2023,girls,insidelacrosse
+1,M&D 2024 Black,99.9,,2024,2022,girls,insidelacrosse
+2,CT Grizzlies 2024 Navy,99.67,,2024,2022,girls,insidelacrosse
+3,Sky Walkers 2024 Blue,98.77,,2024,2022,girls,insidelacrosse
+4,STEPS Elite NJ 2024 Blue,98.55,,2024,2022,girls,insidelacrosse
+5,LI Yellow Jackets Swarm 2024 Weiner,98.5,,2024,2022,girls,insidelacrosse
+6,Monster Elite 2024 Purple,98.11,,2024,2022,girls,insidelacrosse
+7,Hero's 2024 Green,97.91,,2024,2022,girls,insidelacrosse
+8,Capital 2024 Blue,97.77,,2024,2022,girls,insidelacrosse
+9,NEMS 2024,97.77,,2024,2022,girls,insidelacrosse
+10,Florida Select 2024,97.13,,2024,2022,girls,insidelacrosse
+1,M&D 2024 Black,99.9,,2024,2021,girls,insidelacrosse
+2,Mad Dog West Elite 2024,99.76,,2024,2021,girls,insidelacrosse
+3,Monster National 2024 Purple,99.75,,2024,2021,girls,insidelacrosse
+4,Sky Walkers 2024 Blue,99.66,,2024,2021,girls,insidelacrosse
+5,LI Yellow Jackets Swarm 2024 Weiner,99.29,,2024,2021,girls,insidelacrosse
+6,NEMS 2024,98.8,,2024,2021,girls,insidelacrosse
+7,Hero's 2024 Green,98.65,,2024,2021,girls,insidelacrosse
+8,STEPS Elite NJ 2024 Blue,98.63,,2024,2021,girls,insidelacrosse
+9,CT Grizzlies 2024 Navy,98.29,,2024,2021,girls,insidelacrosse
+10,Team 180 2024,97.98,,2024,2021,girls,insidelacrosse
+11,Florida Select 2024,97.54,,2024,2021,girls,insidelacrosse
+12,PLC 2024 Black,97.4,,2024,2021,girls,insidelacrosse
+13,3D Colorado 2024,97.07,,2024,2021,girls,insidelacrosse
+14,DEWLAX 2024 Black,96.55,,2024,2021,girls,insidelacrosse
+15,Cavalier 2024,96.08,,2024,2021,girls,insidelacrosse
+16,Integrity 2024,95.36,,2024,2021,girls,insidelacrosse
+17,3D Colorado 2024 AA,95.31,,2024,2021,girls,insidelacrosse
+18,LI Yellow Jackets 2024 Ramos,95.13,,2024,2021,girls,insidelacrosse
+19,Monster Elite 2024,95.01,,2024,2021,girls,insidelacrosse
+20,Capital 2024 Blue,94.89,,2024,2021,girls,insidelacrosse
+--,253 Lacrosse Olympic 2027,--,,2027,2023,girls,insidelacrosse
+--,315 Elite 2027/2028 Black,--,,2027,2023,girls,insidelacrosse
+--,315 Elite 2027/2028 Green,--,,2027,2023,girls,insidelacrosse
+--,3d Colorado 2027 AA,--,,2027,2023,girls,insidelacrosse
+--,Common Goal 2027,--,,2027,2023,girls,insidelacrosse
+--,3D Garden State 2027,--,,2027,2023,girls,insidelacrosse
+--,3d national 2027,--,,2027,2023,girls,insidelacrosse
+--,3d New England 2027,--,,2027,2023,girls,insidelacrosse
+--,3d New England 2027 AA,--,,2027,2023,girls,insidelacrosse
+--,3D VA Metro 2027/2028 Navy,--,,2027,2023,girls,insidelacrosse
+--,3D VA Metro 27 Navy,--,,2027,2023,girls,insidelacrosse
+--,3D VA Metro 27 Orange,--,,2027,2023,girls,insidelacrosse
+--,3 POINT 2027,--,,2027,2023,girls,insidelacrosse
+--,410 West 14U 2027,--,,2027,2023,girls,insidelacrosse
+--,518 Excelerate 2027 Blue,--,,2027,2023,girls,insidelacrosse
+--,518 Excelerate 2027 Green,--,,2027,2023,girls,insidelacrosse
+--,802 Girls Lacrosse 2027,--,,2027,2023,girls,insidelacrosse
+--,Aces Elite 2027,--,,2027,2023,girls,insidelacrosse
+--,Aces Navy 2027,--,,2027,2023,girls,insidelacrosse
+--,Aces Youth Navy 2027,--,,2027,2023,girls,insidelacrosse
+1,Team 91 Long Island 2024 Wolfpack,99.9,,2024,2021,boys,insidelacrosse
+2,Next Level 2024 Blue,99.56,,2024,2021,boys,insidelacrosse
+3,Mad Dog National 2024,99.54,,2024,2021,boys,insidelacrosse
+4,LI Legacy 2024 Taz,99.35,,2024,2021,boys,insidelacrosse
+5,True Illinois 2024 Premier,99.13,,2024,2021,boys,insidelacrosse
+6,Mad Dog West Elite 2024 Black,99.08,,2024,2021,boys,insidelacrosse
+7,Madlax National 2024,99.08,,2024,2021,boys,insidelacrosse
+8,Thunder National 2024,98.67,,2024,2021,boys,insidelacrosse
+9,LI Express 2024 Schwalje,98.57,,2024,2021,boys,insidelacrosse
+10,LI Legacy 2024,98.56,,2024,2021,boys,insidelacrosse
+11,Laxachusetts 2024 Black,98.48,,2024,2021,boys,insidelacrosse
+12,Brotherly Love 2024 Apollo,98.34,,2024,2021,boys,insidelacrosse
+13,West Coast Starz 2024,98.22,,2024,2021,boys,insidelacrosse
+14,True Illinois 2024,98.19,,2024,2021,boys,insidelacrosse
+15,Denver Elite 2024 Silver,98.16,,2024,2021,boys,insidelacrosse
+16,Carolina Miners 2024,98.14,,2024,2021,boys,insidelacrosse
+17,Sweetlax National 2024,98.01,,2024,2021,boys,insidelacrosse
+18,Frog 2024,97.92,,2024,2021,boys,insidelacrosse
+19,Baltimore Crabs 2024,97.85,,2024,2021,boys,insidelacrosse
+20,True National 2024 Black,97.76,,2024,2021,boys,insidelacrosse
+--,2KL 2027,--,,2027,2024,boys,insidelacrosse
+--,2 Way 2027 Carolina,--,,2027,2024,boys,insidelacrosse
+--,2 Way North 2027 Gold,--,,2027,2024,boys,insidelacrosse
+--,2Way 2027 Black,--,,2027,2024,boys,insidelacrosse
+--,2Way North 2027 Black,--,,2027,2024,boys,insidelacrosse
+--,3 Point 2027,--,,2027,2024,boys,insidelacrosse
+--,3D Colorado 2027 Red,--,,2027,2024,boys,insidelacrosse
+--,3D Garden State 2027 AA,--,,2027,2024,boys,insidelacrosse
+--,3D Georgia 2027 Black,--,,2027,2024,boys,insidelacrosse
+--,3D Georgia 2027 Red,--,,2027,2024,boys,insidelacrosse
+--,3d New England 2027 Red,--,,2027,2024,boys,insidelacrosse
+--,3d New England 2027 White,--,,2027,2024,boys,insidelacrosse
+--,3d NE South 2027,--,,2027,2024,boys,insidelacrosse
+--,3D Upstate 2027,--,,2027,2024,boys,insidelacrosse
+--,3D Upstate 2027 White,--,,2027,2024,boys,insidelacrosse
+--,4Leaf Army 2027,--,,2027,2024,boys,insidelacrosse
+--,495 Lacrosse 2027,--,,2027,2024,boys,insidelacrosse
+--,Sixers 2027,--,,2027,2024,boys,insidelacrosse
+--,801 Tribe 2027,--,,2027,2024,boys,insidelacrosse
+--,ADVNC Dallas 2027,--,,2027,2024,boys,insidelacrosse
+--,VA Metro 2027,--,,2027,2019,girls,insidelacrosse
+--,3D Garden State 2027,--,,2027,2022,boys,insidelacrosse
+--,3d Texas 2027,--,,2027,2022,boys,insidelacrosse
+--,Sixers 2027,--,,2027,2022,boys,insidelacrosse
+--,BBL Elite 2027 Black,--,,2027,2022,boys,insidelacrosse
+--,Cannons 2027,--,,2027,2022,boys,insidelacrosse
+--,Cavalry LC 2027,--,,2027,2022,boys,insidelacrosse
+--,DC Express 2027 Black,--,,2027,2022,boys,insidelacrosse
+--,LI Legacy Gators 2027,--,,2027,2022,boys,insidelacrosse
+--,Red Hots 2027 AA,--,,2027,2022,boys,insidelacrosse
+--,Red Hots 2027 White,--,,2027,2022,boys,insidelacrosse
+--,Red Hots National 2027,--,,2027,2022,boys,insidelacrosse
+--,Shore 2 Shore 2027,--,,2027,2022,boys,insidelacrosse
+--,SouthShore 2027,--,,2027,2022,boys,insidelacrosse
+--,Team Maryland 2027,--,,2027,2022,boys,insidelacrosse
+--,True National 2027 Black,--,,2027,2022,boys,insidelacrosse
+--,True National 2027 Green,--,,2027,2022,boys,insidelacrosse
+--,True National White 2027,--,,2027,2022,boys,insidelacrosse
+1,LI Express 2026 Channy,99.9,,2026,2023,boys,insidelacrosse
+2,Sweetlax 2026 Navy,98.21,,2026,2023,boys,insidelacrosse
+3,Laxachusetts 2026 Black,97.56,,2026,2023,boys,insidelacrosse
+4,Baltimore Crabs 2026,97.0,,2026,2023,boys,insidelacrosse
+5,Sweetlax Upstate 2026,96.67,,2026,2023,boys,insidelacrosse
+6,Team 91 Long Island 2026 Storm,96.33,,2026,2023,boys,insidelacrosse
+7,Mad Dog National 2026 Black,95.99,,2026,2023,boys,insidelacrosse
+8,DC Express 2026 Black,95.61,,2026,2023,boys,insidelacrosse
+9,Team Ten 2026,95.46,,2026,2023,boys,insidelacrosse
+10,Hilltop 2026,95.27,,2026,2023,boys,insidelacrosse
+11,NH Tomahawks 2026 Purple,94.96,,2026,2023,boys,insidelacrosse
+12,BBL National 2026,94.61,,2026,2023,boys,insidelacrosse
+13,Alcatraz Outlaws 2026,94.37,,2026,2023,boys,insidelacrosse
+14,3D New England 2026 Red,94.25,,2026,2023,boys,insidelacrosse
+15,Leading Edge 2026,94.09,,2026,2023,boys,insidelacrosse
+16,Sweetlax FL 2026,93.97,,2026,2023,boys,insidelacrosse
+17,True National 2026 Black,93.83,,2026,2023,boys,insidelacrosse
+18,Sixers 2026 Gold,93.68,,2026,2023,boys,insidelacrosse
+19,Eclipse 2026 Black,93.63,,2026,2023,boys,insidelacrosse
+20,Towermen 2026,93.59,,2026,2023,boys,insidelacrosse
+--,214LAX 2025 Volt,--,,2025,2024,girls,insidelacrosse
+--,214Lax Dallas 2025,--,,2025,2024,girls,insidelacrosse
+--,315 Elite 2025,--,,2025,2024,girls,insidelacrosse
+--,3D Colorado 2025 AA,--,,2025,2024,girls,insidelacrosse
+--,Common Goal 2025,--,,2025,2024,girls,insidelacrosse
+--,3d Garden State 2025/2026,--,,2025,2024,girls,insidelacrosse
+--,3D Maryland 2025 Baltimore,--,,2025,2024,girls,insidelacrosse
+--,3D Maryland 2025 Frederick,--,,2025,2024,girls,insidelacrosse
+--,3D New England 2025,--,,2025,2024,girls,insidelacrosse
+--,3d New England 2025/2026,--,,2025,2024,girls,insidelacrosse
+--,3D VA Metro 25 Orange,--,,2025,2024,girls,insidelacrosse
+--,3D Virginia 2025,--,,2025,2024,girls,insidelacrosse
+--,3 Point 2025/2026 Blue,--,,2025,2024,girls,insidelacrosse
+--,3 Point 2025/2026 White,--,,2025,2024,girls,insidelacrosse
+--,518Excelerate 2025,--,,2025,2024,girls,insidelacrosse
+--,Aces Elite 2025,--,,2025,2024,girls,insidelacrosse
+--,Aces 2025 Navy,--,,2025,2024,girls,insidelacrosse
+--,Aces White 2025,--,,2025,2024,girls,insidelacrosse
+--,ADK 2025,--,,2025,2024,girls,insidelacrosse
+--,ADK Peak 2025,--,,2025,2024,girls,insidelacrosse
+--,2 Knights 2026 Barons,--,,2026,2022,boys,insidelacrosse
+--,2Way 2026 Black,--,,2026,2022,boys,insidelacrosse
+--,2Way 2026 Carolina,--,,2026,2022,boys,insidelacrosse
+--,2Way North 2026,--,,2026,2022,boys,insidelacrosse
+--,3D Colorado 2026 A,--,,2026,2022,boys,insidelacrosse
+--,3D Colorado 2026 Bears AA,--,,2026,2022,boys,insidelacrosse
+--,3D Florida 2026,--,,2026,2022,boys,insidelacrosse
+--,3D Garden State 2026,--,,2026,2022,boys,insidelacrosse
+--,3d Georgia 2026 Red,--,,2026,2022,boys,insidelacrosse
+--,3d Gulf Coast 2026,--,,2026,2022,boys,insidelacrosse
+--,3D New England 2026 Blue,--,,2026,2022,boys,insidelacrosse
+--,3D New England 2026 Red,--,,2026,2022,boys,insidelacrosse
+--,3D New England 2026 White,--,,2026,2022,boys,insidelacrosse
+--,3d NE South 2026,--,,2026,2022,boys,insidelacrosse
+--,3d Upstate 2026,--,,2026,2022,boys,insidelacrosse
+--,4Leaf 2026 Army,--,,2026,2022,boys,insidelacrosse
+--,4Leaf 2026 Army Green,--,,2026,2022,boys,insidelacrosse
+--,4Leaf 2026 Navy,--,,2026,2022,boys,insidelacrosse
+--,Sixers 2026 Gold,--,,2026,2022,boys,insidelacrosse
+--,802 Lacrosse 2026,--,,2026,2022,boys,insidelacrosse
+1,LI Yellow Jackets 2025 Spallina,99.9,,2025,2022,girls,insidelacrosse
+2,STEPS Elite NJ 2025 Navy,99.86,,2025,2022,girls,insidelacrosse
+3,Hero's 2025 Green,99.6,,2025,2022,girls,insidelacrosse
+4,M&D 2025 Black,99.44,,2025,2022,girls,insidelacrosse
+5,Big 4 HHH 2025,99.09,,2025,2022,girls,insidelacrosse
+6,Primetime 2025,98.85,,2025,2022,girls,insidelacrosse
+7,Sky Walkers 2025 Blue,98.78,,2025,2022,girls,insidelacrosse
+8,Mass Elite 2025 Red,98.18,,2025,2022,girls,insidelacrosse
+9,Monster Elite 2025 Purple,97.5,,2025,2022,girls,insidelacrosse
+10,CT Grizzlies 2025 Navy,97.19,,2025,2022,girls,insidelacrosse
+11,Capital 2025 Blue,97.12,,2025,2022,girls,insidelacrosse
+12,NXT 2025 Black,97.06,,2025,2022,girls,insidelacrosse
+13,LI Top Guns 2025 Black,96.55,,2025,2022,girls,insidelacrosse
+14,Aces Elite 2025,96.52,,2025,2022,girls,insidelacrosse
+15,LI Yellow Jackets 2025 Bertolone,96.36,,2025,2022,girls,insidelacrosse
+16,LI Yellow Jackets 2025 Janelli,96.15,,2025,2022,girls,insidelacrosse
+17,Team Elevate 2025 Blue,95.52,,2025,2022,girls,insidelacrosse
+18,LBC 2025,95.46,,2025,2022,girls,insidelacrosse
+19,Florida Select 2025,95.43,,2025,2022,girls,insidelacrosse
+20,Cav Lax Elite 2025,95.23,,2025,2022,girls,insidelacrosse
+--,2 Knights 2026 Barons,--,,2026,2024,boys,insidelacrosse
+--,2Way 2026 Black,--,,2026,2024,boys,insidelacrosse
+--,2Way 2026 Blue,--,,2026,2024,boys,insidelacrosse
+--,2Way 2026 Carolina,--,,2026,2024,boys,insidelacrosse
+--,2Way North 2026,--,,2026,2024,boys,insidelacrosse
+--,2Way North 2026 Black,--,,2026,2024,boys,insidelacrosse
+--,2Way North 2026 Savage,--,,2026,2024,boys,insidelacrosse
+--,3 Point 2026 Gold,--,,2026,2024,boys,insidelacrosse
+--,3 Point 2026 Navy,--,,2026,2024,boys,insidelacrosse
+--,3D Garden State 2026 AA,--,,2026,2024,boys,insidelacrosse
+--,3d Georgia 2026 Black,--,,2026,2024,boys,insidelacrosse
+--,3d Georgia 2026 Red,--,,2026,2024,boys,insidelacrosse
+--,3D NE 2026 White,--,,2026,2024,boys,insidelacrosse
+--,3D New England 2026 Blue,--,,2026,2024,boys,insidelacrosse
+--,3D New England 2026 Red,--,,2026,2024,boys,insidelacrosse
+--,3d NE South 2026,--,,2026,2024,boys,insidelacrosse
+--,3D Texas 2026,--,,2026,2024,boys,insidelacrosse
+--,3D Texas JV,--,,2026,2024,boys,insidelacrosse
+--,3D Upstate 2026 Black,--,,2026,2024,boys,insidelacrosse
+--,3d Upstate 2026 Blue,--,,2026,2024,boys,insidelacrosse
+--,315 Elite 2027 Green,--,,2027,2024,girls,insidelacrosse
+--,315 Elite 2027 White,--,,2027,2024,girls,insidelacrosse
+--,3d Colorado 2027 AA,--,,2027,2024,girls,insidelacrosse
+--,Common Goal 2027,--,,2027,2024,girls,insidelacrosse
+--,3D Garden State 2027,--,,2027,2024,girls,insidelacrosse
+--,3d Maryland 2027 Black,--,,2027,2024,girls,insidelacrosse
+--,3d Maryland 2027 Gold,--,,2027,2024,girls,insidelacrosse
+--,3d New England 2027,--,,2027,2024,girls,insidelacrosse
+--,3d VA Metro 2027-28 Silver,--,,2027,2024,girls,insidelacrosse
+--,3D VA Metro 27 Navy,--,,2027,2024,girls,insidelacrosse
+--,3D VA Metro 27 Orange,--,,2027,2024,girls,insidelacrosse
+--,3 POINT 2027,--,,2027,2024,girls,insidelacrosse
+--,Aces Elite 2027,--,,2027,2024,girls,insidelacrosse
+--,AFA 2027,--,,2027,2024,girls,insidelacrosse
+--,All Lax Select 2027,--,,2027,2024,girls,insidelacrosse
+--,Aim 2027,--,,2027,2024,girls,insidelacrosse
+--,All American Aim 2027 Stars & Stripes,--,,2027,2024,girls,insidelacrosse
+--,Ambition Elite 2027,--,,2027,2024,girls,insidelacrosse
+--,ATL Storm 2027 Orange,--,,2027,2024,girls,insidelacrosse
+--,Atlanta Storm 2027 Blue,--,,2027,2024,girls,insidelacrosse
+--,Ethix 2026,--,,2026,2021,girls,insidelacrosse
+--,2 Knights 2024,--,,2024,2024,boys,insidelacrosse
+--,3 Point 2024,--,,2024,2024,boys,insidelacrosse
+--,802 2024,--,,2024,2024,boys,insidelacrosse
+--,ADVNC NDP NorCal 2024,--,,2024,2024,boys,insidelacrosse
+--,ADVNC PNW 2024,--,,2024,2024,boys,insidelacrosse
+--,ADVNC North Bay 2024,--,,2024,2024,boys,insidelacrosse
+--,Black Bear 2024,--,,2024,2024,boys,insidelacrosse
+--,Blackhawks 2024,--,,2024,2024,boys,insidelacrosse
+--,Blak Widow 2024,--,,2024,2024,boys,insidelacrosse
+--,Brighton Academy,--,,2024,2024,boys,insidelacrosse
+--,Buzzards 2024,--,,2024,2024,boys,insidelacrosse
+--,Carolina Hilltoppers Elite 2024,--,,2024,2024,boys,insidelacrosse
+--,Claremont 2024,--,,2024,2024,boys,insidelacrosse
+--,CT Valley 2024 Blue,--,,2024,2024,boys,insidelacrosse
+--,CT Valley 2024 White,--,,2024,2024,boys,insidelacrosse
+--,DEFY Varsity,--,,2024,2024,boys,insidelacrosse
+--,East Ave 2024 AA,--,,2024,2024,boys,insidelacrosse
+--,Elev8 Canada 2026,--,,2024,2024,boys,insidelacrosse
+--,Elev8 Canada 24/25s,--,,2024,2024,boys,insidelacrosse
+--,Clams 2024 Blue,--,,2024,2024,boys,insidelacrosse
+--,Juiced Cherries - 2024,--,,2024,2019,boys,insidelacrosse
+1,3D New England 2024 Red,97.2,,2024,2022,boys,insidelacrosse
+2,True Illinois 2024 Premier AA,97.19,,2024,2022,boys,insidelacrosse
+3,Eclipse 2024 Black,96.62,,2024,2022,boys,insidelacrosse
+4,Baltimore Crabs 2024,96.61,,2024,2022,boys,insidelacrosse
+5,Denver Elite 2024 Silver,96.46,,2024,2022,boys,insidelacrosse
+6,LI Legacy 2024 Taz,96.3,,2024,2022,boys,insidelacrosse
+7,Team 91 Long Island 2024 Wolfpack,96.26,,2024,2022,boys,insidelacrosse
+8,Carolina Miners 2024,96.12,,2024,2022,boys,insidelacrosse
+9,Annapolis Hawks 2024 Green,96.07,,2024,2022,boys,insidelacrosse
+10,LI Express 2024 Schwalje,95.35,,2024,2022,boys,insidelacrosse
+11,Next Level 2024 Blue,95.35,,2024,2022,boys,insidelacrosse
+12,True National 2024 Black,95.15,,2024,2022,boys,insidelacrosse
+13,Brotherly Love 2024 Mueller-Hercules,95.07,,2024,2022,boys,insidelacrosse
+14,Team 91 South 2024,94.86,,2024,2022,boys,insidelacrosse
+15,Thunder National 2024,94.84,,2024,2022,boys,insidelacrosse
+16,Tri-State 2024,94.81,,2024,2022,boys,insidelacrosse
+17,Mad Dog West Elite 2024 Black,94.8,,2024,2022,boys,insidelacrosse
+18,Project Midwest 2024,94.72,,2024,2022,boys,insidelacrosse
+19,Leading Edge 2024,94.69,,2024,2022,boys,insidelacrosse
+20,West Coast Starz 2024 Gold,94.66,,2024,2022,boys,insidelacrosse
+--,214Lax Dallas 2024,--,,2024,2024,girls,insidelacrosse
+--,AFA 2024,--,,2024,2024,girls,insidelacrosse
+--,All Lax 2024,--,,2024,2024,girls,insidelacrosse
+--,BBL Elite 2024 Black,--,,2024,2024,girls,insidelacrosse
+--,Belles 2024,--,,2024,2024,girls,insidelacrosse
+--,Black Dog 2024-2027,--,,2024,2024,girls,insidelacrosse
+--,Black Lax 2024,--,,2024,2024,girls,insidelacrosse
+--,C2 Select 2024 Black,--,,2024,2024,girls,insidelacrosse
+--,CLC 2024 Bold,--,,2024,2024,girls,insidelacrosse
+--,CLC 2024 Pride,--,,2024,2024,girls,insidelacrosse
+--,Charlotte Style 2024,--,,2024,2024,girls,insidelacrosse
+--,Check-Hers 2024 Black,--,,2024,2024,girls,insidelacrosse
+--,Coppermine North 2024,--,,2024,2024,girls,insidelacrosse
+--,CT Grizzlies 2024 Navy,--,,2024,2024,girls,insidelacrosse
+--,Detroit United Panthers 2024,--,,2024,2024,girls,insidelacrosse
+--,Dynamic Lacrosse 2024,--,,2024,2024,girls,insidelacrosse
+--,Dynasty Elite 2024 Bravo,--,,2024,2024,girls,insidelacrosse
+--,Dynasty Elite 2024 Zulu,--,,2024,2024,girls,insidelacrosse
+--,FLG All LI 2024 (Hungtington),--,,2024,2024,girls,insidelacrosse
+--,Florida Shine Elite 2024,--,,2024,2024,girls,insidelacrosse
+1,Madlax National 2024,99.9,,2024,2020,boys,insidelacrosse
+2,Laxachusetts 2024 Black,98.29,,2024,2020,boys,insidelacrosse
+3,Nationals Lacrosse Club 2024,96.81,,2024,2020,boys,insidelacrosse
+4,Thunder LB3 National 2024,96.73,,2024,2020,boys,insidelacrosse
+5,Madlax Capital 2024,96.32,,2024,2020,boys,insidelacrosse
+6,Carolina Miners 2024,94.62,,2024,2020,boys,insidelacrosse
+7,Mad Dog NJ 2024,94.35,,2024,2020,boys,insidelacrosse
+8,True Illinois 2024,94.35,,2024,2020,boys,insidelacrosse
+9,Iron Horse Team Texas 2024,93.5,,2024,2020,boys,insidelacrosse
+10,Looney's 2024 Old Bay,93.28,,2024,2020,boys,insidelacrosse
+11,Laxachusetts 2024 Yellow,93.04,,2024,2020,boys,insidelacrosse
+12,Annapolis Hawks 2024,92.87,,2024,2020,boys,insidelacrosse
+13,West Coast Starz 2024,92.72,,2024,2020,boys,insidelacrosse
+14,Sweetlax National 2024,92.66,,2024,2020,boys,insidelacrosse
+15,Primetime 2024,92.38,,2024,2020,boys,insidelacrosse
+16,LKS 2024,91.52,,2024,2020,boys,insidelacrosse
+17,4Leaf 2024 Army,91.51,,2024,2020,boys,insidelacrosse
+18,Thunder 2024 Blue,91.36,,2024,2020,boys,insidelacrosse
+19,Team 91 Maryland 2024,91.11,,2024,2020,boys,insidelacrosse
+20,Next Level 2024 Blue,91.09,,2024,2020,boys,insidelacrosse
+21,Littlenecks 2024,91.02,,2024,2020,boys,insidelacrosse
+22,Baltimore Crabs 2024,90.84,,2024,2020,boys,insidelacrosse
+23,Resolute 2024,90.72,,2024,2020,boys,insidelacrosse
+24,Gorilla 2024 Silver,90.62,,2024,2020,boys,insidelacrosse
+25,FCA MD 2024 Blue,90.4,,2024,2020,boys,insidelacrosse
+26,Brotherly Love 2024 Apollo,90.29,,2024,2020,boys,insidelacrosse
+27,LI Legacy 2024,90.13,,2024,2020,boys,insidelacrosse
+28,Big 4 HHH 2024,90.11,,2024,2020,boys,insidelacrosse
+29,NH Tomahawks 2024 Purple,89.9,,2024,2020,boys,insidelacrosse
+30,Team Illinois 2024,89.72,,2024,2020,boys,insidelacrosse
+31,Sweetlax FL 2024,89.71,,2024,2020,boys,insidelacrosse
+32,BBL Elite 2024,89.62,,2024,2020,boys,insidelacrosse
+33,NXT 2024 Black,89.29,,2024,2020,boys,insidelacrosse
+34,FCA MD 2024 White,89.04,,2024,2020,boys,insidelacrosse
+35,Philadelphia Freedom 2024 Red,89.02,,2024,2020,boys,insidelacrosse
+36,VLC 2024,88.95,,2024,2020,boys,insidelacrosse
+37,Jersey Thunder 2024,88.94,,2024,2020,boys,insidelacrosse
+38,Patriot Elite 2024 Chrome,88.81,,2024,2020,boys,insidelacrosse
+39,Denver Elite 2024 Silver,88.76,,2024,2020,boys,insidelacrosse
+40,API 2024,88.33,,2024,2020,boys,insidelacrosse
+--,2 Knights 2028,--,,2028,2020,boys,insidelacrosse
+--,Sweetlax FL 2025,--,,2025,2019,boys,insidelacrosse
+--,10th Mountain 2025 2026,--,,2025,2024,boys,insidelacrosse
+--,2 Knights 2025,--,,2025,2024,boys,insidelacrosse
+--,2Way 2025 Black,--,,2025,2024,boys,insidelacrosse
+--,2Way 2025 Blue,--,,2025,2024,boys,insidelacrosse
+--,2Way North 2025 Black,--,,2025,2024,boys,insidelacrosse
+--,2Way North 2025 Gold,--,,2025,2024,boys,insidelacrosse
+--,3 Point 2025 Gold,--,,2025,2024,boys,insidelacrosse
+--,3 Point 2025 Navy,--,,2025,2024,boys,insidelacrosse
+--,3D Colorado 2025 AA,--,,2025,2024,boys,insidelacrosse
+--,3d Florida 2025,--,,2025,2024,boys,insidelacrosse
+--,3D Garden State 2025 AA,--,,2025,2024,boys,insidelacrosse
+--,3d Georgia 2025 Red,--,,2025,2024,boys,insidelacrosse
+--,3D Georgia 2025A,--,,2025,2024,boys,insidelacrosse
+--,3D National 2025,--,,2025,2024,boys,insidelacrosse
+--,3D New England 2025 Blue,--,,2025,2024,boys,insidelacrosse
+--,3D New England 2025 Red,--,,2025,2024,boys,insidelacrosse
+--,3D New England 2025 White,--,,2025,2024,boys,insidelacrosse
+--,3d NE South 2025,--,,2025,2024,boys,insidelacrosse
+--,3D Upstate 2025 Blue,--,,2025,2024,boys,insidelacrosse
+--,3D Upstate 2025 White,--,,2025,2024,boys,insidelacrosse
+--,3d Georgia 2028 Red,--,,2028,2024,boys,insidelacrosse
+--,Ballers 2027-2028,--,,2028,2024,boys,insidelacrosse
+--,Clippers 2028,--,,2028,2024,boys,insidelacrosse
+--,DC Express 2028 Black,--,,2028,2024,boys,insidelacrosse
+--,Mad Dog National 2028 Gold,--,,2028,2024,boys,insidelacrosse
+--,Mesa 2028,--,,2028,2024,boys,insidelacrosse
+--,Next Level 2028 Blue,--,,2028,2024,boys,insidelacrosse
+--,Rock Stars 2028,--,,2028,2024,boys,insidelacrosse
+--,Team 91 Charlotte 2028 Blue,--,,2028,2024,boys,insidelacrosse
+--,Team 91 Charlotte 2030 Blue,--,,2028,2024,boys,insidelacrosse
+--,Team 91 Maryland 2028,--,,2028,2024,boys,insidelacrosse
+--,Team Illinois 2028,--,,2028,2024,boys,insidelacrosse
+--,West Coast Starz 2028 Navy,--,,2028,2024,boys,insidelacrosse
+--,Yellow Jackets Maget/Bertolone 2028,--,,2028,2024,boys,insidelacrosse
+--,True Blue 2028,--,,2028,2019,girls,insidelacrosse
+--,3 Point Lacrosse 2028,--,,2028,2024,girls,insidelacrosse
+--,Aces Navy 2028,--,,2028,2024,girls,insidelacrosse
+--,AIM 2028,--,,2028,2024,girls,insidelacrosse
+--,Atlantic Shore 2028,--,,2028,2024,girls,insidelacrosse
+--,Black Bear 2028/2029,--,,2028,2024,girls,insidelacrosse
+--,Coppermine Black 2028,--,,2028,2024,girls,insidelacrosse
+--,Doylestown Descendants 2028,--,,2028,2024,girls,insidelacrosse
+--,ESLC Pirates 2028,--,,2028,2024,girls,insidelacrosse
+--,Freestyle Lacrosse 2028,--,,2028,2024,girls,insidelacrosse
+--,Grit Austin 2028,--,,2028,2024,girls,insidelacrosse
+--,Hero's 2028 Green,--,,2028,2024,girls,insidelacrosse
+--,Lake Effect Storm Elite 2028,--,,2028,2024,girls,insidelacrosse
+--,Next Level 2028,--,,2028,2024,girls,insidelacrosse
+--,NXT 2028 Black,--,,2028,2024,girls,insidelacrosse
+--,NXT 2028 Volt,--,,2028,2024,girls,insidelacrosse
+--,NXT Air Spark 2028,--,,2028,2024,girls,insidelacrosse
+--,Orange Crush 2028,--,,2028,2024,girls,insidelacrosse
+--,Phantastix 2028 West,--,,2028,2024,girls,insidelacrosse
+--,Philadelphia Freedom 2028 Red,--,,2028,2024,girls,insidelacrosse
+--,Philadelphia Freedom 2028 White,--,,2028,2024,girls,insidelacrosse
+1,Team 91 Long Island 2024 Wolfpack,99.9,,2024,2023,boys,insidelacrosse
+2,True Illinois 2024 Premier AA,99.19,,2024,2023,boys,insidelacrosse
+3,Baltimore Crabs 2024,98.92,,2024,2023,boys,insidelacrosse
+4,Carolina Miners 2024 Black,98.75,,2024,2023,boys,insidelacrosse
+5,LI Legacy 2024 Taz,98.22,,2024,2023,boys,insidelacrosse
+6,3D New England 2024 Red,98.21,,2024,2023,boys,insidelacrosse
+7,Brotherly Love 2024 Mueller-Hercules,98.1,,2024,2023,boys,insidelacrosse
+8,Annapolis Hawks 2024 Green,97.98,,2024,2023,boys,insidelacrosse
+9,Next Level 2024 Blue,97.75,,2024,2023,boys,insidelacrosse
+10,True National 2024 Black,97.5,,2024,2023,boys,insidelacrosse
+11,Denver Elite 2024 Silver,97.48,,2024,2023,boys,insidelacrosse
+12,Team 91 CO 2024 Turbo,97.46,,2024,2023,boys,insidelacrosse
+13,Laxachusetts 2024 Black,97.16,,2024,2023,boys,insidelacrosse
+14,Thunder 2024 Blue,96.66,,2024,2023,boys,insidelacrosse
+15,Tri-State 2024,96.65,,2024,2023,boys,insidelacrosse
+16,Primetime 2024,96.61,,2024,2023,boys,insidelacrosse
+17,Mad Dog West Elite 2024 Black,96.51,,2024,2023,boys,insidelacrosse
+18,Leading Edge 2024,96.5,,2024,2023,boys,insidelacrosse
+19,FCA MD 2024 Blue,96.41,,2024,2023,boys,insidelacrosse
+20,Team 91 South 2024,96.4,,2024,2023,boys,insidelacrosse
+--,2 Knights 2025,--,,2025,2021,boys,insidelacrosse
+--,2Way 2025,--,,2025,2021,boys,insidelacrosse
+--,302 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,3D Colorado 2025 A,--,,2025,2021,boys,insidelacrosse
+--,3D Colorado 2025 AA,--,,2025,2021,boys,insidelacrosse
+--,3d Florida 2025,--,,2025,2021,boys,insidelacrosse
+--,3D Garden State 2025 A,--,,2025,2021,boys,insidelacrosse
+--,3D Garden State 2025 AA,--,,2025,2021,boys,insidelacrosse
+--,3d Georgia 2025 Red,--,,2025,2021,boys,insidelacrosse
+--,3D Georgia 2025A,--,,2025,2021,boys,insidelacrosse
+--,3D Gulf Coast 2025,--,,2025,2021,boys,insidelacrosse
+--,3D National 2025,--,,2025,2021,boys,insidelacrosse
+--,3D New England 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,3D New England 2025 Red,--,,2025,2021,boys,insidelacrosse
+--,3D New England 2025 White,--,,2025,2021,boys,insidelacrosse
+--,3D Upstate 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,4Leaf 2025 Navy,--,,2025,2021,boys,insidelacrosse
+--,6Star Regulators 2025,--,,2025,2021,boys,insidelacrosse
+--,Sixers 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,Sixers 2025 Yellow,--,,2025,2021,boys,insidelacrosse
+--,802 Lacrosse Green 2025,--,,2025,2021,boys,insidelacrosse
+--,802 Lacrosse White 2025,--,,2025,2021,boys,insidelacrosse
+--,ADVNC National 2025,--,,2025,2021,boys,insidelacrosse
+--,ADVNC NorCal 2025,--,,2025,2021,boys,insidelacrosse
+--,ADVNC San Francisco 2025AA,--,,2025,2021,boys,insidelacrosse
+--,AFA 2025,--,,2025,2021,boys,insidelacrosse
+--,Albany Power 2025,--,,2025,2021,boys,insidelacrosse
+--,ALC 2025,--,,2025,2021,boys,insidelacrosse
+--,Alcatraz Outlaws 2025,--,,2025,2021,boys,insidelacrosse
+--,Annapolis Hawks 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,Annapolis Hawks 2025 Green,--,,2025,2021,boys,insidelacrosse
+--,Arizona Outlaws 2025,--,,2025,2021,boys,insidelacrosse
+--,AZ Hot Sauce 2025,--,,2025,2021,boys,insidelacrosse
+--,Baltimore Breaker 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,Baltimore Crabs 2025,--,,2025,2021,boys,insidelacrosse
+--,BBL Elite 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,BBL 2025 North,--,,2025,2021,boys,insidelacrosse
+--,Berserkers 2025,--,,2025,2021,boys,insidelacrosse
+--,Big 4 HHH 2025,--,,2025,2021,boys,insidelacrosse
+--,Black Bear 2025,--,,2025,2021,boys,insidelacrosse
+--,Blackhawks 2025,--,,2025,2021,boys,insidelacrosse
+--,Blak Widow 2025,--,,2025,2021,boys,insidelacrosse
+--,Blue Claws 2025,--,,2025,2021,boys,insidelacrosse
+--,Blue Star 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,Blue Star 2025 Navy,--,,2025,2021,boys,insidelacrosse
+--,Blue Star 2025 White,--,,2025,2021,boys,insidelacrosse
+--,Bolts 2025-2026,--,,2025,2021,boys,insidelacrosse
+--,Brotherhood 2025,--,,2025,2021,boys,insidelacrosse
+--,Brotherly Love 2025,--,,2025,2021,boys,insidelacrosse
+--,Burning River 2025,--,,2025,2021,boys,insidelacrosse
+--,Burning River 2025 Navy,--,,2025,2021,boys,insidelacrosse
+--,Cannons 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,Cannons 2025 Gold,--,,2025,2021,boys,insidelacrosse
+--,Cannons Select 2025,--,,2025,2021,boys,insidelacrosse
+--,Carolina Miners 2025,--,,2025,2021,boys,insidelacrosse
+--,Chaos 2025,--,,2025,2021,boys,insidelacrosse
+--,Dallas Select 2025,--,,2025,2021,boys,insidelacrosse
+--,DC Express 2025,--,,2025,2021,boys,insidelacrosse
+--,DC Express 2025 Orange,--,,2025,2021,boys,insidelacrosse
+--,Denver Elite 2025 Silver,--,,2025,2021,boys,insidelacrosse
+--,Dukes Elite 2025,--,,2025,2021,boys,insidelacrosse
+--,Eclipse 2025,--,,2025,2021,boys,insidelacrosse
+--,ETC 34s 2025,--,,2025,2021,boys,insidelacrosse
+--,Express North 2025,--,,2025,2021,boys,insidelacrosse
+--,Express North 2025 Morgan,--,,2025,2021,boys,insidelacrosse
+--,Express North Potash 2025,--,,2025,2021,boys,insidelacrosse
+--,Express North WSYL 2025 AA,--,,2025,2021,boys,insidelacrosse
+--,FCA MD 2025 White,--,,2025,2021,boys,insidelacrosse
+--,FCA Richmond 2025A,--,,2025,2021,boys,insidelacrosse
+--,Littlenecks 2025 A,--,,2025,2021,boys,insidelacrosse
+--,Littlenecks 2025 AA,--,,2025,2021,boys,insidelacrosse
+--,Florida Crabs 2025 Carter,--,,2025,2021,boys,insidelacrosse
+--,Fog City 2025,--,,2025,2021,boys,insidelacrosse
+--,Fusion PA 2025,--,,2025,2021,boys,insidelacrosse
+--,Georgia Tigers Elite 25/26,--,,2025,2021,boys,insidelacrosse
+--,Gonzo 2025,--,,2025,2021,boys,insidelacrosse
+--,Gorilla 2025,--,,2025,2021,boys,insidelacrosse
+--,Greene Turtle 2025,--,,2025,2021,boys,insidelacrosse
+--,Ground Control 2025,--,,2025,2021,boys,insidelacrosse
+--,Harvest 2025,--,,2025,2021,boys,insidelacrosse
+--,HEADstrong Lehigh Valley 2025,--,,2025,2021,boys,insidelacrosse
+--,Hilltop 2025,--,,2025,2021,boys,insidelacrosse
+--,HLC 2025,--,,2025,2021,boys,insidelacrosse
+--,HOCO 2025 Pink,--,,2025,2021,boys,insidelacrosse
+--,Houlagans 2025,--,,2025,2021,boys,insidelacrosse
+--,Houston Hounds 2025,--,,2025,2021,boys,insidelacrosse
+--,Igloo 2025 Flurry,--,,2025,2021,boys,insidelacrosse
+--,Impulse 2025,--,,2025,2021,boys,insidelacrosse
+--,Impulse 2025,--,,2025,2021,boys,insidelacrosse
+--,Iron Horse Team Texas 2025,--,,2025,2021,boys,insidelacrosse
+--,Iron Horse Houston 2025,--,,2025,2021,boys,insidelacrosse
+--,Jersey Express 2025,--,,2025,2021,boys,insidelacrosse
+--,Jersey Express 2025 AA,--,,2025,2021,boys,insidelacrosse
+--,Jersey Thunder 2025 West,--,,2025,2021,boys,insidelacrosse
+--,Jersey Thunder Central 2025,--,,2025,2021,boys,insidelacrosse
+--,Juiced Cherries 2025,--,,2025,2021,boys,insidelacrosse
+--,Kings 2025,--,,2025,2021,boys,insidelacrosse
+--,Koopers 2025,--,,2025,2021,boys,insidelacrosse
+--,Koopers 2025,--,,2025,2021,boys,insidelacrosse
+--,LA Mavs 2025,--,,2025,2021,boys,insidelacrosse
+--,Laxachusetts 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,Laxachusetts 2025 Green,--,,2025,2021,boys,insidelacrosse
+--,Laxachusetts 2025 Navy,--,,2025,2021,boys,insidelacrosse
+--,Laxachusetts 2025 White,--,,2025,2021,boys,insidelacrosse
+--,Laxachusetts 2025 Yellow,--,,2025,2021,boys,insidelacrosse
+--,Leading Edge 2025,--,,2025,2021,boys,insidelacrosse
+--,Legends National 2025,--,,2025,2021,boys,insidelacrosse
+--,Team Eighteen 2025,--,,2025,2021,boys,insidelacrosse
+--,LI Express 2025 Channy,--,,2025,2021,boys,insidelacrosse
+--,LI Express 2025 Davis,--,,2025,2021,boys,insidelacrosse
+--,LI Legacy 2025 Select,--,,2025,2021,boys,insidelacrosse
+--,LI Rush 2025,--,,2025,2021,boys,insidelacrosse
+--,LI Rush 2025 Gold Rush,--,,2025,2021,boys,insidelacrosse
+--,Looney's 2025,--,,2025,2021,boys,insidelacrosse
+--,LKS 2025,--,,2025,2021,boys,insidelacrosse
+--,Low & Away 2025-2026,--,,2025,2021,boys,insidelacrosse
+--,Mad Dog National 2025,--,,2025,2021,boys,insidelacrosse
+--,Mad Dog NJ 2025,--,,2025,2021,boys,insidelacrosse
+--,Mad Dog NJ 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,Mad Dog West Elite 2025,--,,2025,2021,boys,insidelacrosse
+--,Madlax Capital 2025,--,,2025,2021,boys,insidelacrosse
+--,Madlax Nationals 2025,--,,2025,2021,boys,insidelacrosse
+--,Madlax Oregon 2025 AA,--,,2025,2021,boys,insidelacrosse
+--,MD Roughriders 2025,--,,2025,2021,boys,insidelacrosse
+--,Mesa PA MD 2025,--,,2025,2021,boys,insidelacrosse
+--,Nationals Lacrosse Club 2025,--,,2025,2021,boys,insidelacrosse
+--,NEPA Rattlers 2025,--,,2025,2021,boys,insidelacrosse
+--,New England Oaks 2025,--,,2025,2021,boys,insidelacrosse
+--,New England Twisters 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,New England Twisters 2025 Orange,--,,2025,2021,boys,insidelacrosse
+--,Next Level 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,Next Level 2025 Red,--,,2025,2021,boys,insidelacrosse
+--,NH Tomahawks 2025 Gold,--,,2025,2021,boys,insidelacrosse
+--,NH Tomahawks 2025 Purple,--,,2025,2021,boys,insidelacrosse
+--,NJ Riot 2025 Chaos,--,,2025,2021,boys,insidelacrosse
+--,NXT 2025,--,,2025,2021,boys,insidelacrosse
+--,NXT 2025 Silver,--,,2025,2021,boys,insidelacrosse
+--,NY Reign 2025,--,,2025,2021,boys,insidelacrosse
+--,NE Oaks 2025,--,,2025,2021,boys,insidelacrosse
+--,Ohio Premier 2025,--,,2025,2021,boys,insidelacrosse
+--,Orange Crush 2025,--,,2025,2021,boys,insidelacrosse
+--,PA Roughriders 2025,--,,2025,2021,boys,insidelacrosse
+--,Patriot Elite 2025,--,,2025,2021,boys,insidelacrosse
+--,Patriot Elite 2025 Navy,--,,2025,2021,boys,insidelacrosse
+--,Patriot Elite 2025 White,--,,2025,2021,boys,insidelacrosse
+--,Patriot Stars 2025,--,,2025,2021,boys,insidelacrosse
+--,Penguins 2025 Orange,--,,2025,2021,boys,insidelacrosse
+--,Philadelphia Freedom 2025,--,,2025,2021,boys,insidelacrosse
+--,Piatelli Central 2025 Murphy,--,,2025,2021,boys,insidelacrosse
+--,Platform 2025 A,--,,2025,2021,boys,insidelacrosse
+--,Platform 2025 B,--,,2025,2021,boys,insidelacrosse
+--,PrimeTime 2025,--,,2025,2021,boys,insidelacrosse
+--,Project Midwest 2025,--,,2025,2021,boys,insidelacrosse
+--,Rebels LC 2025 Chrome,--,,2025,2021,boys,insidelacrosse
+--,Rebels LC 2025 Red Hawks,--,,2025,2021,boys,insidelacrosse
+--,Rebels LC 2025 Red Hawks,--,,2025,2021,boys,insidelacrosse
+--,Rebels LC 2025 Red Hawks,--,,2025,2021,boys,insidelacrosse
+--,Red Devil 2025 Heat,--,,2025,2021,boys,insidelacrosse
+--,Resolute 2025,--,,2025,2021,boys,insidelacrosse
+--,Resolute Cinci A 2025,--,,2025,2021,boys,insidelacrosse
+--,Resolute Cinci AA 2025,--,,2025,2021,boys,insidelacrosse
+--,Resolute Cleveland 2025/2026,--,,2025,2021,boys,insidelacrosse
+--,Resolute Columbus 2025,--,,2025,2021,boys,insidelacrosse
+--,RI Bulldogs 2025,--,,2025,2021,boys,insidelacrosse
+--,Richmond Hawks 2025 Daly,--,,2025,2021,boys,insidelacrosse
+--,Rip It 2025,--,,2025,2021,boys,insidelacrosse
+--,Rock 2025 Top 22,--,,2025,2021,boys,insidelacrosse
+--,Rock 2025 Top 44,--,,2025,2021,boys,insidelacrosse
+--,RC Blues 2025,--,,2025,2021,boys,insidelacrosse
+--,Seattle Starz 2025 Navy,--,,2025,2021,boys,insidelacrosse
+--,Second City 2025,--,,2025,2021,boys,insidelacrosse
+--,Seven Hills 2025 White,--,,2025,2021,boys,insidelacrosse
+--,Shore2Shore 2025,--,,2025,2021,boys,insidelacrosse
+--,Shore2Shore 2025,--,,2025,2021,boys,insidelacrosse
+--,Sidewinders 2025,--,,2025,2021,boys,insidelacrosse
+--,Silverbacks 2025,--,,2025,2021,boys,insidelacrosse
+--,Silverfin 2025,--,,2025,2021,boys,insidelacrosse
+--,SoCal Bulls 2025,--,,2025,2021,boys,insidelacrosse
+--,Southern Stars 2025,--,,2025,2021,boys,insidelacrosse
+--,SouthShore 2025,--,,2025,2021,boys,insidelacrosse
+--,SouthStar 2025,--,,2025,2021,boys,insidelacrosse
+--,Stealth 2025 Legacy,--,,2025,2021,boys,insidelacrosse
+--,STEPS Elite 2025,--,,2025,2021,boys,insidelacrosse
+--,Sweetlax FL 2025,--,,2025,2021,boys,insidelacrosse
+--,Sweetlax National 2025,--,,2025,2021,boys,insidelacrosse
+--,Sweetlax NY 2025,--,,2025,2021,boys,insidelacrosse
+--,Sweetlax Upstate 2025,--,,2025,2021,boys,insidelacrosse
+--,Team 11 2025,--,,2025,2021,boys,insidelacrosse
+--,Team 91 Carolina 2025,--,,2025,2021,boys,insidelacrosse
+--,Team 91 Charlotte 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,Team 91 Charlotte 2025 White,--,,2025,2021,boys,insidelacrosse
+--,Team 91 Colorado 2025,--,,2025,2021,boys,insidelacrosse
+--,Team 91 Long Island 2025 Hornets,--,,2025,2021,boys,insidelacrosse
+--,Team 91 Long Island 2025 Shock,--,,2025,2021,boys,insidelacrosse
+--,Team 91 Maryland 2025,--,,2025,2021,boys,insidelacrosse
+--,Team 91 National 2025,--,,2025,2021,boys,insidelacrosse
+--,Team 91 South 2025,--,,2025,2021,boys,insidelacrosse
+--,Team Carolina 2025,--,,2025,2021,boys,insidelacrosse
+--,Team CT Navy 2025,--,,2025,2021,boys,insidelacrosse
+--,Team CT White 2025,--,,2025,2021,boys,insidelacrosse
+--,Team Lacrosse 2025,--,,2025,2021,boys,insidelacrosse
+--,Team Maryland 2025,--,,2025,2021,boys,insidelacrosse
+--,Team Maryland 2025,--,,2025,2021,boys,insidelacrosse
+--,Team MN 2025,--,,2025,2021,boys,insidelacrosse
+--,Team Ten 2025,--,,2025,2021,boys,insidelacrosse
+--,Team Turnpike 2025 Exit 8,--,,2025,2021,boys,insidelacrosse
+--,Texas Mustangs 2025,--,,2025,2021,boys,insidelacrosse
+--,Texas Oilers 2025,--,,2025,2021,boys,insidelacrosse
+--,Thunder 2025 Blue,--,,2025,2021,boys,insidelacrosse
+--,Thunder 2025 Orange,--,,2025,2021,boys,insidelacrosse
+--,Thunder National 2025,--,,2025,2021,boys,insidelacrosse
+--,Top Caliber 2025,--,,2025,2021,boys,insidelacrosse
+--,Tri-State 2025,--,,2025,2021,boys,insidelacrosse
+--,True CO 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,True CO 2025 Green,--,,2025,2021,boys,insidelacrosse
+--,True Illinois 2025 Black AA,--,,2025,2021,boys,insidelacrosse
+--,True Illinois 2025 Premier AA,--,,2025,2021,boys,insidelacrosse
+--,True Annapolis 2025,--,,2025,2021,boys,insidelacrosse
+--,True Annapolis 2025 White,--,,2025,2021,boys,insidelacrosse
+--,True Baltimore 2025,--,,2025,2021,boys,insidelacrosse
+--,True Michigan 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,True Michigan 2025 Green,--,,2025,2021,boys,insidelacrosse
+--,True MN 2025 AAA,--,,2025,2021,boys,insidelacrosse
+--,True Midwest 2025,--,,2025,2021,boys,insidelacrosse
+--,True National 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,True National 2025 Green,--,,2025,2021,boys,insidelacrosse
+--,True New Jersey 2025,--,,2025,2021,boys,insidelacrosse
+--,True North Carolina 2025,--,,2025,2021,boys,insidelacrosse
+--,True North Carolina U14,--,,2025,2021,boys,insidelacrosse
+--,True PA Black 2025,--,,2025,2021,boys,insidelacrosse
+--,True UT 2025,--,,2025,2021,boys,insidelacrosse
+--,Upper Level 2025,--,,2025,2021,boys,insidelacrosse
+--,VA Beach Hawks 2025 Pizarro,--,,2025,2021,boys,insidelacrosse
+--,Vegas Starz 2025,--,,2025,2021,boys,insidelacrosse
+--,VLC 2025,--,,2025,2021,boys,insidelacrosse
+--,West Coast Starz 2025 Gold,--,,2025,2021,boys,insidelacrosse
+--,West Coast Starz 2025 Navy,--,,2025,2021,boys,insidelacrosse
+--,West Coast Warriors 2025,--,,2025,2021,boys,insidelacrosse
+--,Zingos 2025 Black,--,,2025,2021,boys,insidelacrosse
+--,Zingos 2025 Blue,--,,2025,2021,boys,insidelacrosse
+1,YELLOW JACKETS 2026 Manning,99.9,,2026,2023,girls,insidelacrosse
+2,Aces Elite 2026,99.27,,2026,2023,girls,insidelacrosse
+3,Hero's 2026 Green,99.02,,2026,2023,girls,insidelacrosse
+4,LI Jesters 2026 Black,98.59,,2026,2023,girls,insidelacrosse
+5,M&D 2026 Black,98.57,,2026,2023,girls,insidelacrosse
+6,STEPS California 2026,97.48,,2026,2023,girls,insidelacrosse
+7,Alliance National 2026,97.24,,2026,2023,girls,insidelacrosse
+8,Eagle Stix 2026 Blue,97.02,,2026,2023,girls,insidelacrosse
+9,LI Top Guns 2026 Black,96.81,,2026,2023,girls,insidelacrosse
+10,PrimeTime 2026,96.43,,2026,2023,girls,insidelacrosse
+11,Capital 2026 Blue,96.06,,2026,2023,girls,insidelacrosse
+12,CLC 2026 Pride,95.89,,2026,2023,girls,insidelacrosse
+13,Sky Walkers 2026 Blue,95.41,,2026,2023,girls,insidelacrosse
+14,Florida Select 2026,95.3,,2026,2023,girls,insidelacrosse
+15,BBL Elite 2026 Black,95.28,,2026,2023,girls,insidelacrosse
+16,NXT 2026 Black,95.17,,2026,2023,girls,insidelacrosse
+17,Integrity 2026 Green,95.07,,2026,2023,girls,insidelacrosse
+18,Philly Blast 2026 Spirit,95.07,,2026,2023,girls,insidelacrosse
+19,Monster Elite 2026 Purple,94.75,,2026,2023,girls,insidelacrosse
+20,STEPS Elite NJ 2026 Blue,94.7,,2026,2023,girls,insidelacrosse
+21,YJ 2026 Torre,94.52,,2026,2023,girls,insidelacrosse
+22,Mass Elite 2026 Red,94.32,,2026,2023,girls,insidelacrosse
+23,TLC 2026 Red,94.17,,2026,2023,girls,insidelacrosse
+24,Big 4 HHH 2026,94.14,,2026,2023,girls,insidelacrosse
+25,LI Legacy 2026 Blue,94.13,,2026,2023,girls,insidelacrosse
+26,M&D 2026 Red,93.89,,2026,2023,girls,insidelacrosse
+27,Mad Dog West Elite 2026,93.2,,2026,2023,girls,insidelacrosse
+28,Delco Select 2026,93.17,,2026,2023,girls,insidelacrosse
+29,CT Grizzlies 2026 Navy,93.02,,2026,2023,girls,insidelacrosse
+30,Florida Shine Elite 2026,92.82,,2026,2023,girls,insidelacrosse
+--,2KL 2027,--,,2027,2023,boys,insidelacrosse
+--,2Way 2027 Black,--,,2027,2023,boys,insidelacrosse
+--,3D Garden State 2027,--,,2027,2023,boys,insidelacrosse
+--,3D Georgia 2027 Red,--,,2027,2023,boys,insidelacrosse
+--,3d New England 2027 Blue,--,,2027,2023,boys,insidelacrosse
+--,3d New England 2027 Red,--,,2027,2023,boys,insidelacrosse
+--,3d New England 2027 White,--,,2027,2023,boys,insidelacrosse
+--,3d Texas 2027,--,,2027,2023,boys,insidelacrosse
+--,4Leaf 2027 Navy,--,,2027,2023,boys,insidelacrosse
+--,Sixers 2027,--,,2027,2023,boys,insidelacrosse
+--,ADVNC 2027,--,,2027,2023,boys,insidelacrosse
+--,ADVNC NDP Norcal 2027,--,,2027,2023,boys,insidelacrosse
+--,ADVNC Sacramento 2027,--,,2027,2023,boys,insidelacrosse
+--,Albany Power 2027,--,,2027,2023,boys,insidelacrosse
+--,Alcatraz Outlaws 2027,--,,2027,2023,boys,insidelacrosse
+--,Angel City JV,--,,2027,2023,boys,insidelacrosse
+--,Annapolis Hawks 2027,--,,2027,2023,boys,insidelacrosse
+--,AZ Starz 2027,--,,2027,2023,boys,insidelacrosse
+--,Baltimore Crabs 2027,--,,2027,2023,boys,insidelacrosse
+--,Bay Area Dragons 2027,--,,2027,2023,boys,insidelacrosse
+--,3D Garden State '25-'26,--,,2026,2022,girls,insidelacrosse
+--,AIM 2026,--,,2026,2022,girls,insidelacrosse
+--,Atlanta Storm 2026 Blue,--,,2026,2022,girls,insidelacrosse
+--,Atlanta Storm 2026 Orange,--,,2026,2022,girls,insidelacrosse
+--,BBL North 2026,--,,2026,2022,girls,insidelacrosse
+--,Belles 2026,--,,2026,2022,girls,insidelacrosse
+--,Big 4 HHH 2026,--,,2026,2022,girls,insidelacrosse
+--,Cav Lax Elite 2026,--,,2026,2022,girls,insidelacrosse
+--,CLC 2026 Pride,--,,2026,2022,girls,insidelacrosse
+--,Check Hers 2026 Black,--,,2026,2022,girls,insidelacrosse
+--,CT Grizzlies 2026 Navy,--,,2026,2022,girls,insidelacrosse
+--,CT Grizzlies 2026 Yellow,--,,2026,2022,girls,insidelacrosse
+--,Dark Horse '25-'26,--,,2026,2022,girls,insidelacrosse
+--,DEWLAX 2026 Black,--,,2026,2022,girls,insidelacrosse
+--,DEWLAX 2026 ORANGE,--,,2026,2022,girls,insidelacrosse
+--,FCA Upstate '25-'26,--,,2026,2022,girls,insidelacrosse
+--,FLG 2026,--,,2026,2022,girls,insidelacrosse
+--,FLG Blue Devils 2026-2027,--,,2026,2022,girls,insidelacrosse
+--,Florida Shine Elite 2026,--,,2026,2022,girls,insidelacrosse
+--,Gold Coast 2026 Silver,--,,2026,2022,girls,insidelacrosse
+1,Team 91 Maryland 2025,98.72,,2025,2022,boys,insidelacrosse
+2,Laxachusetts 2025 Black,97.95,,2025,2022,boys,insidelacrosse
+3,PrimeTime 2025,97.27,,2025,2022,boys,insidelacrosse
+4,Madlax Nationals 2025,96.74,,2025,2022,boys,insidelacrosse
+5,Sweetlax 2025 Navy,96.69,,2025,2022,boys,insidelacrosse
+6,Annapolis Hawks 2025 Green,96.66,,2025,2022,boys,insidelacrosse
+7,3D New England 2025 Red,96.58,,2025,2022,boys,insidelacrosse
+8,Hilltop 2025,96.46,,2025,2022,boys,insidelacrosse
+9,Team 91 Long Island 2025 Shock,96.35,,2025,2022,boys,insidelacrosse
+10,Thunder National 2025,96.18,,2025,2022,boys,insidelacrosse
+11,Sweetlax Upstate 2025,96.16,,2025,2022,boys,insidelacrosse
+12,West Coast Starz 2025 Gold,96.06,,2025,2022,boys,insidelacrosse
+13,Team Ten 2025,95.73,,2025,2022,boys,insidelacrosse
+14,Express North 2025 Black,95.64,,2025,2022,boys,insidelacrosse
+15,Leading Edge 2025,95.4,,2025,2022,boys,insidelacrosse
+16,LI Express 2025 Channy,95.39,,2025,2022,boys,insidelacrosse
+17,Madlax Capital 2025,95.27,,2025,2022,boys,insidelacrosse
+18,Southern Stars 2025,95.02,,2025,2022,boys,insidelacrosse
+19,Florida Crabs 2025 Montes,94.88,,2025,2022,boys,insidelacrosse
+20,True National 2025 Black,94.86,,2025,2022,boys,insidelacrosse
+--,Tigers XXVI 2026,--,,2026,2021,boys,insidelacrosse
+--,Ethix 2027,--,,2027,2021,boys,insidelacrosse
+--,Red Hots 2027,--,,2027,2021,boys,insidelacrosse
+--,Bishop O'Connell HS 2024,--,,2024,2019,girls,insidelacrosse
+--,Bay Area 2024,--,,2024,2020,girls,insidelacrosse
+--,Capital 2024 Blue,--,,2024,2020,girls,insidelacrosse
+--,Cardinal 2024,--,,2024,2020,girls,insidelacrosse
+--,Check-Hers 2024 Black,--,,2024,2020,girls,insidelacrosse
+--,Coppermine 2024 Black,--,,2024,2020,girls,insidelacrosse
+--,Coppermine 2024 Blue,--,,2024,2020,girls,insidelacrosse
+--,CT Grizzlies 2024 Navy,--,,2024,2020,girls,insidelacrosse
+--,CT Grizzlies 2024 Yellow,--,,2024,2020,girls,insidelacrosse
+--,Hero's 2024 Green,--,,2024,2020,girls,insidelacrosse
+--,Hero's 2024 White,--,,2024,2020,girls,insidelacrosse
+--,HOCO 2024 Black,--,,2024,2020,girls,insidelacrosse
+--,LI Legacy 2024 Blue,--,,2024,2020,girls,insidelacrosse
+--,Limitless 2024,--,,2024,2020,girls,insidelacrosse
+--,Lucky Lax 2024,--,,2024,2020,girls,insidelacrosse
+--,M&D 2024 Black,--,,2024,2020,girls,insidelacrosse
+--,M&D 2024 Red,--,,2024,2020,girls,insidelacrosse
+--,M&D Orlando 2024 Black,--,,2024,2020,girls,insidelacrosse
+--,MC Elite 2024 Midnight,--,,2024,2020,girls,insidelacrosse
+--,NEMS 2024,--,,2024,2020,girls,insidelacrosse
+--,NH Tomahawks 2024 Purple,--,,2024,2020,girls,insidelacrosse
+--,2 Knights 2028,--,,2028,2019,boys,insidelacrosse
+--,CT Chargers - 2028,--,,2028,2019,boys,insidelacrosse
+--,Sweetlax FL 2025,--,,2025,2020,boys,insidelacrosse
+--,2 Knights 2028,--,,2028,2021,boys,insidelacrosse
