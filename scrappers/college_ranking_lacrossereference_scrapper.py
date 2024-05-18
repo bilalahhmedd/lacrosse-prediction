@@ -1,6 +1,14 @@
 """ college reference scraping module """
+import os 
+import sys
+sys.path.insert(1,os.path.join(os.path.realpath('__file__').split("lacrosse-prediction")[0],'lacrosse-prediction'))
+from config.config import category_config_dict
 
-import os
+configuration = category_config_dict['colleges_ranking']
+CATEGORY_NAME = configuration['category_name']
+WEBSOURCE = configuration['websources_list'][0]
+OUTPUT_FOLDER_PATH=os.path.join(configuration['scrapper_output_folder_path'],WEBSOURCE)
+
 from time import sleep
 import pandas as pd
 from selenium import webdriver
@@ -45,9 +53,10 @@ def get_page_table(driver):
         return col_names, all_rows_entries_list
     except TimeoutException as ex:
         print ("oppss!\ntable wasnt found\n exiting...")
+        print(ex)
         return False
     except Exception as e:
-        print("error found ! \n ")
+        print(e)
         return False
 
 
@@ -67,20 +76,26 @@ base_links={'LAX REFERENCE COLLEGE DIVISION 1 (WOMEN)' : 'https://lacrosserefere
             'LAX REFERENCE COLLEGE DIVISION 3 (MEN)': 'https://lacrossereference.com/stats/rpi-d3-men/'
 }
 
-output_folder_name="../data/extra/college_ranking/raw/lacrosse_reference"
 
 
 
-if __name__ == "__main__":
-    if (not os.path.exists(output_folder_name)):
-        os.mkdir(output_folder_name)
-        print(f'{output_folder_name} created success')
+def main():
+    if (not os.path.exists(OUTPUT_FOLDER_PATH)):
+        print(f'{OUTPUT_FOLDER_PATH} not exist')
+        return False
     driver = webdriver.Chrome(options=opt)
     for key_catgory in base_links.keys():
         print(f"scrapping for {key_catgory}\n")
         driver.get(base_links[key_catgory])
         col_names, rows_list = get_page_table(driver)
-        concate_n_write_df(col_names, rows_list, output_folder_name, key_catgory)
+        concate_n_write_df(col_names, rows_list, OUTPUT_FOLDER_PATH, key_catgory)
     
     print("completed successfully")
     driver.close()
+    return True
+
+if __name__ == "__main__":
+    if main():
+        print("success")
+    else:
+        print("fail")

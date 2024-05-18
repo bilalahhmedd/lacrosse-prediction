@@ -1,30 +1,29 @@
-import os
+import os 
+import sys
+sys.path.insert(1,os.path.join(os.path.realpath('__file__').split("lacrosse-prediction")[0],'lacrosse-prediction'))
 from time import sleep
 from datetime import datetime
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-# from selenium.webdriver.support import expected_conditions as EC
-# from selenium.webdriver.support.wait import WebDriverWait
+from config.config import category_config_dict
 
-# import chromedriver_autoinstaller
-# chromedriver_autoinstaller.install()
 
-opt = webdriver.ChromeOptions()
-opt.add_argument("--start-maximized")
-opt.add_experimental_option("excludeSwitches", ["disable-popup-blocking"])
-# opt.add_argument("--headless")
-# opt.add_argument("--lang=en")
-
+configuration = category_config_dict['camps_and_clinics']
+CATEGORY_NAME = configuration['category_name']
+WEBSOURCE = configuration['websources_list'][0]
+OUTPUT_FOLDER_PATH=os.path.join(configuration['scrapper_output_folder_path'],WEBSOURCE)
 WRITE_FLAG=True
 
 root_data_folder="../data/raw/campsandclinincs/"
 output_folder_name="airtable"
 output_file_name=datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-output_file_path = os.path.join(root_data_folder,output_folder_name)
-if not os.path.exists(output_file_path):
-    os.makedirs(output_file_path)
-    print(f"{output_file_path} folder created success")
+
+opt = webdriver.ChromeOptions()
+opt.add_argument("--start-maximized")
+opt.add_experimental_option("excludeSwitches", ["disable-popup-blocking"])
+opt.add_argument("--headless")
+
 
 
 base_link="https://airtable.com/app4Y6v4bZxmLOcek/shrLGPI1xHHYhLflR/tblkRKZ9XVnWNQjI3?backgroundColor=green&layout=card&viewControls=on"
@@ -106,19 +105,28 @@ def fetch_webpage_table_data(
 
 def main():
     """main execution of code """
-    driver = webdriver.Chrome(options=opt)
-    if load_webpage_dynamically(base_link,driver):
-        all_rows_dict = fetch_webpage_table_data(driver)
-        if WRITE_FLAG:
-            df_main = pd.DataFrame(all_rows_dict)
-            if df_main.shape != (0,0):
-                df_main.to_csv(f"{output_file_path}/{output_file_name}.csv", index=False)
-                print(f'completed,\n{df_main.shape} record found, \n {output_file_name} File saved successfully...')
-            else:
-                print('data frame is empty')
+    if not os.path.exists(OUTPUT_FOLDER_PATH):
+        print(f"{OUTPUT_FOLDER_PATH} not exist")
+        return False
     else:
-        print('main page loading failed')
+        driver = webdriver.Chrome(options=opt)
+        if load_webpage_dynamically(base_link,driver):
+            all_rows_dict = fetch_webpage_table_data(driver)
+            if WRITE_FLAG:
+                df_main = pd.DataFrame(all_rows_dict)
+                if df_main.shape != (0,0):
+                    df_main.to_csv(f"{OUTPUT_FOLDER_PATH}/{output_file_name}.csv", index=False)
+                    print(f'completed,\n{df_main.shape} record found, \n {output_file_name} File saved successfully...')
+                else:
+                    print('data frame is empty')
+                return True
+        else:
+            print('main page loading failed')
+            return False
 
 
 if __name__ =="__main__":
-    main()
+    if main():
+        print("success")
+    else:
+        print("fail")
