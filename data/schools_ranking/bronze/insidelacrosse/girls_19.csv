@@ -1,0 +1,326 @@
+rank,team,w,l,rating,link,gender
+1,Ridgewood (NJ),23,1,99.9,,girls
+2,McDonogh School (MD),21,0,99.84,,girls
+3,Oak Knoll School (NJ),20,2,99.74,,girls
+4,Georgetown Visitation (DC),18,5,98.72,,girls
+5,Eastport South Manor (NY),16,1,98.21,,girls
+6,Sts. Stephen's & Agnes (VA),25,2,98.2,,girls
+7,Episcopal Academy (PA),16,1,97.63,,girls
+8,Greenwich Academy (CT),13,2,97.49,,girls
+9,West Babylon (NY),13,2,97.47,,girls
+10,Bayport Blue Point (NY),16,2,97.4,,girls
+11,Manhasset (NY),15,3,97.33,,girls
+12,Summit (NJ),15,3,97.25,,girls
+13,American Heritage (FL),22,2,97.15,,girls
+14,Darien (CT),21,2,97.03,,girls
+15,Archbishop Spalding (MD),15,4,96.93,,girls
+16,Agnes Irwin (PA),21,8,96.9,,girls
+17,Northport (NY),16,1,96.81,,girls
+18,Mt. Sinai (NY),12,3,96.63,,girls
+19,Severna Park (MD),14,1,96.44,,girls
+20,Notre Dame Academy (PA),18,3,96.23,,girls
+21,Marriotts Ridge (MD),12,3,96.09,,girls
+22,Notre Dame Prep (MD),13,6,96.05,,girls
+23,Moorestown (NJ),17,4,96.02,,girls
+24,Bishop Ireton (VA),17,6,95.97,,girls
+25,Milton (GA),22,1,95.87,,girls
+26,Mendham (NJ),17,3,95.86,,girls
+27,Glenelg (MD),14,4,95.75,,girls
+28,Colorado Academy (CO),17,0,95.55,,girls
+29,Harriton (PA),24,2,95.53,,girls
+30,St. Paul's SG (MD),12,10,95.48,,girls
+31,Walpole (MA),4,0,95.34,,girls
+32,Hill Academy (CAN),1,3,95.29,,girls
+33,Garnet Valley (PA),14,3,95.2,,girls
+34,Hereford (MD),9,1,95.19,,girls
+35,Spencerport (NY),15,4,95.18,,girls
+36,Glenelg Country School (MD),13,5,95.18,,girls
+37,Conestoga (PA),15,3,95.17,,girls
+38,Glen Ridge (NJ),16,3,95.15,,girls
+39,Immaculate Heart (NJ),15,5,95.14,,girls
+40,Notre Dame - Hingham (MA),16,3,95.12,,girls
+41,St. Anthony's (NY),17,1,95.1,,girls
+42,Radnor (PA),18,6,95.07,,girls
+43,Cold Spring Harbor (NY),12,2,95.05,,girls
+44,Fayetteville Manlius (NY),16,4,95.03,,girls
+45,Pittsford (NY),5,2,94.99,,girls
+46,New Canaan (CT),18,5,94.91,,girls
+47,Chatham (NJ),11,5,94.9,,girls
+48,Lake Highland Prep (FL),23,2,94.86,,girls
+49,Eastern (NJ),18,4,94.85,,girls
+50,Bridgewater-Raritan (NJ),18,4,94.77,,girls
+51,Stone Ridge CDS (MD),9,5,94.73,,girls
+52,Baldwinsville (NY),19,2,94.7,,girls
+53,Century (MD),6,3,94.7,,girls
+54,St. Mark's (MA ),14,1,94.65,,girls
+55,Thayer Academy (MA ),13,3,94.61,,girls
+56,Needham (MA),4,3,94.6,,girls
+57,St. Mary's (MD),9,8,94.53,,girls
+58,Longmeadow (MA),3,3,94.47,,girls
+59,Garden City (NY),10,6,94.4,,girls
+60,Loyola Academy (IL),7,1,94.37,,girls
+61,Sacred Heart Greenwich (CT),18,1,94.35,,girls
+62,Roland Park Country (MD),12,7,94.34,,girls
+63,Westhampton Beach (NY),4,5,94.19,,girls
+64,Canandaigua Academy (NY),6,2,94.11,,girls
+65,Noble & Greenough (MA ),10,4,94.09,,girls
+66,Penfield (NY),2,2,93.9,,girls
+67,Holton-Arms School (MD),11,10,93.88,,girls
+68,Middle Country (NY),6,2,93.79,,girls
+69,Lawrenceville School (NJ),17,7,93.72,,girls
+70,Woburn Memorial (MA),1,0,93.68,,girls
+71,Norwell (MA),6,3,93.67,,girls
+72,Ward Melville (NY),8,1,93.66,,girls
+73,Westwood (MA),19,1,93.57,,girls
+74,Smithtown East (NY),6,3,93.54,,girls
+75,South River (MD),13,3,93.41,,girls
+76,Brooks School (MA ),11,3,93.31,,girls
+77,Riverhead (NY),8,4,93.3,,girls
+78,Bryn Mawr (MD),9,9,93.3,,girls
+79,Sherwood (MD),12,0,93.18,,girls
+80,Walter Johnson (MD),1,0,93.18,,girls
+81,Bernards (NJ),13,5,93.14,,girls
+82,John Carroll (MD),8,10,93.14,,girls
+83,Pingry School (NJ),19,4,93.07,,girls
+84,Mattituck-Southold (NY),15,5,93.07,,girls
+85,Rush Henrietta (NY),5,1,93.06,,girls
+86,Rumson Fair Haven (NJ),21,3,93.05,,girls
+87,Madison (NJ),16,4,93.05,,girls
+88,Mountain Lakes (NJ),12,4,92.96,,girls
+89,Ridgefield (CT),4,5,92.96,,girls
+90,Sacred Heart Academy Long Island (NY),13,6,92.91,,girls
+91,Owen J. Roberts (PA),16,5,92.89,,girls
+92,West Chester Rustin (PA),1,0,92.88,,girls
+93,Staples (CT),12,2,92.83,,girls
+94,Haddonfield (NJ),17,3,92.8,,girls
+95,South Carroll (MD),17,1,92.74,,girls
+96,Deerfield Academy (MA ),12,2,92.74,,girls
+97,West Islip (NY),11,7,92.73,,girls
+98,San Ramon Valley (CA),18,0,92.72,,girls
+99,Ridge (NJ),14,5,92.72,,girls
+100,New Albany (OH),17,3,92.71,,girls
+101,New Trier (IL),2,0,92.64,,girls
+102,Jamesville DeWitt (NY),8,1,92.61,,girls
+103,Springfield (PA),9,2,92.59,,girls
+104,Holy Cross (MD),12,8,92.55,,girls
+105,Harpeth Hall (TN),3,1,92.53,,girls
+106,Manheim Township (PA),20,4,92.52,,girls
+107,Cherry Creek (CO),21,1,92.5,,girls
+108,Downingtown West (PA),12,6,92.5,,girls
+109,Westminster (MD),14,6,92.46,,girls
+110,William Penn Charter (PA),13,11,92.41,,girls
+111,St. Paul's School (NH),17,3,92.4,,girls
+112,Regis Jesuit (CO),14,4,92.31,,girls
+113,Kent Island (MD),3,0,92.15,,girls
+114,Towson (MD),1,1,92.13,,girls
+115,East Meadow (NY),1,0,92.11,,girls
+116,Farmingdale (NY),1,1,92.09,,girls
+117,East Islip (NY),1,6,92.06,,girls
+118,Valor Christian (CO),13,3,92.02,,girls
+119,Maryvale Prep (MD),7,10,91.99,,girls
+120,"Episcopal, Dallas (TX)",18,1,91.97,,girls
+121,Whitman (MD),0,1,91.8,,girls
+122,Bartram Trail (FL),14,3,91.77,,girls
+123,Archbishop Carroll (PA),12,4,91.73,,girls
+124,Montclair Kimberley (NJ),15,5,91.72,,girls
+125,Rivers School (MA ),7,6,91.71,,girls
+126,Franklin (MA),5,2,91.69,,girls
+127,York Catholic (PA),18,0,91.68,,girls
+128,Chattahoochee (GA),5,1,91.67,,girls
+129,Cheshire (CT),9,1,91.63,,girls
+130,Villa Maria Academy - Malvern (PA),5,1,91.61,,girls
+131,Bay Shore (NY),7,3,91.61,,girls
+132,Honeoye Falls Lima (NY),0,2,91.59,,girls
+133,St. Francis DeSales (OH),14,1,91.58,,girls
+134,Westfield (NJ),8,10,91.58,,girls
+135,Winston Churchill (MD),0,1,91.56,,girls
+136,Auburn (NY),14,4,91.54,,girls
+137,Cape Henlopen (DE),18,0,91.53,,girls
+138,New Fairfield (CT),21,1,91.52,,girls
+139,Bishop Moore (FL),20,2,91.5,,girls
+140,Skaneateles (NY),9,3,91.5,,girls
+141,Princeton (NJ),18,3,91.37,,girls
+142,Massapequa (NY),0,5,91.37,,girls
+143,Denver East (CO),11,4,91.31,,girls
+144,Foothill - Santa Ana (CA),14,1,91.25,,girls
+145,Ithaca (NY),15,3,91.23,,girls
+146,Cohasset (MA),8,3,91.22,,girls
+147,Suffern (NY),0,3,91.19,,girls
+148,Wilton (CT),7,7,91.15,,girls
+149,Rye (NY),10,1,91.14,,girls
+150,Good Counsel (MD),13,8,91.14,,girls
+151,Smithtown West (NY),1,2,91.07,,girls
+152,Pinkerton Academy (NH),19,2,91.05,,girls
+153,Cardinal Newman (FL),16,0,91.02,,girls
+154,Germantown Academy (PA),3,8,90.99,,girls
+155,Benjamin School (FL),9,5,90.98,,girls
+156,Locust Valley (NY),1,0,90.96,,girls
+157,Montclair (NJ),9,12,90.95,,girls
+158,Annapolis Area Christian (MD),1,0,90.92,,girls
+159,Langley (VA),18,4,90.9,,girls
+160,Mount de Sales (MD),4,13,90.9,,girls
+161,Upper Arlington (OH),12,1,90.88,,girls
+162,Vero Beach (FL),15,4,90.85,,girls
+163,Kennard-Dale (PA),14,4,90.81,,girls
+164,Manchester Valley (MD),1,3,90.79,,girls
+165,Brighton (NY),0,3,90.77,,girls
+166,Hendrick Hudson (NY),0,0,90.76,,girls
+167,Ponte Vedra (FL),6,3,90.72,,girls
+168,Hillsborough (NJ),13,7,90.72,,girls
+169,Guilford (CT),4,1,90.71,,girls
+170,Plymouth South (MA),1,0,90.7,,girls
+171,New Hampton School (NH),9,2,90.63,,girls
+172,Rocky Point (NY),2,6,90.59,,girls
+173,Abington (PA),12,3,90.57,,girls
+174,Broadneck (MD),4,4,90.54,,girls
+175,Webster Thomas (NY),0,2,90.53,,girls
+176,ThunderRidge (CO),12,4,90.52,,girls
+177,Tappan Zee (NY),0,1,90.52,,girls
+178,Loomis Chaffee (CT),3,5,90.5,,girls
+179,St. Margaret's (CA),12,3,90.49,,girls
+180,Harborfields (NY),5,7,90.48,,girls
+181,Downingtown East (PA),9,1,90.45,,girls
+182,Granite Bay (CA),17,1,90.4,,girls
+183,Shawnee (NJ),13,7,90.38,,girls
+184,Unionville (PA),10,6,90.37,,girls
+185,C. M. Wright (MD),13,4,90.34,,girls
+186,East Grand Rapids (MI),13,1,90.32,,girls
+187,Christian Brothers (NY),11,6,90.32,,girls
+188,Sycamore (OH),12,2,90.31,,girls
+189,Flint Hill School (VA),15,3,90.28,,girls
+190,Canterbury School (CT),4,3,90.25,,girls
+191,St. Ignatius Prep (CA),10,6,90.24,,girls
+192,Corning-Painted Post (NY),13,5,90.23,,girls
+193,Shoreham Wading River (NY),2,5,90.19,,girls
+194,Blessed Trinity (GA),8,2,90.13,,girls
+195,John's Creek (GA),7,2,90.12,,girls
+196,Kinkaid School (TX),14,2,90.11,,girls
+197,West Genesee (NY),3,8,90.1,,girls
+198,Concord Carlisle (MA),13,3,90.09,,girls
+199,Hunterdon Central (NJ),13,10,90.09,,girls
+200,Weddington (NC),17,1,90.08,,girls
+201,Phillips Exeter Acad (NH),8,7,90.08,,girls
+202,Millburn (NJ),15,3,90.07,,girls
+203,Syosset (NY),1,3,90.04,,girls
+204,Catonsville (MD),2,2,90.03,,girls
+205,Upper Dublin (PA),10,4,90.01,,girls
+206,Hopkinton (NH),17,0,90.0,,girls
+207,Commack (NY),3,5,89.99,,girls
+208,Rancocas Valley (NJ),17,4,89.97,,girls
+209,Pennsbury (PA),10,3,89.97,,girls
+210,Mt. St. Mary (NJ),15,7,89.94,,girls
+211,"Hempfield, Landisville (PA)",16,4,89.92,,girls
+212,Sachem East (NY),2,5,89.92,,girls
+213,Dublin Jerome (OH),10,1,89.89,,girls
+214,Rockford (MI),9,5,89.87,,girls
+215,Hagerty (FL),10,5,89.84,,girls
+216,Holy Child (MD),4,10,89.84,,girls
+217,Novato (CA),17,6,89.82,,girls
+218,Ravenwood (TN),1,1,89.82,,girls
+219,Bedford (NH),16,2,89.8,,girls
+220,Scripps Ranch (CA),16,2,89.8,,girls
+221,The Pingree School (MA ),8,1,89.77,,girls
+222,Fairfield Ludlowe (CT),12,5,89.75,,girls
+223,Queen Anne's (MD),9,2,89.74,,girls
+224,Moses Brown School (RI),16,3,89.73,,girls
+225,Indian Hills (NJ),17,4,89.72,,girls
+226,Camden Catholic (NJ),21,2,89.71,,girls
+227,"Easton Area, PA (PA)",3,2,89.7,,girls
+228,Gerstell Academy (MD),4,12,89.7,,girls
+229,Red Bank Catholic (NJ),17,5,89.68,,girls
+230,Pine Creek (CO),15,2,89.67,,girls
+231,Bishop Guertin (NH),19,2,89.66,,girls
+232,Sayville (NY),1,5,89.63,,girls
+233,Boca Raton (FL),12,2,89.6,,girls
+234,Newtown (CT),8,2,89.6,,girls
+235,Hotchkiss School (CT),2,6,89.6,,girls
+236,Comsewogue (NY),4,7,89.59,,girls
+237,Westhill (NY),14,2,89.57,,girls
+238,Amador Valley (CA),15,3,89.55,,girls
+239,Seneca (NJ),14,4,89.52,,girls
+240,Perkiomen Valley (PA),7,7,89.52,,girls
+241,Evergreen (CO),12,4,89.51,,girls
+242,Piedmont (CA),14,2,89.49,,girls
+243,Bethlehem (NY),0,2,89.47,,girls
+244,Dulaney (MD),1,4,89.42,,girls
+245,Hinsdale Central (IL),19,4,89.38,,girls
+246,Ensworth (TN),15,2,89.36,,girls
+247,Hill School (PA),10,6,89.36,,girls
+248,Collegiate School (VA),17,6,89.35,,girls
+249,Potomac School (VA),9,11,89.35,,girls
+250,"Exeter Township, PA (PA)",16,5,89.34,,girls
+251,Pine Crest (FL),7,6,89.34,,girls
+252,Milton Academy (MA ),3,7,89.34,,girls
+253,Maine Endwell (NY),1,0,89.33,,girls
+254,Notre Dame (NJ),16,5,89.33,,girls
+255,Lincoln-Sudbury (MA),8,3,89.33,,girls
+256,Wellesley (MA),3,2,89.32,,girls
+257,Portsmouth (NH),18,3,89.28,,girls
+258,West Forsyth (GA),5,3,89.27,,girls
+259,St. Thomas Aquinas (FL),7,6,89.25,,girls
+260,Paul VI (VA),11,10,89.25,,girls
+261,Fellowship Christian (GA),11,0,89.24,,girls
+262,"Wilson, West Lawn (PA)",17,6,89.23,,girls
+263,Bishop Shanahan (PA),11,4,89.21,,girls
+264,Episcopal (VA),4,14,89.2,,girls
+265,Tabor Academy (MA ),6,6,89.19,,girls
+266,Long Beach (NY),1,6,89.19,,girls
+267,Conard (CT),4,4,89.17,,girls
+268,Catholic High (MD),1,0,89.15,,girls
+269,Warwick (NY),1,0,89.15,,girls
+270,Sachem North (NY),7,3,89.15,,girls
+271,Connetquot (NY),1,1,89.15,,girls
+272,Fairview (CO),13,4,89.14,,girls
+273,Vestal (NY),1,4,89.14,,girls
+274,Chaparral (CO),10,6,89.1,,girls
+275,Ocean City (NJ),19,3,89.09,,girls
+276,Cambridge (GA),13,5,89.09,,girls
+277,Natick (MA),2,0,89.07,,girls
+278,Huntington (NY),2,5,89.07,,girls
+279,Palmyra Macedon (NY),0,1,89.07,,girls
+280,Wissahickon (PA),11,2,89.06,,girls
+281,Sacred Heart Prep (CA),15,4,89.06,,girls
+282,Greenwich (CT),2,7,89.03,,girls
+283,Ramapo (NJ),8,9,88.98,,girls
+284,Springside Chesnut Hill (PA),3,11,88.98,,girls
+285,Hillgrove (GA),11,2,88.97,,girls
+286,Central Bucks East (PA),11,4,88.96,,girls
+287,South Jefferson (NY),8,3,88.96,,girls
+288,"St. Catherine's, VA (VA)",15,6,88.96,,girls
+289,Manasquan (NJ),15,3,88.95,,girls
+290,Thomas Worthington (OH),5,4,88.95,,girls
+291,Bronxville (NY),0,3,88.94,,girls
+292,North Paulding (GA),14,2,88.93,,girls
+293,Arundel (MD),1,5,88.93,,girls
+294,Central Bucks West (PA),8,6,88.92,,girls
+295,Victor (NY),0,3,88.92,,girls
+296,Saucon Valley (PA),17,2,88.9,,girls
+297,Charlotte Catholic (NC),17,5,88.9,,girls
+298,Glastonbury (CT),6,3,88.88,,girls
+299,Gwynedd Mercy Academy (PA),4,2,88.86,,girls
+300,Northern Highlands (NJ),9,9,88.85,,girls
+301,Yorktown (NY),0,3,88.85,,girls
+302,Phillips Acad Andover (MA ),5,7,88.84,,girls
+303,North Branford (CT),10,1,88.78,,girls
+304,Morris Knolls (NJ),13,5,88.76,,girls
+305,Spring-Ford (PA),5,5,88.76,,girls
+306,Brewster (NY),0,1,88.76,,girls
+307,IMG Academy (FL),7,8,88.74,,girls
+308,North Harford (MD),1,3,88.74,,girls
+309,Pomperaug (CT),10,3,88.73,,girls
+310,Bullis School (MD),8,9,88.71,,girls
+311,North Andover (MA),0,1,88.71,,girls
+312,Summit CDS (OH),11,1,88.69,,girls
+313,Carle Place (NY),1,1,88.63,,girls
+314,Hockaday SG (TX),12,5,88.62,,girls
+315,Boyertown Area (PA),4,9,88.61,,girls
+316,John Jay - Cross River (NY),1,4,88.6,,girls
+317,Loveland (OH),10,2,88.59,,girls
+318,Islip (NY),2,4,88.59,,girls
+319,Mynderse-Romulus (NY),1,0,88.57,,girls
+320,Redwood (CA),18,3,88.57,,girls
+321,Lassiter (GA),12,6,88.49,,girls
+322,St. Augustine (FL),8,2,88.48,,girls
+323,St. John Paul II (FL),5,6,88.47,,girls
+324,Morristown (NJ),4,15,88.45,,girls
+325,Cocalico (PA),17,5,88.44,,girls

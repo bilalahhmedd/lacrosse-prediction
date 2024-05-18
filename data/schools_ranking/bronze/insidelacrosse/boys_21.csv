@@ -1,0 +1,201 @@
+rank,team,w,l,rating,link,gender
+1,Mount Sinai (NY),16,1,99.9,,boys
+2,Shoreham-Wading River (NY),15,2,99.65,,boys
+3,McDonogh (MD),11,1,99.41,,boys
+4,Manhasset (NY),15,1,98.84,,boys
+5,Archbishop Spalding (MD),12,3,98.49,,boys
+6,Comsewogue (NY),15,2,98.48,,boys
+7,Boys' Latin (MD),10,4,97.79,,boys
+8,Malvern Prep (PA),19,2,97.66,,boys
+9,Deerfield (MA),12,0,97.64,,boys
+10,Garden City (NY),13,3,97.13,,boys
+11,Loyola Blakefield (MD),6,5,97.11,,boys
+12,Syosset (NY),12,3,96.96,,boys
+13,Calvert Hall (MD),8,6,96.88,,boys
+14,Robinson (VA),13,1,96.81,,boys
+15,Brunswick School (CT),14,3,96.64,,boys
+16,Fayetteville-Manlius (NY),16,1,96.32,,boys
+17,Cold Spring Harbor (NY),10,2,96.22,,boys
+18,West Islip (NY),12,5,96.14,,boys
+19,St Anthony's (NY),10,1,96.02,,boys
+20,Baldwinsville (NY),14,3,95.91,,boys
+21,Port Washington (NY),10,4,95.68,,boys
+22,St Johns DC (DC),11,1,95.53,,boys
+23,Harborfields (NY),9,7,95.39,,boys
+24,Taft School (CT),9,2,95.34,,boys
+25,Chaminade (NY),9,2,95.32,,boys
+26,Bayport-Blue Point (NY),12,4,95.28,,boys
+27,Farmingdale (NY),11,3,95.2,,boys
+28,Georgetown Prep (MD),13,3,95.08,,boys
+29,Carey (NY),9,6,94.95,,boys
+30,St Mary's Annapolis (MD),6,4,94.88,,boys
+31,Salisbury School (CT),7,4,94.86,,boys
+32,Victor (NY),13,2,94.36,,boys
+33,Darien (CT),19,2,94.34,,boys
+34,Haverford School (PA),12,6,94.18,,boys
+35,Madison (VA),11,1,94.16,,boys
+36,Episcopal Academy (PA),9,4,94.1,,boys
+37,Yorktown (VA),12,0,93.94,,boys
+38,Culver Academy Prep (IN),10,2,93.91,,boys
+39,Don Bosco Prep (NJ),18,0,93.89,,boys
+40,Canandaigua (NY),16,2,93.83,,boys
+41,Webster Thomas (NY),15,1,93.73,,boys
+42,Severna Park (MD),13,0,93.62,,boys
+43,Bishop Guertin (NH),19,0,93.48,,boys
+44,Belmont Hill (MA),12,2,93.45,,boys
+45,Massapequa (NY),6,8,93.45,,boys
+46,Seton Hall Prep (NJ),10,2,93.38,,boys
+47,Severn (MD),9,6,93.31,,boys
+48,Iona Prep (NY),15,4,93.06,,boys
+49,Lawrenceville (NJ),13,3,93.03,,boys
+50,St Paul's (MD),4,7,93.01,,boys
+51,Jamesville-DeWitt (NY),16,2,92.96,,boys
+52,Hauppauge (NY),9,6,92.72,,boys
+53,Langley (VA),11,4,92.62,,boys
+54,South Side (NY),7,7,92.55,,boys
+55,Gilman (MD),4,9,92.55,,boys
+56,Islip (NY),7,8,92.5,,boys
+57,Summit (NJ),18,1,92.43,,boys
+58,Briarcliff (NY),15,1,92.43,,boys
+59,Bullis (MD),8,5,92.39,,boys
+60,Sherwood (MD),8,1,92.34,,boys
+61,Seaford (NY),8,5,92.24,,boys
+62,Calhoun (NY),6,7,92.24,,boys
+63,St Sebastian (MA),6,4,92.05,,boys
+64,Fairport (NY),10,4,91.98,,boys
+65,CBA Syracuse (NY),9,5,91.76,,boys
+66,Avon Old Farms (CT),6,9,91.67,,boys
+67,Bethpage (NY),10,4,91.66,,boys
+68,Sayville (NY),7,9,91.5,,boys
+69,Westhampton Beach (NY),7,9,91.48,,boys
+70,Broadneck (MD),3,2,91.47,,boys
+71,Landon (MD),6,6,91.43,,boys
+72,Exeter HS (NH),14,3,91.41,,boys
+73,MacArthur-Levittown (NY),9,5,91.4,,boys
+74,Oakton (VA),4,4,91.39,,boys
+75,Corning (NY),13,1,91.37,,boys
+76,Douglas Freeman (VA),6,2,91.25,,boys
+77,Gonzaga (DC),6,3,91.25,,boys
+78,Chantilly (VA),7,4,91.11,,boys
+79,Noble & Greenough (MA),11,2,91.09,,boys
+80,Penfield (NY),12,4,90.96,,boys
+81,Ridgefield (CT),16,7,90.94,,boys
+82,Staples-Westport (CT),15,5,90.89,,boys
+83,Trinity-Pawling (NY),8,6,90.84,,boys
+84,East Islip (NY),8,7,90.83,,boys
+85,Holderness (NH),10,1,90.71,,boys
+86,Mamaroneck (NY),16,2,90.64,,boys
+87,Paul VI (VA),10,3,90.62,,boys
+88,Mountain Lakes (NJ),18,2,90.59,,boys
+89,Fairfield Prep (CT),17,5,90.58,,boys
+90,Yorktown (NY),13,4,90.56,,boys
+91,Rocky Point (NY),7,6,90.53,,boys
+92,West Genesee (NY),6,11,90.49,,boys
+93,DeMatha (MD),7,2,90.25,,boys
+94,Pingry (NJ),12,2,90.23,,boys
+95,North Shore (NY),8,5,90.19,,boys
+96,Rye HS (NY),14,2,90.17,,boys
+97,Westfield (NJ),12,5,90.16,,boys
+98,Cicero North Syracuse (NY),5,10,90.13,,boys
+99,Eastport/South Manor (NY),3,9,90.13,,boys
+100,Rumson-Fair Haven (NJ),20,1,90.0,,boys
+101,Bronxville (NY),11,6,89.99,,boys
+102,Middlesex School (MA),3,0,89.96,,boys
+103,Westhill (NY),14,2,89.96,,boys
+104,Spencerport (NY),12,3,89.96,,boys
+105,Pittsford (NY),9,7,89.95,,boys
+106,Lafayette (NY),10,5,89.92,,boys
+107,New Canaan (CT),10,8,89.9,,boys
+108,Pinkerton Academy (NH),12,5,89.84,,boys
+109,Woodson (VA),3,6,89.83,,boys
+110,Ridgewood (NJ),7,6,89.78,,boys
+111,McQuaid Jesuit (NY),6,6,89.77,,boys
+112,Long Beach (NY),5,8,89.76,,boys
+113,Miller Place (NY),6,8,89.75,,boys
+114,Radnor (PA),24,2,89.74,,boys
+115,Salesianum (DE),7,3,89.73,,boys
+116,Jupiter (FL),18,1,89.69,,boys
+117,Saint Andrew's (FL),16,0,89.68,,boys
+118,Catonsville (MD),10,1,89.63,,boys
+119,Mount St. Joseph (MD),4,11,89.61,,boys
+120,Cape Henlopen (DE),2,4,89.54,,boys
+121,Salmon River (NY),6,0,89.53,,boys
+122,Centreville (VA),5,4,89.41,,boys
+123,Allentown Central Cath (PA),16,1,89.39,,boys
+124,Plainedge (NY),13,0,89.36,,boys
+125,Century (MD),2,0,89.35,,boys
+126,Thayer Academy (MA),8,3,89.33,,boys
+127,Towson (MD),7,2,89.32,,boys
+128,Delbarton (NJ),7,7,89.31,,boys
+129,Pope John XXIII (NJ),12,4,89.24,,boys
+130,Kimball Union (NH),6,4,89.22,,boys
+131,IMG National (FL),10,2,89.14,,boys
+132,Hotchkiss (CT),3,3,89.08,,boys
+133,Rivers School (MA),5,7,89.07,,boys
+134,Wilton (CT),15,6,88.95,,boys
+135,Locust Valley (NY),5,7,88.83,,boys
+136,Kellenberg Memorial (NY),8,9,88.79,,boys
+137,Berkshire School (MA),6,5,88.76,,boys
+138,John Carroll (MD),0,11,88.75,,boys
+139,Corner Canyon (UT),22,0,88.68,,boys
+140,La Salle College High (PA),10,4,88.64,,boys
+141,Dallas Jesuit (TX),12,2,88.61,,boys
+142,Upper Arlington (OH),13,2,88.58,,boys
+143,St Thomas Aquinas (FL),11,5,88.58,,boys
+144,Lakeland/Panas (NY),9,4,88.5,,boys
+145,McLean (VA),3,5,88.46,,boys
+146,New Hampton (NH),4,2,88.43,,boys
+147,West Potomac (VA),7,2,88.4,,boys
+148,St Augustine Prep (NJ),10,5,88.4,,boys
+149,Floral Park (NY),6,5,88.34,,boys
+150,Bergen Catholic (NJ),5,8,88.29,,boys
+151,Montclair (NJ),7,4,88.27,,boys
+152,Germantown Academy (PA),1,8,88.27,,boys
+153,St Stephen/St Agnes (VA),5,7,88.25,,boys
+154,Deep Run (VA),7,1,88.19,,boys
+155,Greenwich (CT),11,6,88.18,,boys
+156,Oceanside (NY),2,11,88.06,,boys
+157,Tabor Academy (MA),6,4,88.01,,boys
+158,Westfield (VA),2,5,87.98,,boys
+159,Sanford School (DE),14,0,87.96,,boys
+160,Episcopal HS (VA),6,4,87.93,,boys
+161,Fairfield-Ludlowe (CT),10,9,87.92,,boys
+162,Bernards (NJ),7,1,87.88,,boys
+163,East Syracuse-Minoa (NY),9,3,87.88,,boys
+164,Chatham (NJ),14,7,87.87,,boys
+165,St Joseph Collegiate (NY),2,3,87.83,,boys
+166,The Governor's Academy (MA),4,5,87.82,,boys
+167,Penn Yan (NY),13,1,87.76,,boys
+168,Loyola Academy (IL),19,1,87.71,,boys
+169,Hereford (MD),9,2,87.71,,boys
+170,Cape Elizabeth (ME),16,0,87.69,,boys
+171,Christian Bros (NJ),15,5,87.65,,boys
+172,Cheshire HS (CT),14,5,87.63,,boys
+173,Brewster Academy (NH),8,3,87.57,,boys
+174,Wantagh (NY),1,10,87.56,,boys
+175,Scarsdale (NY),15,3,87.54,,boys
+176,Bridgewater-Raritan (NJ),3,3,87.54,,boys
+177,Ponte Vedra (FL),16,1,87.53,,boys
+178,Burnt Hills (NY),13,1,87.49,,boys
+179,Phillips Exeter (NH),6,3,87.49,,boys
+180,South County (VA),3,5,87.47,,boys
+181,Archbishop Stepinac (NY),12,5,87.41,,boys
+182,Auburn (NY),11,4,87.36,,boys
+183,Norfolk Academy (VA),8,4,87.36,,boys
+184,Kent Island (MD),5,1,87.34,,boys
+185,Lake Braddock (VA),4,4,87.32,,boys
+186,Wheatley (NY),6,8,87.32,,boys
+187,Saint John Paul II (FL),9,5,87.3,,boys
+188,Penn Charter (PA),3,12,87.27,,boys
+189,Quince Orchard (MD),3,1,87.25,,boys
+190,Hunterdon Central (NJ),5,5,87.23,,boys
+191,Lake Mary (FL),18,2,87.22,,boys
+192,St Johns Prep Danvers (MA),17,2,87.22,,boys
+193,Fairfax (VA),2,4,87.18,,boys
+194,Eastlake (WA),15,0,87.14,,boys
+195,Mountain Vista (CO),10,2,87.14,,boys
+196,St Paul's School (NENG),6,5,87.14,,boys
+197,Oceanside Collegiate Academy (SC),9,3,87.13,,boys
+198,Highland Park (TX),14,3,87.08,,boys
+199,Garnet Valley (PA),17,5,87.05,,boys
+200,Niskayuna (NY),11,1,87.04,,boys
