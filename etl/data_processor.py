@@ -58,7 +58,11 @@ if __name__ == "__main__":
         print('silver folder created success '+SILVER_FOLDER_PATH)
 
     silver_df_path = os.path.join(SILVER_FOLDER_PATH,'commitments.csv')
+<<<<<<< HEAD
     silver_df.to_csv(silver_df_path,index=False)
+=======
+    silver_df.to_csv(silver_df_path)
+>>>>>>> feature/college-ranking
     print('silver dataframe created success: '+silver_df_path + '\nshape: '+str(silver_df.shape))
 
     
