@@ -2,9 +2,9 @@
 
 # import required libs
 import os
+from datetime import datetime
 import re
 import pandas as pd
-
 # data extraction methods
 COLUMN_NAMES_REQUIRED = [
     'name',
@@ -100,13 +100,23 @@ def name_alpha_numeric_ended(file_name:str):
     file_name=file_name[:-1]
     return name_alpha_numeric_ended(file_name)
 
+def create_none_existing_folder(
+        folder_path:str
+        ):
+    """ to check if folder path dont exist create it """
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+        print(f'{folder_path} created success ')
+    else:
+        print(f'{folder_path} already exists')
+
 def revamp_file_name(file_name:str):
     """ rename csv file according to convention """
     # lower name,
     # replace space and dash with underscore,
     # remove comma, colon, semicolon etc from name,
     # last character should be alphabat,
-    file_name= file_name.lower().translate(str.maketrans({' ':'_','-':'_','"':'',"'":""}))
+    file_name= file_name.lower().translate(str.maketrans({')':'','(':'',':':'',' ':'_','-':'_','"':'',"'":""}))
     name, ext = os.path.splitext(file_name)
     name= name_alpha_numeric_ended(name)
     file_name=name+ext
@@ -140,8 +150,9 @@ def get_year_from_string(file_name:str):
     try:
         output = re.match(r'.*([1-3][0-9]{3})', file_name).group(1)
         return output
-    except:
+    except Exception as e:
         print('year not found in file name: '+str(file_name))
+        print(e)
         return None
 
 def populate_commitment_year_from_filename(input_df,file_name:None):
@@ -218,3 +229,56 @@ def drop_null_values_multiple_columns(
 def drop_duplicates_multicols(input_df:object,columns:list):
     """ drop duplicates for multiple columns in dataframe"""
     return input_df.drop_duplicates(subset=columns).reset_index(drop=True)
+
+def process_data_from_bronze_to_silver(
+        bronze_folder_path:str,
+        silver_folder_path:str
+        ):
+    """ process data from bronze folder to silver folder """
+    for folder in os.listdir(bronze_folder_path):
+        print(f'extracting from {folder}')
+        dfs_dict = get_csv_dataframes_from_folder(os.path.join(bronze_folder_path,folder))
+        dfs_list = []
+        for file_name, df in dfs_dict.items():
+            dfs_list.append(df)
+        data_frame = pd.concat(dfs_list)
+        print(f'saving into silver folder {silver_folder_path}')
+        data_frame.to_csv(os.path.join(silver_folder_path,folder+'.csv'),index=False)
+        print('success ')
+
+def process_data_from_sliver_to_gold(
+        silver_folder_path:str,
+        gold_folder_path:str,
+        output_file_name="output.csv"
+        ):
+    """ process data from silver folder path into gold folder path """
+    print(f'extracting data from {silver_folder_path}')
+    dfs_dict = get_csv_dataframes_from_folder(silver_folder_path)
+    dfs_list = []
+    for file_name,df in dfs_dict.items():
+        dfs_list.append(df)
+    data_frame = pd.concat(dfs_list)
+    print(f'saving into {gold_folder_path}')
+    data_frame.to_csv(os.path.join(gold_folder_path,output_file_name),index=False)
+    print(f'{output_file_name} saved success')
+
+
+to_camel_case = lambda y : ''.join([x.title() if i >0 else x.lower() for i,x in enumerate(re.split('_|-| ',y))])
+
+def set_date_format(
+    input_date:str
+    ):
+    """change data format to mm/dd/yy"""
+    if input_date is None:
+        return None
+    if type(input_date) == float:
+        return input_date
+    else:
+        return datetime.date(input_date).strftime('%m/%d/%Y')
+    
+def read_df_using_dtype_map(
+    csv_file_path:str,
+    dtype_map:dict
+    ):
+    """load dataframe using csv file and given dtype map"""
+    return pd.read_csv(csv_file_path,dtype=dtype_map)

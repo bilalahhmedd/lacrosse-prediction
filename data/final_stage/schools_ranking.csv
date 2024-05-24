@@ -1,0 +1,1350 @@
+rank,team,powerRating,strengthOfSchedulePR,qualityWinFactorPR,championshipPercentage,ratingPercentageIndex,strengthOfScheduleRPI,qualityWinFactorRPI,selection,gender,webSource,winRatio
+1,American Heritage Delray,1,15,1,0.0,8.0,28.0,13.0,49.0,girls,laxmath,5 - 0
+2,Milton ,2,61,11,0.0,85.0,299.0,7.0,391.0,girls,laxmath,6 - 0
+3,IMG National ,3,9,9,0.0,1.0,2.0,98.0,101.0,girls,laxmath,2 - 0
+4,Hagerty ,4,17,3,0.0,25.0,57.0,31.0,113.0,girls,laxmath,5 - 1
+5,Foothill Santa Ana ,5,2,96,0.0,2.0,4.0,141.0,147.0,girls,laxmath,1 - 0
+6,Newsome ,6,69,22,0.0,16.0,80.0,18.0,114.0,girls,laxmath,5 - 0
+7,Manatee ,7,43,35,0.0,9.0,33.0,32.0,74.0,girls,laxmath,4 - 0
+8,St Andrews ,8,31,5,0.0,15.0,71.0,19.0,105.0,girls,laxmath,5 - 0
+9,Lake Highland Prep ,9,4,102,0.0,48.0,58.0,3145.0,3251.0,girls,laxmath,4 - 2
+10,Community School Naples ,10,22,34,0.0,30.0,53.0,96.0,179.0,girls,laxmath,4 - 1
+11,Blessed Trinity ,11,20,149,0.0,28.0,62.0,150.0,240.0,girls,laxmath,6 - 1
+12,Plant ,12,39,2,0.0,24.0,111.0,1.0,136.0,girls,laxmath,8 - 0
+13,Creekview ,13,16,3125,0.0,112.0,200.0,3126.0,3438.0,girls,laxmath,3 - 1
+14,Palos Verdes ,14,96,145,0.0,88.0,224.0,144.0,456.0,girls,laxmath,6 - 1
+15,Johns Creek ,15,66,38,0.0,66.0,183.0,54.0,303.0,girls,laxmath,8 - 1
+16,St Thomas Aquinas ,16,6,3123,0.0,153.0,148.0,3330.0,3631.0,girls,laxmath,2 - 2
+17,Benjamin School ,17,87,18,0.0,34.0,78.0,30.0,142.0,girls,laxmath,7 - 1
+18,Episcopal School ,18,10,3097,0.0,39.0,30.0,3347.0,3416.0,girls,laxmath,3 - 2
+19,Harpeth Hall ,19,65,43,0.0,46.0,186.0,117.0,349.0,girls,laxmath,2 - 0
+20,Marlborough ,20,5,143,0.0,129.0,179.0,142.0,450.0,girls,laxmath,2 - 1
+21,Santa Margarita ,21,7,286,0.0,23.0,29.0,3116.0,3168.0,girls,laxmath,3 - 1
+22,San Clemente ,22,13,3146,0.0,89.0,130.0,3143.0,3362.0,girls,laxmath,2 - 1
+23,Cambridge ,23,19,3100,0.0,33.0,37.0,3100.0,3170.0,girls,laxmath,5 - 2
+24,Lexington ,24,375,65,0.0,13.0,65.0,62.0,140.0,girls,laxmath,3 - 0
+25,Charlotte Latin School ,25,45,108,0.0,4.0,13.0,103.0,120.0,girls,laxmath,2 - 0
+26,Bartram Trail ,26,29,3095,0.0,211.0,364.0,3117.0,3692.0,girls,laxmath,3 - 1
+27,Mill Creek ,27,11,3150,0.0,108.0,35.0,3405.0,3548.0,girls,laxmath,1 - 2
+28,St Stephens Episcopal ,28,214,23,0.0,37.0,164.0,20.0,221.0,girls,laxmath,5 - 0
+29,Redondo Union ,29,28,54,0.0,35.0,107.0,94.0,236.0,girls,laxmath,7 - 1
+30,South Forsyth ,30,33,154,0.0,97.0,157.0,3260.0,3514.0,girls,laxmath,5 - 2
+31,Mira Costa ,31,46,3257,0.0,200.0,327.0,3245.0,3772.0,girls,laxmath,5 - 2
+32,Fellowship Christian ,32,294,24,0.0,52.0,206.0,21.0,279.0,girls,laxmath,5 - 0
+33,American Heritage Planta,33,291,17,0.0,32.0,146.0,14.0,192.0,girls,laxmath,5 - 0
+34,Kentucky Country Day ,34,80,60,0.0,7.0,20.0,57.0,84.0,girls,laxmath,3 - 0
+35,Oaks Christian ,35,467,53,0.0,27.0,14.0,48.0,89.0,girls,laxmath,3 - 0
+36,St Margarets ,36,32,3093,0.0,80.0,114.0,3144.0,3338.0,girls,laxmath,2 - 1
+37,Oceanside Collegiate ,37,190,66,0.0,223.0,540.0,63.0,826.0,girls,laxmath,3 - 0
+38,Lassiter ,38,90,151,0.0,167.0,336.0,3101.0,3604.0,girls,laxmath,4 - 1
+39,California San Ramon ,39,223,80,0.0,56.0,213.0,78.0,347.0,girls,laxmath,2 - 0
+40,Chapin ,40,142,64,0.0,102.0,333.0,61.0,496.0,girls,laxmath,3 - 0
+41,St Edwards ,41,48,3339,0.0,63.0,52.0,3355.0,3470.0,girls,laxmath,3 - 2
+42,Riverview Sarasota ,42,26,3121,0.0,41.0,32.0,3189.0,3262.0,girls,laxmath,3 - 2
+43,Pensacola Catholic ,43,230,4,0.0,29.0,128.0,2.0,159.0,girls,laxmath,7 - 0
+44,West Forsyth ,44,30,3129,0.0,161.0,195.0,3362.0,3718.0,girls,laxmath,3 - 2
+45,Viera ,45,259,57,0.0,38.0,167.0,52.0,257.0,girls,laxmath,3 - 0
+46,Vero Beach ,46,14,3099,0.0,127.0,109.0,3376.0,3612.0,girls,laxmath,2 - 2
+47,Ponte Vedra ,47,12,3503,0.0,187.0,124.0,3638.0,3949.0,girls,laxmath,3 - 5
+48,Poway ,48,77,136,0.0,68.0,261.0,133.0,462.0,girls,laxmath,1 - 0
+49,George Steinbrenner ,49,94,3195,0.0,233.0,285.0,3326.0,3844.0,girls,laxmath,3 - 2
+50,Lake Mary HS ,50,312,21,0.0,73.0,267.0,17.0,357.0,girls,laxmath,5 - 0
+51,Holy Names Academy ,51,81,498,0.0,77.0,127.0,3120.0,3324.0,girls,laxmath,5 - 2
+52,Oak Park ,52,481,30,0.0,62.0,226.0,27.0,315.0,girls,laxmath,4 - 0
+53,Murrieta Mesa ,53,121,14,0.0,36.0,162.0,10.0,208.0,girls,laxmath,5 - 0
+54,Roswell ,54,79,153,0.0,74.0,180.0,151.0,405.0,girls,laxmath,6 - 1
+55,Coronado ,55,110,134,0.0,3.0,8.0,131.0,142.0,girls,laxmath,1 - 0
+56,Hutchison School ,56,349,3108,0.0,182.0,356.0,118.0,656.0,girls,laxmath,4 - 1
+57,Sickles ,57,106,3266,0.0,169.0,235.0,3401.0,3805.0,girls,laxmath,5 - 3
+58,North Gwinnett ,58,34,3151,0.0,107.0,155.0,3148.0,3410.0,girls,laxmath,2 - 1
+59,Lake Travis ,59,235,205,0.0,12.0,51.0,203.0,266.0,girls,laxmath,1 - 0
+60,Cherokee ,60,331,514,0.0,136.0,300.0,511.0,947.0,girls,laxmath,5 - 1
+61,Seymour ,61,318,2720,0.0,166.0,351.0,2721.0,3238.0,girls,laxmath,5 - 1
+62,Walton ,62,49,3384,0.0,148.0,145.0,3502.0,3795.0,girls,laxmath,3 - 3
+63,Jensen Beach ,63,269,100,0.0,100.0,243.0,145.0,488.0,girls,laxmath,6 - 1
+64,Ensworth ,64,47,3107,0.0,64.0,73.0,3155.0,3292.0,girls,laxmath,2 - 1
+65,Kings Academy ,65,125,101,0.0,84.0,178.0,146.0,408.0,girls,laxmath,4 - 1
+66,Chattahoochee ,66,88,3342,0.0,133.0,182.0,3332.0,3647.0,girls,laxmath,4 - 2
+67,Tocoi Creek ,67,261,147,0.0,61.0,151.0,148.0,360.0,girls,laxmath,6 - 1
+68,Bishop Moore ,68,67,33,0.0,31.0,64.0,50.0,145.0,girls,laxmath,5 - 1
+69,Lambert ,69,21,3490,0.0,178.0,126.0,3518.0,3822.0,girls,laxmath,2 - 3
+70,Wesleyan School ,70,315,155,0.0,238.0,468.0,152.0,858.0,girls,laxmath,6 - 1
+71,Pope ,71,195,152,0.0,231.0,410.0,3105.0,3746.0,girls,laxmath,4 - 1
+72,Huntington Beach ,72,317,281,0.0,144.0,317.0,281.0,742.0,girls,laxmath,5 - 1
+73,Briarcrest Christian ,73,224,2715,0.0,43.0,110.0,66.0,219.0,girls,laxmath,5 - 1
+74,Philip Simmons ,74,595,26,0.0,110.0,357.0,23.0,490.0,girls,laxmath,5 - 0
+75,Whitewater ,75,292,105,0.0,126.0,271.0,519.0,916.0,girls,laxmath,5 - 1
+76,Westlake ,76,407,75,0.0,131.0,390.0,73.0,594.0,girls,laxmath,3 - 0
+77,Oak Hall ,77,99,3338,0.0,213.0,309.0,3328.0,3850.0,girls,laxmath,4 - 2
+78,Ravenwood ,78,197,202,0.0,92.0,312.0,199.0,603.0,girls,laxmath,1 - 0
+79,Spartanburg ,79,236,42,0.0,42.0,176.0,38.0,256.0,girls,laxmath,4 - 0
+80,East Ridge ,80,470,19,0.0,104.0,338.0,15.0,457.0,girls,laxmath,5 - 0
+81,San Dieguito ,81,359,47,0.0,237.0,549.0,42.0,828.0,girls,laxmath,3 - 0
+82,Oak Ridge ,82,146,128,0.0,6.0,17.0,125.0,148.0,girls,laxmath,1 - 0
+83,North Paulding ,83,226,3126,0.0,206.0,353.0,3127.0,3686.0,girls,laxmath,3 - 1
+84,Stoneman Douglas ,84,188,510,0.0,109.0,230.0,3099.0,3438.0,girls,laxmath,4 - 1
+85,Village Christian ,85,535,16,0.0,105.0,341.0,12.0,458.0,girls,laxmath,5 - 0
+86,River Ridge ,86,296,12,0.0,76.0,279.0,8.0,363.0,girls,laxmath,6 - 0
+87,Notre Dame Sherman Oaks ,87,228,3091,0.0,51.0,113.0,3093.0,3257.0,girls,laxmath,4 - 1
+88,Owasso ,88,384,61,0.0,14.0,222.0,58.0,294.0,girls,laxmath,3 - 0
+89,Crescenta Valley ,89,185,3145,0.0,307.0,503.0,3142.0,3952.0,girls,laxmath,7 - 2
+90,Temecula Valley ,90,491,7,0.0,44.0,184.0,4.0,232.0,girls,laxmath,6 - 0
+91,Kell ,91,466,39,0.0,87.0,302.0,35.0,424.0,girls,laxmath,4 - 0
+92,Edison ,92,8,3492,0.0,190.0,69.0,3528.0,3787.0,girls,laxmath,1 - 3
+93,Carlsbad ,93,696,46,0.0,454.0,701.0,41.0,1196.0,girls,laxmath,3 - 0
+94,Swansboro ,94,510,114,0.0,60.0,217.0,109.0,386.0,girls,laxmath,2 - 0
+95,St John Paul II ,95,157,3122,0.0,163.0,292.0,3124.0,3579.0,girls,laxmath,3 - 1
+96,Chaminade Prep ,96,267,3089,0.0,177.0,344.0,3091.0,3612.0,girls,laxmath,4 - 1
+97,Westminster School ,97,343,156,0.0,142.0,331.0,153.0,626.0,girls,laxmath,6 - 1
+98,Marietta ,98,177,3101,0.0,40.0,75.0,3102.0,3217.0,girls,laxmath,4 - 1
+99,Cuthbertson ,99,101,110,0.0,70.0,263.0,105.0,438.0,girls,laxmath,2 - 0
+100,Carmel ,100,441,157,0.0,19.0,91.0,154.0,264.0,girls,laxmath,1 - 0
+101,Middle Creek ,101,446,184,0.0,21.0,98.0,181.0,300.0,girls,laxmath,1 - 0
+102,Amador Valley ,102,428,76,0.0,53.0,210.0,74.0,337.0,girls,laxmath,2 - 0
+103,Riverside ,103,553,3132,0.0,145.0,272.0,3131.0,3548.0,girls,laxmath,3 - 1
+104,Redwood ,104,435,84,0.0,216.0,538.0,82.0,836.0,girls,laxmath,2 - 0
+105,Sacred Heart Prep ,105,305,141,0.0,119.0,372.0,139.0,630.0,girls,laxmath,1 - 0
+106,Creekside ,106,63,3147,0.0,111.0,198.0,3186.0,3495.0,girls,laxmath,6 - 2
+107,Sequoyah ,107,456,520,0.0,224.0,423.0,517.0,1164.0,girls,laxmath,5 - 1
+108,Alpharetta ,108,3,3676,0.0,300.0,55.0,3710.0,4065.0,girls,laxmath,0 - 6
+109,Tamalpais ,109,408,85,0.0,253.0,563.0,83.0,899.0,girls,laxmath,2 - 0
+110,San Juan Hills ,110,38,3494,0.0,180.0,170.0,3489.0,3839.0,girls,laxmath,3 - 3
+111,IMG Academy ,111,70,3118,0.0,67.0,132.0,3121.0,3320.0,girls,laxmath,3 - 1
+112,Cypress Creek Wesley ,112,437,491,0.0,251.0,467.0,490.0,1208.0,girls,laxmath,5 - 1
+113,Naples ,113,328,3120,0.0,225.0,376.0,3123.0,3724.0,girls,laxmath,3 - 1
+114,North Forsyth ,114,109,3409,0.0,212.0,247.0,3486.0,3945.0,girls,laxmath,4 - 3
+115,Porter-Gaud School ,115,664,119,0.0,219.0,539.0,114.0,872.0,girls,laxmath,2 - 0
+116,NSU University School ,116,593,36,0.0,324.0,629.0,33.0,986.0,girls,laxmath,4 - 0
+117,Mater Dei Santa Ana ,117,75,3346,0.0,439.0,443.0,3368.0,4250.0,girls,laxmath,2 - 2
+118,Santiago ,118,18,3633,0.0,239.0,76.0,3631.0,3946.0,girls,laxmath,1 - 4
+119,Lakeside Evans ,119,231,150,0.0,81.0,205.0,55.0,341.0,girls,laxmath,6 - 1
+120,Green Hope ,120,418,177,0.0,71.0,264.0,174.0,509.0,girls,laxmath,1 - 0
+121,North Oconee ,121,732,6,0.0,196.0,519.0,3.0,718.0,girls,laxmath,7 - 0
+122,Providence Day ,122,347,192,0.0,72.0,260.0,189.0,521.0,girls,laxmath,1 - 0
+123,Oviedo ,123,92,3679,0.0,240.0,172.0,3703.0,4115.0,girls,laxmath,4 - 6
+124,Live Oak ,124,155,92,0.0,5.0,15.0,90.0,110.0,girls,laxmath,2 - 0
+125,Laguna Beach ,125,796,29,0.0,156.0,458.0,26.0,640.0,girls,laxmath,4 - 0
+126,Barron Collier ,126,152,3332,0.0,147.0,181.0,3345.0,3673.0,girls,laxmath,3 - 2
+127,Bloomingdale ,127,112,3333,0.0,194.0,233.0,3436.0,3863.0,girls,laxmath,4 - 3
+128,Etowah ,128,270,3149,0.0,125.0,171.0,3147.0,3443.0,girls,laxmath,2 - 1
+129,Jupiter ,129,130,3498,0.0,299.0,293.0,3493.0,4085.0,girls,laxmath,3 - 3
+130,Topsail ,130,360,115,0.0,10.0,45.0,110.0,165.0,girls,laxmath,2 - 0
+131,Father Ryan ,131,488,3134,0.0,500.0,646.0,2716.0,3862.0,girls,laxmath,3 - 1
+132,Trabuco Hills ,132,550,31,0.0,75.0,277.0,28.0,380.0,girls,laxmath,4 - 0
+133,Gulf Coast ,133,238,99,0.0,130.0,229.0,97.0,456.0,girls,laxmath,3 - 1
+134,Chaparral ,134,281,3330,0.0,274.0,375.0,3319.0,3968.0,girls,laxmath,4 - 2
+135,Hilton Head ,135,635,2712,0.0,248.0,462.0,2713.0,3423.0,girls,laxmath,5 - 1
+136,Bartow ,136,842,32,0.0,411.0,686.0,29.0,1126.0,girls,laxmath,4 - 0
+137,Chandler ,137,597,50,0.0,172.0,486.0,45.0,703.0,girls,laxmath,3 - 0
+138,Rancho Bernardo ,138,60,3398,0.0,352.0,259.0,3394.0,4005.0,girls,laxmath,1 - 2
+139,Farragut ,139,72,199,0.0,11.0,47.0,196.0,254.0,girls,laxmath,1 - 0
+140,William Blount ,140,496,27,0.0,143.0,422.0,24.0,589.0,girls,laxmath,5 - 0
+141,Christ Presbyterian Acad,141,541,69,0.0,247.0,558.0,67.0,872.0,girls,laxmath,3 - 0
+142,Northeast St Petersburg ,142,462,504,0.0,86.0,197.0,502.0,785.0,girls,laxmath,5 - 1
+143,Gunn ,143,478,91,0.0,57.0,214.0,89.0,360.0,girls,laxmath,2 - 0
+144,Acalanes ,144,145,3111,0.0,49.0,77.0,3111.0,3237.0,girls,laxmath,3 - 1
+145,Martin County ,145,207,503,0.0,47.0,119.0,501.0,667.0,girls,laxmath,5 - 1
+146,Kingwood ,146,371,126,0.0,151.0,447.0,123.0,721.0,girls,laxmath,2 - 0
+147,Lakewood Ranch ,147,274,3483,0.0,331.0,388.0,3478.0,4197.0,girls,laxmath,4 - 3
+148,Starrs Mill ,148,792,40,0.0,228.0,542.0,36.0,806.0,girls,laxmath,4 - 0
+149,Berkeley Prep ,149,41,3482,0.0,114.0,61.0,3536.0,3711.0,girls,laxmath,3 - 4
+150,Bishops School ,150,390,133,0.0,243.0,554.0,130.0,927.0,girls,laxmath,1 - 0
+151,JSerra Catholic ,151,104,3187,0.0,83.0,117.0,3320.0,3520.0,girls,laxmath,4 - 2
+152,Laney ,152,401,183,0.0,469.0,703.0,180.0,1352.0,girls,laxmath,1 - 0
+153,St Michaels Academy ,153,585,74,0.0,285.0,594.0,72.0,951.0,girls,laxmath,3 - 0
+154,Denmark ,154,62,3447,0.0,157.0,150.0,3595.0,3902.0,girls,laxmath,4 - 4
+155,South Walton ,155,509,509,0.0,95.0,219.0,507.0,821.0,girls,laxmath,5 - 1
+156,Rockwall ,156,59,3328,0.0,140.0,44.0,3317.0,3501.0,girls,laxmath,0 - 1
+157,Cardinal Newman ,157,471,3261,0.0,380.0,516.0,3249.0,4145.0,girls,laxmath,5 - 2
+158,Keller ,158,337,125,0.0,516.0,689.0,122.0,1327.0,girls,laxmath,2 - 0
+159,River Bluff ,159,582,67,0.0,98.0,319.0,64.0,481.0,girls,laxmath,3 - 0
+160,Lick-Wilmerding ,160,576,127,0.0,612.0,751.0,124.0,1487.0,girls,laxmath,1 - 0
+161,Monterey ,161,579,140,0.0,18.0,88.0,138.0,244.0,girls,laxmath,1 - 0
+162,Apex Friendship ,162,444,168,0.0,20.0,95.0,165.0,280.0,girls,laxmath,1 - 0
+163,Brentwood ,163,379,3133,0.0,215.0,369.0,3132.0,3716.0,girls,laxmath,3 - 1
+164,Windermere HS ,164,591,513,0.0,265.0,481.0,510.0,1256.0,girls,laxmath,5 - 1
+165,Franklin ,165,181,3343,0.0,141.0,282.0,3336.0,3759.0,girls,laxmath,4 - 2
+166,Apopka ,166,531,55,0.0,103.0,269.0,49.0,421.0,girls,laxmath,8 - 1
+167,Fort Mill ,167,222,3386,0.0,341.0,354.0,3382.0,4077.0,girls,laxmath,2 - 2
+168,JL Mann Academy ,168,44,3558,0.0,132.0,31.0,3554.0,3717.0,girls,laxmath,1 - 3
+169,Bolles School ,169,50,3514,0.0,170.0,120.0,3507.0,3797.0,girls,laxmath,2 - 3
+170,Forsyth Central ,170,25,3663,0.0,335.0,70.0,3662.0,4067.0,girls,laxmath,0 - 4
+171,Frisco ,171,420,45,0.0,138.0,706.0,40.0,884.0,girls,laxmath,4 - 0
+172,Monte Vista Christian ,172,370,3142,0.0,254.0,345.0,137.0,736.0,girls,laxmath,2 - 1
+173,TL Hanna ,173,358,120,0.0,26.0,121.0,115.0,262.0,girls,laxmath,2 - 0
+174,University City ,174,628,49,0.0,354.0,656.0,44.0,1054.0,girls,laxmath,3 - 0
+175,Del Norte ,175,105,3175,0.0,321.0,324.0,231.0,876.0,girls,laxmath,1 - 1
+176,Piedmont ,176,616,130,0.0,17.0,82.0,127.0,226.0,girls,laxmath,1 - 0
+177,McIntosh ,177,802,25,0.0,293.0,602.0,22.0,917.0,girls,laxmath,5 - 0
+178,Northwest Guilford ,178,410,189,0.0,22.0,99.0,186.0,307.0,girls,laxmath,1 - 0
+179,Pace Academy ,179,68,3491,0.0,171.0,122.0,3519.0,3812.0,girls,laxmath,2 - 3
+180,Heritage Christian ,180,563,59,0.0,365.0,658.0,56.0,1079.0,girls,laxmath,3 - 0
+181,Gulf Breeze ,181,210,3600,0.0,397.0,347.0,3601.0,4345.0,girls,laxmath,3 - 4
+182,Charlotte CDS ,182,100,173,0.0,45.0,185.0,170.0,400.0,girls,laxmath,1 - 0
+183,St Stephens ES ,183,417,206,0.0,146.0,431.0,204.0,781.0,girls,laxmath,1 - 0
+184,Mountain View ,184,529,3673,0.0,401.0,368.0,3672.0,4441.0,girls,laxmath,4 - 5
+185,Buford ,185,84,3522,0.0,317.0,274.0,3605.0,4196.0,girls,laxmath,3 - 4
+186,Yorba Linda ,186,431,97,0.0,195.0,427.0,95.0,717.0,girls,laxmath,7 - 1
+187,St Francis Mtn View ,187,638,95,0.0,510.0,720.0,93.0,1323.0,girls,laxmath,2 - 0
+188,San Marin ,188,396,3172,0.0,496.0,525.0,3169.0,4190.0,girls,laxmath,1 - 1
+189,Westview ,189,675,138,0.0,330.0,635.0,135.0,1100.0,girls,laxmath,1 - 0
+190,Decatur ,190,263,3487,0.0,262.0,291.0,3483.0,4036.0,girls,laxmath,4 - 3
+191,Nation Ford ,191,436,3156,0.0,333.0,461.0,3153.0,3947.0,girls,laxmath,2 - 1
+192,St Petersburg Catholic ,192,280,3340,0.0,259.0,352.0,3329.0,3940.0,girls,laxmath,4 - 2
+193,Page ,193,620,70,0.0,372.0,659.0,68.0,1099.0,girls,laxmath,3 - 0
+194,Christ Church Episcopal ,194,672,3131,0.0,318.0,495.0,3130.0,3943.0,girls,laxmath,3 - 1
+195,St Johns ,195,800,73,0.0,174.0,489.0,71.0,734.0,girls,laxmath,3 - 0
+196,Pine Crest ,196,27,3582,0.0,429.0,240.0,3603.0,4272.0,girls,laxmath,1 - 4
+197,Baylor School ,197,98,3526,0.0,214.0,159.0,3521.0,3894.0,girls,laxmath,2 - 3
+198,Bishop McGuinness ,198,525,62,0.0,173.0,487.0,59.0,719.0,girls,laxmath,3 - 0
+199,Vista Murrieta ,199,165,3373,0.0,322.0,326.0,3370.0,4018.0,girls,laxmath,2 - 2
+200,Page ,200,129,3305,0.0,176.0,19.0,3293.0,3488.0,girls,laxmath,0 - 1
+201,Winter Park ,201,324,3486,0.0,283.0,320.0,3481.0,4084.0,girls,laxmath,4 - 3
+202,Clover ,202,265,3366,0.0,152.0,188.0,3363.0,3703.0,girls,laxmath,3 - 2
+203,Branson School ,203,729,79,0.0,484.0,712.0,77.0,1273.0,girls,laxmath,2 - 0
+204,Archie Williams ,204,617,77,0.0,54.0,211.0,75.0,340.0,girls,laxmath,2 - 0
+205,Independence ,205,689,122,0.0,415.0,688.0,119.0,1222.0,girls,laxmath,2 - 0
+206,Katy ,206,781,124,0.0,451.0,699.0,121.0,1271.0,girls,laxmath,2 - 0
+207,Sacred Heart Cathedral ,207,518,28,0.0,69.0,262.0,25.0,356.0,girls,laxmath,4 - 0
+208,Marin Catholic ,208,254,3167,0.0,526.0,546.0,3089.0,4161.0,girls,laxmath,1 - 1
+209,Out-of-Door Academy ,209,320,146,0.0,277.0,426.0,147.0,850.0,girls,laxmath,3 - 1
+210,San Marcos SB ,210,532,3092,0.0,205.0,387.0,3094.0,3686.0,girls,laxmath,4 - 1
+211,Granite Bay ,211,372,83,0.0,139.0,307.0,81.0,527.0,girls,laxmath,2 - 0
+212,St Augustine ,212,35,3691,0.0,316.0,138.0,3688.0,4142.0,girls,laxmath,1 - 5
+213,Woodside ,213,627,142,0.0,613.0,756.0,140.0,1509.0,girls,laxmath,1 - 0
+214,Byrnes ,214,405,3414,0.0,596.0,551.0,3410.0,4557.0,girls,laxmath,1 - 2
+215,Bishop England ,215,733,118,0.0,303.0,609.0,113.0,1025.0,girls,laxmath,2 - 0
+216,Sage Creek ,216,380,3114,0.0,232.0,384.0,3115.0,3731.0,girls,laxmath,3 - 1
+217,Richmond Hill ,217,299,3128,0.0,79.0,152.0,3129.0,3360.0,girls,laxmath,3 - 1
+218,Glendale ,218,341,3115,0.0,280.0,432.0,3181.0,3893.0,girls,laxmath,6 - 2
+219,Los Alamitos ,219,555,52,0.0,50.0,202.0,47.0,299.0,girls,laxmath,3 - 0
+220,Providence School ,220,828,103,0.0,185.0,502.0,99.0,786.0,girls,laxmath,2 - 0
+221,West ,221,764,44,0.0,292.0,601.0,39.0,932.0,girls,laxmath,4 - 0
+222,Bryan Station ,222,712,162,0.0,742.0,1242.0,159.0,2143.0,girls,laxmath,1 - 0
+223,Eastern ,223,713,163,0.0,743.0,1249.0,160.0,2152.0,girls,laxmath,1 - 0
+224,Louisville Collegiate ,224,714,165,0.0,745.0,1257.0,162.0,2164.0,girls,laxmath,1 - 0
+225,Oldham County ,225,715,167,0.0,747.0,1262.0,164.0,2173.0,girls,laxmath,1 - 0
+226,High Point Central ,226,717,180,0.0,758.0,2859.0,177.0,3794.0,girls,laxmath,1 - 0
+227,New Hanover ,227,718,187,0.0,762.0,2870.0,184.0,3816.0,girls,laxmath,1 - 0
+228,Union Pines ,228,719,196,0.0,769.0,2893.0,193.0,3855.0,girls,laxmath,1 - 0
+229,Hockaday ,229,721,203,0.0,775.0,3362.0,201.0,4338.0,girls,laxmath,1 - 0
+230,West Brunswick ,230,720,117,0.0,771.0,2896.0,112.0,3779.0,girls,laxmath,2 - 0
+231,El Dorado ,231,482,3186,0.0,256.0,406.0,3180.0,3842.0,girls,laxmath,6 - 2
+232,Lovett ,232,102,3602,0.0,186.0,175.0,3596.0,3957.0,girls,laxmath,4 - 4
+233,Jenks ,233,516,3130,0.0,150.0,278.0,1562.0,1990.0,girls,laxmath,3 - 1
+234,Satellite ,234,351,3265,0.0,457.0,583.0,3253.0,4293.0,girls,laxmath,5 - 2
+235,Southeast Guilford ,235,794,113,0.0,513.0,724.0,108.0,1345.0,girls,laxmath,2 - 0
+236,Point Loma ,236,798,135,0.0,236.0,548.0,132.0,916.0,girls,laxmath,1 - 0
+237,Royal ,237,132,3614,0.0,582.0,531.0,3610.0,4723.0,girls,laxmath,2 - 4
+238,Calvary Christian Academ,238,587,3096,0.0,304.0,513.0,3096.0,3913.0,girls,laxmath,4 - 1
+239,Winter Springs ,239,303,3360,0.0,191.0,231.0,3482.0,3904.0,girls,laxmath,4 - 3
+240,Great Oak ,240,666,3090,0.0,94.0,193.0,3092.0,3379.0,girls,laxmath,4 - 1
+241,Episcopal Dallas ,241,621,123,0.0,375.0,660.0,120.0,1155.0,girls,laxmath,2 - 0
+242,Lake Brantley ,242,126,3517,0.0,162.0,276.0,3510.0,3948.0,girls,laxmath,2 - 3
+243,Bishop Gorman ,243,468,106,0.0,164.0,470.0,101.0,735.0,girls,laxmath,2 - 0
+244,Mountain Brook ,244,383,3599,0.0,453.0,459.0,3594.0,4506.0,girls,laxmath,4 - 4
+245,Fallbrook ,245,782,89,0.0,489.0,719.0,87.0,1295.0,girls,laxmath,2 - 0
+246,Woodcreek ,246,738,87,0.0,669.0,768.0,85.0,1522.0,girls,laxmath,2 - 0
+247,Cypress Bay ,247,608,8,0.0,179.0,490.0,5.0,674.0,girls,laxmath,6 - 0
+248,Forest ,248,596,20,0.0,181.0,497.0,16.0,694.0,girls,laxmath,5 - 0
+249,Edgewood ,249,325,3193,0.0,580.0,611.0,3187.0,4378.0,girls,laxmath,1 - 1
+250,Wakefield ,250,684,116,0.0,514.0,725.0,111.0,1350.0,girls,laxmath,2 - 0
+251,Guerin Catholic ,251,687,160,0.0,740.0,1206.0,157.0,2103.0,girls,laxmath,1 - 0
+252,Socastee ,252,761,41,0.0,486.0,714.0,37.0,1237.0,girls,laxmath,4 - 0
+253,East Chapel Hill ,253,614,175,0.0,614.0,758.0,172.0,1544.0,girls,laxmath,1 - 0
+254,St James ,254,746,68,0.0,383.0,663.0,65.0,1111.0,girls,laxmath,3 - 0
+255,Lucy Beckham ,255,135,3418,0.0,226.0,136.0,3414.0,3776.0,girls,laxmath,1 - 2
+256,Millbrook ,256,744,185,0.0,615.0,760.0,182.0,1557.0,girls,laxmath,1 - 0
+257,Wando ,257,694,121,0.0,279.0,582.0,116.0,977.0,girls,laxmath,2 - 0
+258,Whitney ,258,723,86,0.0,551.0,741.0,84.0,1376.0,girls,laxmath,2 - 0
+259,Asheville HS ,259,457,107,0.0,59.0,216.0,102.0,377.0,girls,laxmath,2 - 0
+260,Culver City ,260,52,3632,0.0,159.0,38.0,3630.0,3827.0,girls,laxmath,1 - 4
+261,Sebastian River ,261,327,3378,0.0,261.0,201.0,3375.0,3837.0,girls,laxmath,2 - 2
+262,Croatan ,262,489,109,0.0,483.0,711.0,104.0,1298.0,girls,laxmath,2 - 0
+263,Bella Vista ,263,730,78,0.0,55.0,212.0,76.0,343.0,girls,laxmath,2 - 0
+264,Lexington Catholic ,264,754,164,0.0,744.0,1255.0,161.0,2160.0,girls,laxmath,1 - 0
+265,RJ Reynolds ,265,756,194,0.0,768.0,2884.0,191.0,3843.0,girls,laxmath,1 - 0
+266,South Mecklenburg ,266,765,112,0.0,310.0,618.0,107.0,1035.0,girls,laxmath,2 - 0
+267,Carolina Forest ,267,704,63,0.0,342.0,644.0,60.0,1046.0,girls,laxmath,3 - 0
+268,Cedar Park ,268,389,3109,0.0,478.0,647.0,200.0,1325.0,girls,laxmath,4 - 1
+269,East Lake ,269,393,3335,0.0,246.0,339.0,3324.0,3909.0,girls,laxmath,4 - 2
+270,Fuquay-Varina ,270,670,111,0.0,511.0,721.0,106.0,1338.0,girls,laxmath,2 - 0
+271,Orange Lutheran ,271,685,285,0.0,284.0,506.0,285.0,1075.0,girls,laxmath,5 - 1
+272,Corona Del Mar ,272,463,3144,0.0,479.0,589.0,3141.0,4209.0,girls,laxmath,2 - 1
+273,Hillgrove ,273,815,104,0.0,581.0,745.0,100.0,1426.0,girls,laxmath,2 - 0
+274,Sonoma Valley ,274,645,131,0.0,733.0,802.0,128.0,1663.0,girls,laxmath,1 - 0
+275,Torrey Pines ,275,646,137,0.0,734.0,824.0,134.0,1692.0,girls,laxmath,1 - 0
+276,Asheville School ,276,647,169,0.0,749.0,2828.0,166.0,3743.0,girls,laxmath,1 - 0
+277,Cannon School ,277,648,170,0.0,750.0,2830.0,167.0,3747.0,girls,laxmath,1 - 0
+278,Cary HS ,278,649,171,0.0,751.0,2835.0,168.0,3754.0,girls,laxmath,1 - 0
+279,Charlotte Catholic ,279,650,172,0.0,752.0,2837.0,169.0,3758.0,girls,laxmath,1 - 0
+280,Forsyth CDS ,280,651,176,0.0,755.0,2852.0,173.0,3780.0,girls,laxmath,1 - 0
+281,Heritage ,281,652,179,0.0,757.0,2858.0,176.0,3791.0,girls,laxmath,1 - 0
+282,JH Rose ,282,653,182,0.0,760.0,2865.0,179.0,3804.0,girls,laxmath,1 - 0
+283,North Davidson ,283,654,188,0.0,763.0,2871.0,185.0,3819.0,girls,laxmath,1 - 0
+284,Pine Lake Prep ,284,655,191,0.0,765.0,2878.0,188.0,3831.0,girls,laxmath,1 - 0
+285,Ravenscroft School ,285,656,193,0.0,767.0,2882.0,190.0,3839.0,girls,laxmath,1 - 0
+286,Wake Forest ,286,657,197,0.0,770.0,2894.0,194.0,3858.0,girls,laxmath,1 - 0
+287,Hendersonville ,287,658,200,0.0,774.0,3343.0,197.0,4314.0,girls,laxmath,1 - 0
+288,Anderson ,288,695,71,0.0,396.0,674.0,69.0,1139.0,girls,laxmath,3 - 0
+289,Del Oro ,289,548,82,0.0,290.0,597.0,80.0,967.0,girls,laxmath,2 - 0
+290,Saugus ,290,385,3349,0.0,124.0,139.0,3341.0,3604.0,girls,laxmath,3 - 2
+291,Woodlands ,291,567,3110,0.0,192.0,380.0,3110.0,3682.0,girls,laxmath,4 - 1
+292,Reagan ,292,302,3389,0.0,252.0,244.0,3385.0,3881.0,girls,laxmath,2 - 2
+293,South Brunswick ,293,773,195,0.0,512.0,723.0,192.0,1427.0,girls,laxmath,1 - 0
+294,Washington ,294,615,3268,0.0,319.0,479.0,3255.0,4053.0,girls,laxmath,5 - 2
+295,Durant ,295,335,3192,0.0,257.0,305.0,3323.0,3885.0,girls,laxmath,3 - 2
+296,Urban School ,296,373,3138,0.0,149.0,228.0,3135.0,3512.0,girls,laxmath,2 - 1
+297,Newbury Park ,297,661,144,0.0,553.0,1.0,143.0,697.0,girls,laxmath,1 - 0
+298,Salinas ,298,266,3182,0.0,361.0,373.0,260.0,994.0,girls,laxmath,1 - 1
+299,Greenville ,299,562,3105,0.0,134.0,268.0,3108.0,3510.0,girls,laxmath,4 - 1
+300,Harrison ,300,186,3524,0.0,428.0,370.0,3517.0,4315.0,girls,laxmath,2 - 3
+301,Canyon Crest ,301,546,88,0.0,135.0,408.0,86.0,629.0,girls,laxmath,2 - 0
+302,North Atlanta ,302,208,3509,0.0,255.0,246.0,3501.0,4002.0,girls,laxmath,3 - 3
+303,Castilleja ,303,611,139,0.0,735.0,835.0,136.0,1706.0,girls,laxmath,1 - 0
+304,John Paul II ,304,612,204,0.0,776.0,3363.0,202.0,4341.0,girls,laxmath,1 - 0
+305,Presentation ,305,583,94,0.0,485.0,713.0,92.0,1290.0,girls,laxmath,2 - 0
+306,Boone ,306,630,3260,0.0,188.0,301.0,3248.0,3737.0,girls,laxmath,5 - 2
+307,West Ranch ,307,127,3540,0.0,564.0,454.0,3535.0,4553.0,girls,laxmath,1 - 3
+308,Pinnacle ,308,522,90,0.0,358.0,657.0,88.0,1103.0,girls,laxmath,2 - 0
+309,Episcopal Houston ,309,745,72,0.0,398.0,677.0,70.0,1145.0,girls,laxmath,3 - 0
+310,Higley ,310,287,3242,0.0,357.0,825.0,3230.0,4412.0,girls,laxmath,0 - 1
+311,Wellington ,311,453,3485,0.0,436.0,492.0,3480.0,4408.0,girls,laxmath,4 - 3
+312,Cate School ,312,212,3184,0.0,391.0,383.0,3178.0,3952.0,girls,laxmath,1 - 1
+313,St Pius X ,313,564,3365,0.0,392.0,463.0,3361.0,4216.0,girls,laxmath,3 - 2
+314,Maryville ,314,559,3159,0.0,569.0,678.0,3157.0,4404.0,girls,laxmath,2 - 1
+315,Murrieta Valley ,315,700,15,0.0,201.0,523.0,11.0,735.0,girls,laxmath,5 - 0
+316,Head-Royce School ,316,352,3165,0.0,467.0,484.0,3163.0,4114.0,girls,laxmath,1 - 1
+317,Lamar ,317,344,3561,0.0,389.0,225.0,3557.0,4171.0,girls,laxmath,1 - 3
+318,West Orange ,318,829,512,0.0,332.0,555.0,509.0,1396.0,girls,laxmath,5 - 1
+319,Carondelet ,319,162,3392,0.0,525.0,436.0,3388.0,4349.0,girls,laxmath,1 - 2
+320,Evansville Bosse ,320,710,158,0.0,738.0,1200.0,155.0,2093.0,girls,laxmath,1 - 0
+321,Evansville Central ,321,711,159,0.0,739.0,1201.0,156.0,2096.0,girls,laxmath,1 - 0
+322,Holly Springs ,322,578,181,0.0,759.0,2860.0,178.0,3797.0,girls,laxmath,1 - 0
+323,Monte Vista Danville ,323,403,3168,0.0,249.0,237.0,3165.0,3651.0,girls,laxmath,1 - 1
+324,Wharton ,324,209,3199,0.0,202.0,294.0,3378.0,3874.0,girls,laxmath,6 - 3
+325,Vista del Lago ,325,206,3393,0.0,204.0,141.0,3389.0,3734.0,girls,laxmath,1 - 2
+326,Marvin Ridge ,326,149,3205,0.0,395.0,392.0,2258.0,3045.0,girls,laxmath,1 - 1
+327,Boca Raton ,327,552,3334,0.0,386.0,496.0,3322.0,4204.0,girls,laxmath,4 - 2
+328,Greenbrier ,328,342,3489,0.0,278.0,308.0,3485.0,4071.0,girls,laxmath,4 - 3
+329,Mitchell ,329,426,3500,0.0,459.0,471.0,3495.0,4425.0,girls,laxmath,3 - 3
+330,Mira Mesa ,330,512,3140,0.0,490.0,606.0,3137.0,4233.0,girls,laxmath,2 - 1
+331,Menlo-Atherton ,331,519,93,0.0,58.0,215.0,91.0,364.0,girls,laxmath,2 - 0
+332,Melbourne ,332,402,3356,0.0,227.0,405.0,3351.0,3983.0,girls,laxmath,3 - 2
+333,Fleming Island ,333,345,3354,0.0,137.0,166.0,3349.0,3652.0,girls,laxmath,3 - 2
+334,Franklin Road Academy ,334,329,3388,0.0,250.0,242.0,3384.0,3876.0,girls,laxmath,2 - 2
+335,Myers Park ,335,461,3154,0.0,90.0,134.0,2259.0,2483.0,girls,laxmath,2 - 1
+336,Terra Linda ,336,774,132,0.0,584.0,748.0,129.0,1461.0,girls,laxmath,1 - 0
+337,Mater Dei Chula Vista ,337,640,3113,0.0,276.0,425.0,3114.0,3815.0,girls,laxmath,3 - 1
+338,Menendez ,338,589,3263,0.0,193.0,318.0,3251.0,3762.0,girls,laxmath,5 - 2
+339,Beckman ,339,258,3511,0.0,234.0,169.0,3504.0,3907.0,girls,laxmath,2 - 3
+340,Tampa Catholic ,340,605,3267,0.0,418.0,561.0,3254.0,4233.0,girls,laxmath,5 - 2
+341,Allatoona ,341,520,3361,0.0,393.0,464.0,3357.0,4214.0,girls,laxmath,3 - 2
+342,Lake Howell ,342,309,3337,0.0,263.0,361.0,3327.0,3951.0,girls,laxmath,4 - 2
+343,Wade Hampton ,343,785,3106,0.0,394.0,575.0,3109.0,4078.0,girls,laxmath,4 - 1
+344,Norco ,344,346,3576,0.0,229.0,250.0,3572.0,4051.0,girls,laxmath,5 - 4
+345,St Petersburg ,345,395,3484,0.0,423.0,482.0,3479.0,4384.0,girls,laxmath,4 - 3
+346,Dos Pueblos ,346,153,3185,0.0,291.0,284.0,3179.0,3754.0,girls,laxmath,1 - 1
+347,James Island ,347,150,3417,0.0,82.0,21.0,3413.0,3516.0,girls,laxmath,1 - 2
+348,Notre Dame Academy ,348,755,166,0.0,746.0,1261.0,163.0,2170.0,girls,laxmath,1 - 0
+349,West Forsyth ,349,757,198,0.0,772.0,2897.0,195.0,3864.0,girls,laxmath,1 - 0
+350,Parkwood ,350,854,190,0.0,764.0,2877.0,187.0,3828.0,girls,laxmath,1 - 0
+351,Clearwater Central Catho,351,677,489,0.0,334.0,560.0,488.0,1382.0,girls,laxmath,5 - 1
+352,East Forsyth ,352,472,3449,0.0,314.0,395.0,3445.0,4154.0,girls,laxmath,5 - 3
+353,Davis ,353,622,81,0.0,128.0,386.0,79.0,593.0,girls,laxmath,2 - 0
+354,West Florida ,354,680,148,0.0,155.0,355.0,149.0,659.0,girls,laxmath,6 - 1
+355,Canyon ,355,326,3604,0.0,535.0,518.0,3598.0,4651.0,girls,laxmath,3 - 4
+356,Eleanor Roosevelt ,356,276,3605,0.0,210.0,168.0,3599.0,3977.0,girls,laxmath,3 - 4
+357,Lovejoy ,357,97,3477,0.0,416.0,133.0,3473.0,4022.0,girls,laxmath,0 - 2
+358,Woodstock ,358,412,3610,0.0,443.0,393.0,3606.0,4442.0,girls,laxmath,3 - 4
+359,Dutch Fork ,359,23,3466,0.0,230.0,27.0,3462.0,3719.0,girls,laxmath,0 - 2
+360,Legion Collegiate Academ,360,487,3387,0.0,588.0,623.0,3383.0,4594.0,girls,laxmath,2 - 2
+361,Woodbridge ,361,221,3374,0.0,78.0,50.0,3371.0,3499.0,girls,laxmath,2 - 2
+362,AC Flora ,362,557,3155,0.0,504.0,614.0,3152.0,4270.0,girls,laxmath,2 - 1
+363,Fort Myers ,363,460,98,0.0,160.0,322.0,3097.0,3579.0,girls,laxmath,4 - 1
+364,Hillsdale ,364,784,51,0.0,402.0,679.0,46.0,1127.0,girls,laxmath,3 - 0
+365,Archbishop McCarthy ,365,490,3094,0.0,154.0,315.0,3095.0,3564.0,girls,laxmath,4 - 1
+366,Wheeler ,366,103,3553,0.0,463.0,298.0,3549.0,4310.0,girls,laxmath,1 - 3
+367,First Academy ,367,256,3194,0.0,323.0,391.0,3348.0,4062.0,girls,laxmath,3 - 2
+368,Mission Hills ,368,386,3396,0.0,408.0,303.0,3392.0,4103.0,girls,laxmath,1 - 2
+369,Wiregrass Ranch ,369,538,3507,0.0,427.0,430.0,3499.0,4356.0,girls,laxmath,3 - 3
+370,Atherton ,370,506,161,0.0,741.0,1239.0,158.0,2138.0,girls,laxmath,1 - 0
+371,Community School Davidso,371,507,174,0.0,753.0,2843.0,171.0,3767.0,girls,laxmath,1 - 0
+372,Horizon ,372,807,499,0.0,258.0,478.0,497.0,1233.0,girls,laxmath,5 - 1
+373,Beachside ,373,619,3116,0.0,189.0,330.0,3118.0,3637.0,girls,laxmath,3 - 1
+374,Westridge School ,374,459,3331,0.0,222.0,310.0,3321.0,3853.0,girls,laxmath,4 - 2
+375,Newport Harbor ,375,174,3400,0.0,183.0,108.0,3396.0,3687.0,girls,laxmath,1 - 2
+376,North Bay Haven ,376,568,3357,0.0,585.0,668.0,3352.0,4605.0,girls,laxmath,3 - 2
+377,Friendswood ,377,500,3161,0.0,502.0,613.0,3159.0,4274.0,girls,laxmath,2 - 1
+378,Seacoast Collegiate ,378,73,3198,0.0,65.0,34.0,3190.0,3289.0,girls,laxmath,1 - 1
+379,Bishop Verot ,379,93,3541,0.0,260.0,123.0,3537.0,3920.0,girls,laxmath,1 - 3
+380,Marist ,380,57,3609,0.0,294.0,131.0,3642.0,4067.0,girls,laxmath,1 - 4
+381,King ,381,392,3606,0.0,449.0,402.0,3600.0,4451.0,girls,laxmath,3 - 4
+382,Northwood ,382,71,3651,0.0,599.0,340.0,3650.0,4589.0,girls,laxmath,0 - 4
+383,Oxbridge Academy ,383,54,3197,0.0,168.0,163.0,3353.0,3684.0,girls,laxmath,3 - 3
+384,Sarasota ,384,193,3546,0.0,549.0,416.0,3543.0,4508.0,girls,laxmath,1 - 3
+385,Desert Vista ,385,387,3179,0.0,413.0,418.0,3175.0,4006.0,girls,laxmath,1 - 1
+386,Granite Hills ,386,128,3529,0.0,539.0,400.0,3524.0,4463.0,girls,laxmath,1 - 3
+387,Fayetteville ,387,421,3252,0.0,325.0,66.0,3240.0,3631.0,girls,laxmath,0 - 1
+388,Spain Park ,388,679,3329,0.0,347.0,483.0,3318.0,4148.0,girls,laxmath,4 - 2
+389,Sequoia ,389,391,3183,0.0,509.0,535.0,3177.0,4221.0,girls,laxmath,1 - 1
+390,Peninsula ,390,709,3258,0.0,494.0,627.0,3246.0,4367.0,girls,laxmath,5 - 2
+391,Park Vista ,391,298,3623,0.0,442.0,329.0,3619.0,4390.0,girls,laxmath,2 - 4
+392,New Bern ,392,255,3461,0.0,779.0,710.0,3457.0,4946.0,girls,laxmath,0 - 2
+393,Nease ,393,180,3520,0.0,426.0,366.0,3513.0,4305.0,girls,laxmath,2 - 3
+394,Oconee County ,394,229,3629,0.0,346.0,254.0,3626.0,4226.0,girls,laxmath,2 - 4
+395,Northgate ,395,498,3102,0.0,289.0,491.0,3103.0,3883.0,girls,laxmath,4 - 1
+396,Bay School ,396,634,3135,0.0,638.0,718.0,3133.0,4489.0,girls,laxmath,2 - 1
+397,Aliso Niguel ,397,813,3088,0.0,405.0,593.0,3090.0,4088.0,girls,laxmath,4 - 1
+398,Miami Palmetto ,398,599,3098,0.0,241.0,421.0,3098.0,3760.0,girls,laxmath,4 - 1
+399,Tulsa Patriots ,399,662,3153,0.0,518.0,620.0,3106.0,4244.0,girls,laxmath,2 - 1
+400,Holy Trinity Episcopal ,400,698,56,0.0,340.0,642.0,51.0,1033.0,girls,laxmath,3 - 0
+401,Houston ,401,189,3527,0.0,101.0,46.0,3522.0,3669.0,girls,laxmath,2 - 3
+402,Ronald Reagan ,402,515,3208,0.0,687.0,722.0,3196.0,4605.0,girls,laxmath,1 - 1
+403,Trinity Christian ,403,363,3200,0.0,476.0,498.0,3191.0,4165.0,girls,laxmath,1 - 1
+404,Greater Atlanta Christia,404,262,3550,0.0,544.0,414.0,3547.0,4505.0,girls,laxmath,1 - 3
+405,La Jolla CDS ,405,419,3394,0.0,198.0,116.0,3390.0,3704.0,girls,laxmath,1 - 2
+406,Niceville ,406,504,3264,0.0,410.0,556.0,3252.0,4218.0,girls,laxmath,5 - 2
+407,Canterbury School ,407,285,3401,0.0,487.0,394.0,3397.0,4278.0,girls,laxmath,1 - 2
+408,Westwood ,408,330,3528,0.0,617.0,608.0,3523.0,4748.0,girls,laxmath,2 - 3
+409,Broughton ,409,154,3412,0.0,309.0,209.0,3334.0,3852.0,girls,laxmath,1 - 2
+410,Hickory ,410,216,3299,0.0,121.0,11.0,3287.0,3419.0,girls,laxmath,0 - 1
+411,Salt County ,411,752,13,0.0,327.0,631.0,9.0,967.0,girls,laxmath,5 - 0
+412,Santa Monica ,412,184,3538,0.0,264.0,149.0,3533.0,3946.0,girls,laxmath,1 - 3
+413,El Capitan ,413,667,3112,0.0,631.0,736.0,3113.0,4480.0,girls,laxmath,3 - 1
+414,Buchholz ,414,217,3683,0.0,473.0,270.0,3679.0,4422.0,girls,laxmath,1 - 5
+415,North Brunswick ,415,430,3206,0.0,369.0,374.0,3195.0,3938.0,girls,laxmath,1 - 1
+416,Robinson ,416,91,3504,0.0,422.0,266.0,3542.0,4230.0,girls,laxmath,1 - 3
+417,Heritage ,417,703,201,0.0,690.0,777.0,198.0,1665.0,girls,laxmath,1 - 0
+418,Parkview ,418,843,3103,0.0,497.0,671.0,3104.0,4272.0,girls,laxmath,4 - 1
+419,Folsom ,419,665,3164,0.0,507.0,533.0,3162.0,4202.0,girls,laxmath,1 - 1
+420,Havelock ,420,716,178,0.0,756.0,2857.0,175.0,3788.0,girls,laxmath,1 - 0
+421,Melbourne Central Cathol,709,747,3262,0.0,266.0,36.0,3250.0,3552.0,girls,laxmath,0 - 1
+422,Sacred Heart Academy ,3283,443,3201,0.0,748.0,757.0,3149.0,4654.0,girls,laxmath,1 - 1
+423,Pinecrest ,3284,448,3207,0.0,766.0,761.0,3151.0,4678.0,girls,laxmath,1 - 1
+424,Willow Spring ,3285,449,3212,0.0,773.0,762.0,3200.0,4735.0,girls,laxmath,1 - 1
+425,Los Altos ,3286,314,3244,0.0,118.0,9.0,3232.0,3359.0,girls,laxmath,0 - 1
+426,Eastside ,3287,669,3104,0.0,91.0,189.0,3107.0,3387.0,girls,laxmath,4 - 1
+427,Riverwood ,3288,362,3630,0.0,329.0,234.0,3628.0,4191.0,girls,laxmath,2 - 4
+428,Granada ,3289,454,3137,0.0,106.0,154.0,3134.0,3394.0,girls,laxmath,2 - 1
+429,Northgate ,3290,86,3427,0.0,339.0,72.0,3423.0,3834.0,girls,laxmath,0 - 2
+430,Rosary Academy ,3291,501,3348,0.0,403.0,473.0,3340.0,4216.0,girls,laxmath,3 - 2
+431,Petaluma ,3292,812,129,0.0,686.0,773.0,126.0,1585.0,girls,laxmath,1 - 0
+432,Gulliver Prep ,3293,388,3355,0.0,381.0,440.0,3350.0,4171.0,girls,laxmath,3 - 2
+433,Bearden ,3294,78,3313,0.0,165.0,16.0,3301.0,3482.0,girls,laxmath,0 - 1
+434,Timber Creek ,3295,361,3714,0.0,547.0,403.0,3714.0,4664.0,girls,laxmath,2 - 7
+435,Boiling Springs ,3296,319,3557,0.0,315.0,165.0,3553.0,4033.0,girls,laxmath,1 - 3
+436,West Shore ,3297,272,3586,0.0,652.0,442.0,3581.0,4675.0,girls,laxmath,0 - 3
+437,Vista ,3298,540,3178,0.0,430.0,433.0,3174.0,4037.0,girls,laxmath,1 - 1
+438,Catawba Ridge ,3299,313,3525,0.0,184.0,135.0,3520.0,3839.0,girls,laxmath,2 - 3
+439,Carrollton ,3300,304,3523,0.0,425.0,362.0,3516.0,4303.0,girls,laxmath,2 - 3
+440,All Saints Academy ,3301,767,3351,0.0,450.0,522.0,3343.0,4315.0,girls,laxmath,3 - 2
+441,Mount Paran Christian ,3302,282,3408,0.0,421.0,313.0,3406.0,4140.0,girls,laxmath,1 - 2
+442,Miami Country Day ,3303,178,3519,0.0,242.0,173.0,3512.0,3927.0,girls,laxmath,2 - 3
+443,Mission Vista ,3304,42,3234,0.0,93.0,3.0,3222.0,3318.0,girls,laxmath,0 - 1
+444,Cape Fear Academy ,3305,400,2240,0.0,795.0,770.0,2239.0,3804.0,girls,laxmath,0 - 0
+445,Girls Preparatory School,3306,131,3560,0.0,532.0,289.0,3556.0,4377.0,girls,laxmath,1 - 3
+446,Watauga ,3307,820,3211,0.0,515.0,537.0,3199.0,4251.0,girls,laxmath,1 - 1
+447,Bradenton Christian ,3308,409,3615,0.0,586.0,541.0,3611.0,4738.0,girls,laxmath,2 - 4
+448,Dwyer ,3309,536,3375,0.0,435.0,441.0,3372.0,4248.0,girls,laxmath,2 - 2
+449,Downey ,3310,111,3650,0.0,542.0,248.0,3649.0,4439.0,girls,laxmath,0 - 4
+450,Christian Academy Knoxvi,3311,499,3510,0.0,482.0,511.0,3503.0,4496.0,girls,laxmath,3 - 3
+451,Centennial ,3312,40,3643,0.0,275.0,112.0,3641.0,4028.0,girls,laxmath,1 - 4
+452,Dougherty Valley ,3313,83,3221,0.0,308.0,60.0,3209.0,3577.0,girls,laxmath,0 - 1
+453,Atascocita ,3314,196,3474,0.0,480.0,177.0,3470.0,4127.0,girls,laxmath,0 - 2
+454,Cookeville ,3315,119,3468,0.0,698.0,275.0,3464.0,4437.0,girls,laxmath,0 - 2
+455,Kennesaw Mountain ,3316,492,3363,0.0,444.0,514.0,3359.0,4317.0,girls,laxmath,3 - 2
+456,Tesoro ,3317,198,3539,0.0,286.0,129.0,3534.0,3949.0,girls,laxmath,1 - 3
+457,Estero ,3318,779,3336,0.0,387.0,500.0,3325.0,4212.0,girls,laxmath,4 - 2
+458,Gainesville ,3319,609,3497,0.0,301.0,296.0,3492.0,4089.0,girls,laxmath,3 - 3
+459,Grimsley ,3320,573,3204,0.0,414.0,419.0,3194.0,4027.0,girls,laxmath,1 - 1
+460,Miramonte ,3321,136,3564,0.0,501.0,203.0,3560.0,4264.0,girls,laxmath,0 - 3
+461,Ryle ,3322,367,3283,0.0,1289.0,1265.0,3271.0,5825.0,girls,laxmath,0 - 1
+462,Davidson Day School ,3323,368,3292,0.0,2864.0,2845.0,3280.0,8989.0,girls,laxmath,0 - 1
+463,Lourdes Academy ,3324,584,3196,0.0,434.0,439.0,3188.0,4061.0,girls,laxmath,1 - 1
+464,St Marys Episcopal ,3325,554,3367,0.0,390.0,453.0,3205.0,4048.0,girls,laxmath,3 - 2
+465,Effingham County ,3326,201,3549,0.0,379.0,218.0,3546.0,4143.0,girls,laxmath,1 - 3
+466,Classical Academy ,3327,639,3139,0.0,158.0,239.0,3136.0,3533.0,girls,laxmath,2 - 1
+467,Francis Parker School ,3328,159,3568,0.0,404.0,118.0,3564.0,4086.0,girls,laxmath,0 - 3
+468,Bradley Central ,3329,484,3421,0.0,384.0,232.0,3417.0,4033.0,girls,laxmath,1 - 2
+469,Roncalli ,3330,115,3278,0.0,366.0,94.0,3266.0,3726.0,girls,laxmath,0 - 1
+470,Aubrey Rogers ,3331,397,3352,0.0,245.0,295.0,3344.0,3884.0,girls,laxmath,3 - 2
+471,Campbell ,3332,693,3341,0.0,563.0,672.0,3331.0,4566.0,girls,laxmath,4 - 2
+472,Pine School ,3333,637,3358,0.0,446.0,517.0,3354.0,4317.0,girls,laxmath,3 - 2
+473,Cy-Fair ,3334,734,3160,0.0,471.0,578.0,3158.0,4207.0,girls,laxmath,2 - 1
+474,Centennial ,3335,123,3314,0.0,371.0,101.0,3302.0,3774.0,girls,laxmath,0 - 1
+475,Sonoma Academy ,3336,137,3225,0.0,117.0,7.0,3213.0,3337.0,girls,laxmath,0 - 1
+476,Pioneer ,3337,158,3435,0.0,552.0,257.0,3431.0,4240.0,girls,laxmath,0 - 2
+477,South Plantation ,3338,668,3608,0.0,474.0,444.0,3604.0,4522.0,girls,laxmath,3 - 4
+478,Olympic Heights ,3339,644,3502,0.0,562.0,595.0,3496.0,4653.0,girls,laxmath,3 - 3
+479,White Station ,3340,24,3472,0.0,281.0,49.0,3468.0,3798.0,girls,laxmath,0 - 2
+480,Ransom Everglades ,3341,148,3583,0.0,595.0,332.0,3578.0,4505.0,girls,laxmath,0 - 3
+481,Dripping Springs ,3342,89,3322,0.0,273.0,43.0,3311.0,3627.0,girls,laxmath,0 - 1
+482,Riverside Poly ,3343,840,3347,0.0,643.0,705.0,3339.0,4687.0,girls,laxmath,3 - 2
+483,Lowell ,3344,144,3223,0.0,116.0,6.0,3211.0,3333.0,girls,laxmath,0 - 1
+484,Apex ,3345,692,3202,0.0,794.0,769.0,3192.0,4755.0,girls,laxmath,1 - 1
+485,Berkeley ,3346,55,3219,0.0,115.0,5.0,3207.0,3327.0,girls,laxmath,0 - 1
+486,Evans ,3347,381,3381,0.0,306.0,306.0,3333.0,3945.0,girls,laxmath,2 - 2
+487,Evansville Memorial ,3348,114,3276,0.0,364.0,93.0,3264.0,3721.0,girls,laxmath,0 - 1
+488,West Broward ,3349,763,37,0.0,96.0,316.0,34.0,446.0,girls,laxmath,4 - 0
+489,Wilcox ,3350,82,3250,0.0,120.0,10.0,3238.0,3368.0,girls,laxmath,0 - 1
+490,Soquel ,3351,275,3248,0.0,809.0,755.0,3236.0,4800.0,girls,laxmath,0 - 1
+491,Celebration ,3352,215,3685,0.0,409.0,204.0,3681.0,4294.0,girls,laxmath,1 - 5
+492,Mt Carmel ,3353,36,3235,0.0,270.0,41.0,3223.0,3534.0,girls,laxmath,0 - 1
+493,Pacific Ridge ,3354,37,3236,0.0,271.0,42.0,3224.0,3537.0,girls,laxmath,0 - 1
+494,St Cecilia Academy ,3355,1,3217,0.0,123.0,488.0,3305.0,3916.0,girls,laxmath,0 - 1
+495,University HS SF ,3356,58,3227,0.0,218.0,25.0,3215.0,3458.0,girls,laxmath,0 - 1
+496,Seminole Ridge ,3357,353,3680,0.0,534.0,413.0,3675.0,4622.0,girls,laxmath,2 - 5
+497,Collierville ,3358,295,3648,0.0,529.0,350.0,3647.0,4526.0,girls,laxmath,1 - 4
+498,Peachtree Ridge ,3359,117,3551,0.0,520.0,428.0,3627.0,4575.0,girls,laxmath,2 - 4
+499,Waccamaw ,3360,227,3312,0.0,312.0,59.0,3300.0,3671.0,girls,laxmath,0 - 1
+500,Pigeon Forge ,3361,163,3316,0.0,220.0,26.0,3304.0,3550.0,girls,laxmath,0 - 1
+501,Western ,3362,260,3642,0.0,385.0,187.0,3640.0,4212.0,girls,laxmath,1 - 4
+502,South Effingham ,3363,334,3410,0.0,336.0,238.0,3407.0,3981.0,girls,laxmath,1 - 2
+503,Rancho Buena Vista ,3364,697,3176,0.0,199.0,192.0,3172.0,3563.0,girls,laxmath,1 - 1
+504,Athens Drive ,3365,237,3287,0.0,367.0,96.0,3275.0,3738.0,girls,laxmath,0 - 1
+505,Trinity Prep ,3366,673,3124,0.0,298.0,474.0,3125.0,3897.0,girls,laxmath,3 - 1
+506,Mercy Burlingame ,3367,147,3571,0.0,654.0,446.0,3567.0,4667.0,girls,laxmath,0 - 3
+507,Hoggard ,3368,277,3457,0.0,433.0,142.0,3453.0,4028.0,girls,laxmath,0 - 2
+508,Dalton ,3369,849,58,0.0,527.0,731.0,53.0,1311.0,girls,laxmath,3 - 0
+509,Seminole ,3370,64,3658,0.0,452.0,236.0,3686.0,4374.0,girls,laxmath,1 - 5
+510,Ashley ,3371,308,3286,0.0,2852.0,2829.0,3274.0,8955.0,girls,laxmath,0 - 1
+511,Notre Dame Salinas ,3372,366,3181,0.0,736.0,754.0,3139.0,4629.0,girls,laxmath,1 - 1
+512,Brookwood ,3373,547,3362,0.0,606.0,687.0,3358.0,4651.0,girls,laxmath,3 - 2
+513,TMI Episcopal ,3374,257,3480,0.0,620.0,378.0,3476.0,4474.0,girls,laxmath,0 - 2
+514,OK Endurance ,3375,411,3531,0.0,475.0,323.0,3487.0,4285.0,girls,laxmath,1 - 3
+515,Bixby ,3376,606,3152,0.0,488.0,273.0,3150.0,3911.0,girls,laxmath,2 - 1
+516,Atkins ,3377,182,3288,0.0,368.0,97.0,3276.0,3741.0,girls,laxmath,0 - 1
+517,Burlingame ,3378,558,3180,0.0,508.0,534.0,3176.0,4218.0,girls,laxmath,1 - 1
+518,Chaparral ,3379,76,3241,0.0,175.0,18.0,3229.0,3422.0,girls,laxmath,0 - 1
+519,University Irvine ,3380,316,3681,0.0,545.0,365.0,3677.0,4587.0,girls,laxmath,1 - 5
+520,Jack Britt ,3381,53,3300,0.0,122.0,12.0,3288.0,3422.0,girls,laxmath,0 - 1
+521,Maclay ,3382,739,3119,0.0,437.0,588.0,3122.0,4147.0,girls,laxmath,3 - 1
+522,Awty International ,3383,425,3218,0.0,221.0,208.0,3206.0,3635.0,girls,laxmath,1 - 1
+523,Highland Park ,3384,192,3324,0.0,376.0,3361.0,3313.0,7050.0,girls,laxmath,0 - 1
+524,Westminster Christian ,3385,537,3379,0.0,209.0,196.0,3377.0,3782.0,girls,laxmath,2 - 2
+525,San Ysidro ,3386,772,48,0.0,272.0,571.0,43.0,886.0,girls,laxmath,3 - 0
+526,Eastlake ,3387,107,3230,0.0,351.0,83.0,3218.0,3652.0,girls,laxmath,0 - 1
+527,San Diego ,3388,108,3238,0.0,353.0,84.0,3226.0,3663.0,girls,laxmath,0 - 1
+528,Oak Mountain ,3389,808,3345,0.0,499.0,572.0,3338.0,4409.0,girls,laxmath,3 - 2
+529,North Cobb ,3390,321,3644,0.0,555.0,398.0,3643.0,4596.0,girls,laxmath,1 - 4
+530,Palm Harbor University ,3391,768,3148,0.0,594.0,697.0,3146.0,4437.0,girls,laxmath,2 - 1
+531,Summit ,3392,74,3471,0.0,462.0,158.0,3467.0,4087.0,girls,laxmath,0 - 2
+532,Coral Glades ,3393,549,3190,0.0,113.0,79.0,3184.0,3376.0,girls,laxmath,1 - 1
+533,Notre Dame San Jose ,3394,278,3246,0.0,876.0,842.0,3234.0,4952.0,girls,laxmath,0 - 1
+534,Plano ,3395,279,3326,0.0,3368.0,3368.0,3315.0,10051.0,girls,laxmath,0 - 1
+535,Chadwick School ,3396,493,3143,0.0,528.0,625.0,3140.0,4293.0,girls,laxmath,2 - 1
+536,Leesville Road ,3397,204,3459,0.0,761.0,654.0,3455.0,4870.0,girls,laxmath,0 - 2
+537,Dublin ,3398,526,3136,0.0,685.0,747.0,3112.0,4544.0,girls,laxmath,2 - 1
+538,Coral Shores ,3399,561,3515,0.0,399.0,337.0,3508.0,4244.0,girls,laxmath,2 - 3
+539,Santa Fe ,3400,724,3505,0.0,424.0,424.0,3497.0,4345.0,girls,laxmath,3 - 3
+540,Castle ,3401,113,3275,0.0,363.0,92.0,3263.0,3718.0,girls,laxmath,0 - 1
+541,West Hills ,3402,625,3141,0.0,295.0,399.0,3138.0,3832.0,girls,laxmath,2 - 1
+542,Academic Magnet ,3403,187,3465,0.0,282.0,48.0,3461.0,3791.0,girls,laxmath,0 - 2
+543,Harker School ,3404,232,3570,0.0,491.0,190.0,3566.0,4247.0,girls,laxmath,0 - 3
+544,Tohopekaliga ,3405,804,3359,0.0,566.0,666.0,3356.0,4588.0,girls,laxmath,3 - 2
+545,Eagles Landing Christian,3406,365,3407,0.0,591.0,547.0,3404.0,4542.0,girls,laxmath,1 - 2
+546,Palo Alto ,3407,289,3572,0.0,737.0,652.0,3568.0,4957.0,girls,laxmath,0 - 3
+547,North Broward Prep ,3408,439,3501,0.0,558.0,544.0,3514.0,4616.0,girls,laxmath,2 - 3
+548,Cardinal Mooney ,3409,138,3634,0.0,537.0,363.0,3632.0,4532.0,girls,laxmath,1 - 4
+549,Land O Lakes ,3410,323,3442,0.0,670.0,493.0,3439.0,4602.0,girls,laxmath,0 - 2
+550,Lely ,3411,760,3518,0.0,575.0,557.0,3511.0,4643.0,girls,laxmath,2 - 3
+551,Aiken ,3412,473,3385,0.0,458.0,469.0,3335.0,4262.0,girls,laxmath,2 - 2
+552,Chamblee ,3413,474,3626,0.0,531.0,448.0,3622.0,4601.0,girls,laxmath,2 - 4
+553,El Segundo ,3414,56,3677,0.0,438.0,143.0,3692.0,4273.0,girls,laxmath,0 - 5
+554,Key West ,3415,424,3516,0.0,287.0,223.0,3509.0,4019.0,girls,laxmath,2 - 3
+555,Dorman ,3416,399,3415,0.0,345.0,253.0,3411.0,4009.0,girls,laxmath,1 - 2
+556,Mount Pisgah Christian ,3417,497,3672,0.0,466.0,434.0,3671.0,4571.0,girls,laxmath,4 - 5
+557,Upperman ,3418,124,3317,0.0,373.0,102.0,3306.0,3781.0,girls,laxmath,0 - 1
+558,Hoover ,3419,822,3344,0.0,593.0,673.0,3337.0,4603.0,girls,laxmath,3 - 2
+559,Valencia Santa Clarita ,3420,577,3372,0.0,472.0,494.0,3369.0,4335.0,girls,laxmath,2 - 2
+560,Mooresville ,3421,789,186,0.0,311.0,616.0,183.0,1110.0,girls,laxmath,1 - 0
+561,St Andrews ES ,3422,213,3479,0.0,378.0,105.0,3475.0,3958.0,girls,laxmath,0 - 2
+562,St Vincent de Paul ,3423,240,3226,0.0,841.0,804.0,3214.0,4859.0,girls,laxmath,0 - 1
+563,La Jolla HS ,3424,241,3233,0.0,851.0,814.0,3221.0,4886.0,girls,laxmath,0 - 1
+564,Arendell Parrott Academy,3425,242,3285,0.0,2851.0,2827.0,3273.0,8951.0,girls,laxmath,0 - 1
+565,Carrboro ,3426,243,3289,0.0,2855.0,2833.0,3277.0,8965.0,girls,laxmath,0 - 1
+566,Christ the King ,3427,244,3290,0.0,2859.0,2839.0,3278.0,8976.0,girls,laxmath,0 - 1
+567,Corinth Holders ,3428,245,3291,0.0,2863.0,2844.0,3279.0,8986.0,girls,laxmath,0 - 1
+568,DH Conley ,3429,246,3293,0.0,2866.0,2847.0,3281.0,8994.0,girls,laxmath,0 - 1
+569,Garner ,3430,247,3295,0.0,2871.0,2853.0,3283.0,9007.0,girls,laxmath,0 - 1
+570,Greensboro Day School ,3431,248,3298,0.0,2874.0,2856.0,3286.0,9016.0,girls,laxmath,0 - 1
+571,Jordan ,3432,249,3301,0.0,2879.0,2866.0,3289.0,9034.0,girls,laxmath,0 - 1
+572,Providence ,3433,250,3306,0.0,2888.0,2879.0,3294.0,9061.0,girls,laxmath,0 - 1
+573,Ragsdale ,3434,251,3307,0.0,2890.0,2881.0,3295.0,9066.0,girls,laxmath,0 - 1
+574,South Iredell ,3435,252,3310,0.0,2894.0,2887.0,3298.0,9079.0,girls,laxmath,0 - 1
+575,Montgomery Central ,3436,253,3315,0.0,3346.0,3344.0,3303.0,9993.0,girls,laxmath,0 - 1
+576,Palmer Trinity ,3437,636,3544,0.0,637.0,562.0,3540.0,4739.0,girls,laxmath,1 - 3
+577,Southlake Carroll ,3438,140,3478,0.0,517.0,207.0,3474.0,4198.0,girls,laxmath,0 - 2
+578,Spanish River ,3439,364,3624,0.0,419.0,311.0,3620.0,4350.0,girls,laxmath,2 - 4
+579,Milton ,3440,613,3607,0.0,587.0,587.0,3602.0,4776.0,girls,laxmath,3 - 4
+580,Thacher School ,3441,571,3189,0.0,609.0,650.0,3183.0,4442.0,girls,laxmath,1 - 1
+581,Stevenson School ,3442,118,3249,0.0,362.0,90.0,3237.0,3689.0,girls,laxmath,0 - 1
+582,Portola ,3443,737,3493,0.0,629.0,670.0,3488.0,4787.0,girls,laxmath,3 - 3
+583,Northside Christian ,3444,310,3687,0.0,406.0,194.0,3683.0,4283.0,girls,laxmath,1 - 5
+584,Agoura ,3445,160,3674,0.0,719.0,675.0,3676.0,5070.0,girls,laxmath,1 - 5
+585,Segerstrom ,3446,769,3439,0.0,448.0,530.0,3435.0,4413.0,girls,laxmath,5 - 3
+586,Campolindo ,3447,486,3368,0.0,694.0,726.0,3364.0,4784.0,girls,laxmath,2 - 2
+587,Fletcher ,3448,671,3496,0.0,543.0,568.0,3491.0,4602.0,girls,laxmath,3 - 3
+588,Pompano Beach ,3449,629,3377,0.0,305.0,304.0,3374.0,3983.0,girls,laxmath,2 - 2
+589,Woodrow Wilson ,3450,736,3350,0.0,388.0,452.0,3342.0,4182.0,girls,laxmath,3 - 2
+590,St Agnes Academy ,3451,705,3216,0.0,267.0,256.0,3204.0,3727.0,girls,laxmath,1 - 1
+591,Edgewater ,3452,676,3495,0.0,432.0,438.0,3490.0,4360.0,girls,laxmath,3 - 3
+592,Hart ,3453,475,3612,0.0,524.0,435.0,3608.0,4567.0,girls,laxmath,2 - 4
+593,Lake Wales ,3454,750,3499,0.0,603.0,641.0,3494.0,4738.0,girls,laxmath,3 - 3
+594,International ,3455,134,3222,0.0,349.0,81.0,3210.0,3640.0,girls,laxmath,0 - 1
+595,Helix Charter ,3456,479,3530,0.0,642.0,566.0,3525.0,4733.0,girls,laxmath,1 - 3
+596,El Toro ,3457,766,3371,0.0,556.0,586.0,3367.0,4509.0,girls,laxmath,2 - 2
+597,Valhalla ,3458,139,3432,0.0,355.0,85.0,3428.0,3868.0,girls,laxmath,0 - 2
+598,Santa Barbara ,3459,476,3577,0.0,661.0,457.0,3573.0,4691.0,girls,laxmath,0 - 3
+599,Cardinal Gibbons ,3460,116,3708,0.0,302.0,56.0,3707.0,4065.0,girls,laxmath,0 - 6
+600,Evansville North ,3461,203,3277,0.0,1234.0,1202.0,3265.0,5701.0,girls,laxmath,0 - 1
+601,Wilson Central ,3462,133,3473,0.0,374.0,103.0,3469.0,3946.0,girls,laxmath,0 - 2
+602,Pope John Paul II ,3463,120,3470,0.0,440.0,144.0,3466.0,4050.0,girls,laxmath,0 - 2
+603,Bentley ,3464,735,3162,0.0,506.0,532.0,3160.0,4198.0,girls,laxmath,1 - 1
+604,Bishop ODowd ,3465,641,3391,0.0,644.0,610.0,3387.0,4641.0,girls,laxmath,1 - 2
+605,Soddy Daisy ,3466,156,3595,0.0,407.0,125.0,3590.0,4122.0,girls,laxmath,0 - 3
+606,Mandarin ,3467,831,502,0.0,382.0,577.0,500.0,1459.0,girls,laxmath,5 - 1
+607,Memorial Houston ,3468,143,3325,0.0,377.0,104.0,3314.0,3795.0,girls,laxmath,0 - 1
+608,Valley Center ,3469,300,3239,0.0,207.0,22.0,3227.0,3456.0,girls,laxmath,0 - 1
+609,Roseville ,3470,218,3428,0.0,217.0,24.0,3424.0,3665.0,girls,laxmath,0 - 2
+610,Napa ,3471,483,3169,0.0,468.0,485.0,3166.0,4119.0,girls,laxmath,1 - 1
+611,Osceola ,3472,377,3639,0.0,533.0,359.0,3637.0,4529.0,girls,laxmath,1 - 4
+612,Coral Reef ,3473,556,3616,0.0,503.0,415.0,3612.0,4530.0,girls,laxmath,2 - 4
+613,Heritage ,3474,495,3513,0.0,420.0,358.0,3506.0,4284.0,girls,laxmath,2 - 3
+614,Paloma Valley ,3475,707,3188,0.0,536.0,553.0,3182.0,4271.0,girls,laxmath,1 - 1
+615,Tate ,3476,433,3625,0.0,343.0,252.0,3621.0,4216.0,girls,laxmath,2 - 4
+616,Woodward Academy ,3477,793,3451,0.0,492.0,580.0,3447.0,4519.0,girls,laxmath,5 - 3
+617,Dobyns Bennett ,3478,354,3469,0.0,805.0,742.0,3465.0,5012.0,girls,laxmath,0 - 2
+618,Santa Cruz ,3479,580,3247,0.0,879.0,845.0,3235.0,4959.0,girls,laxmath,0 - 1
+619,Munster ,3480,307,3452,0.0,1242.0,1211.0,3448.0,5901.0,girls,laxmath,0 - 2
+620,Ballard ,3481,166,3279,0.0,1270.0,1240.0,3267.0,5777.0,girls,laxmath,0 - 1
+621,Cooper ,3482,167,3281,0.0,1275.0,1246.0,3269.0,5790.0,girls,laxmath,0 - 1
+622,DuPont Manual ,3483,168,3282,0.0,1277.0,1248.0,3270.0,5795.0,girls,laxmath,0 - 1
+623,Tates Creek ,3484,169,3284,0.0,1295.0,1271.0,3272.0,5838.0,girls,laxmath,0 - 1
+624,Fayetteville Academy ,3485,170,3294,0.0,2868.0,2849.0,3282.0,8999.0,girls,laxmath,0 - 1
+625,Glenn ,3486,171,3296,0.0,2872.0,2854.0,3284.0,9010.0,girls,laxmath,0 - 1
+626,Northside ,3487,172,3303,0.0,2885.0,2874.0,3291.0,9050.0,girls,laxmath,0 - 1
+627,White Oak ,3488,271,3591,0.0,2903.0,2900.0,3586.0,9389.0,girls,laxmath,0 - 3
+628,Greenhill School ,3489,173,3323,0.0,3363.0,661.0,3312.0,7336.0,girls,laxmath,0 - 1
+629,Cape Coral ,3490,809,3353,0.0,590.0,669.0,3346.0,4605.0,girls,laxmath,3 - 2
+630,Blythewood ,3491,336,3556,0.0,610.0,529.0,3552.0,4691.0,girls,laxmath,1 - 3
+631,Alamo Heights ,3492,233,3318,0.0,559.0,280.0,3307.0,4146.0,girls,laxmath,0 - 1
+632,Antonian College Prep ,3493,234,3319,0.0,560.0,281.0,3308.0,4149.0,girls,laxmath,0 - 1
+633,Lake Minneola ,3494,607,3619,0.0,493.0,407.0,3615.0,4515.0,girls,laxmath,2 - 4
+634,South Fork ,3495,51,3640,0.0,400.0,115.0,3657.0,4172.0,girls,laxmath,0 - 4
+635,Bentonville ,3496,297,3436,0.0,470.0,258.0,3432.0,4160.0,girls,laxmath,0 - 2
+636,Pinewood Prep ,3497,728,3214,0.0,616.0,655.0,3202.0,4473.0,girls,laxmath,1 - 1
+637,River Ridge ,3498,586,3521,0.0,505.0,477.0,3515.0,4497.0,girls,laxmath,2 - 3
+638,West Park ,3499,205,3565,0.0,804.0,740.0,3561.0,5105.0,girls,laxmath,0 - 3
+639,Sanderson ,3500,202,3308,0.0,370.0,100.0,3296.0,3766.0,girls,laxmath,0 - 1
+640,St Pius X ,3501,706,3423,0.0,704.0,702.0,3419.0,4825.0,girls,laxmath,1 - 2
+641,Ooltewah ,3502,659,3422,0.0,574.0,524.0,3418.0,4516.0,girls,laxmath,1 - 2
+642,Evangelical Christian ,3503,797,3158,0.0,630.0,709.0,3156.0,4495.0,girls,laxmath,2 - 1
+643,Orangewood Christian ,3504,600,3622,0.0,441.0,328.0,3618.0,4387.0,girls,laxmath,2 - 4
+644,Lakeside DeKalb ,3505,783,3364,0.0,417.0,499.0,3360.0,4276.0,girls,laxmath,3 - 2
+645,Enloe ,3506,219,3456,0.0,754.0,653.0,3452.0,4859.0,girls,laxmath,0 - 2
+646,TC Roberson ,3507,788,3210,0.0,99.0,63.0,3198.0,3360.0,girls,laxmath,1 - 1
+647,North Myrtle Beach ,3508,225,3712,0.0,431.0,140.0,3712.0,4283.0,girls,laxmath,0 - 6
+648,West Ashley ,3509,239,3647,0.0,297.0,137.0,3646.0,4080.0,girls,laxmath,1 - 4
+649,St Cloud ,3510,836,10,0.0,337.0,636.0,6.0,979.0,girls,laxmath,6 - 0
+650,Navarre ,3511,429,3717,0.0,702.0,567.0,3717.0,4986.0,girls,laxmath,0 - 8
+651,Cactus Shadows ,3512,286,3240,0.0,356.0,86.0,3228.0,3670.0,girls,laxmath,0 - 1
+652,Santana ,3513,590,3399,0.0,572.0,520.0,3395.0,4487.0,girls,laxmath,1 - 2
+653,Ola ,3514,841,3127,0.0,521.0,664.0,3128.0,4313.0,girls,laxmath,3 - 1
+654,Dunwoody ,3515,814,3488,0.0,607.0,680.0,3484.0,4771.0,girls,laxmath,4 - 3
+655,Woodford County ,3516,283,3453,0.0,1296.0,1272.0,3449.0,6017.0,girls,laxmath,0 - 2
+656,Mount Tabor ,3517,284,3460,0.0,2882.0,2869.0,3456.0,9207.0,girls,laxmath,0 - 2
+657,Heathwood Hall ,3518,350,3311,0.0,680.0,521.0,3299.0,4500.0,girls,laxmath,0 - 1
+658,Countryside ,3519,465,3191,0.0,288.0,283.0,3185.0,3756.0,girls,laxmath,1 - 1
+659,Rocklin ,3520,502,3171,0.0,350.0,371.0,3168.0,3889.0,girls,laxmath,1 - 1
+660,Pasco ,3521,631,3404,0.0,655.0,630.0,3400.0,4685.0,girls,laxmath,1 - 2
+661,White Knoll ,3522,727,3559,0.0,678.0,639.0,3555.0,4872.0,girls,laxmath,1 - 3
+662,Bonita Vista ,3523,603,3229,0.0,268.0,39.0,3217.0,3524.0,girls,laxmath,0 - 1
+663,McEachern ,3524,332,3589,0.0,635.0,401.0,3584.0,4620.0,girls,laxmath,0 - 3
+664,May River ,3525,534,3213,0.0,621.0,662.0,3201.0,4484.0,girls,laxmath,1 - 1
+665,Lausanne Collegiate ,3526,806,3215,0.0,721.0,744.0,3203.0,4668.0,girls,laxmath,1 - 1
+666,McKinney ,3527,95,3670,0.0,244.0,617.0,3669.0,4530.0,girls,laxmath,0 - 4
+667,Christian Brothers ,3528,508,3424,0.0,659.0,455.0,3420.0,4534.0,girls,laxmath,0 - 2
+668,Calvary Christian HS ,3529,161,3684,0.0,557.0,385.0,3680.0,4622.0,girls,laxmath,1 - 5
+669,Hemet ,3530,505,3535,0.0,320.0,174.0,3530.0,4024.0,girls,laxmath,1 - 3
+670,Episcopal Collegiate ,3531,741,3251,0.0,723.0,615.0,3239.0,4577.0,girls,laxmath,0 - 1
+671,Palm Beach Central ,3532,543,3403,0.0,666.0,645.0,3399.0,4710.0,girls,laxmath,1 - 2
+672,Newnan ,3533,626,3628,0.0,541.0,472.0,3625.0,4638.0,girls,laxmath,2 - 4
+673,Myrtle Beach ,3534,220,3666,0.0,605.0,349.0,3665.0,4619.0,girls,laxmath,0 - 4
+674,Windsor ,3535,199,3566,0.0,671.0,504.0,3562.0,4737.0,girls,laxmath,0 - 3
+675,Palisades Charter ,3536,683,3537,0.0,701.0,683.0,3532.0,4916.0,girls,laxmath,1 - 3
+676,Olympian ,3537,643,3397,0.0,,,,,girls,laxmath,1 - 2
+1,Culver Military Academy ,1,2,4,0.0,7.0,17.0,46.0,70.0,boys,laxmath,2 - 0
+2,St Andrews ,2,36,1,0.0,38.0,113.0,8.0,159.0,boys,laxmath,7 - 0
+3,St Thomas Aquinas ,3,16,26,0.0,20.0,60.0,24.0,104.0,boys,laxmath,5 - 0
+4,St Ignatius Prep ,4,3,145,0.0,65.0,202.0,137.0,404.0,boys,laxmath,1 - 0
+5,Highland Park ,5,5,47,0.0,16.0,19.0,122.0,157.0,boys,laxmath,4 - 1
+6,Benjamin School ,6,27,20,0.0,89.0,169.0,487.0,745.0,boys,laxmath,5 - 1
+7,Roswell ,7,35,15,0.0,67.0,211.0,19.0,297.0,boys,laxmath,6 - 0
+8,Buford ,8,87,11,0.0,129.0,397.0,10.0,536.0,boys,laxmath,7 - 0
+9,Lake Highland Prep ,9,63,23,0.0,55.0,181.0,21.0,257.0,boys,laxmath,5 - 0
+10,Westlake ,10,29,83,0.0,127.0,267.0,193.0,587.0,boys,laxmath,6 - 1
+11,Dallas Jesuit ,11,1,3190,0.0,79.0,16.0,3451.0,3546.0,boys,laxmath,1 - 2
+12,Cannon School ,12,37,115,0.0,17.0,55.0,106.0,178.0,boys,laxmath,2 - 0
+13,Bolles ,13,71,3,0.0,11.0,37.0,2.0,50.0,boys,laxmath,9 - 0
+14,Lake Mary ,14,33,6,0.0,21.0,66.0,7.0,94.0,boys,laxmath,7 - 0
+15,St John Paul II Academy ,15,23,158,0.0,106.0,150.0,3303.0,3559.0,boys,laxmath,6 - 2
+16,Southlake ,16,149,82,0.0,156.0,476.0,76.0,708.0,boys,laxmath,3 - 0
+17,Lambert ,17,9,3181,0.0,43.0,33.0,3443.0,3519.0,boys,laxmath,4 - 2
+18,Woodlands ,18,11,49,0.0,118.0,178.0,3203.0,3499.0,boys,laxmath,3 - 1
+19,Jupiter ,19,18,108,0.0,193.0,210.0,3466.0,3869.0,boys,laxmath,3 - 2
+20,Alpharetta ,20,110,159,0.0,160.0,345.0,150.0,655.0,boys,laxmath,6 - 1
+21,Marin Catholic ,21,13,3281,0.0,348.0,333.0,3485.0,4166.0,boys,laxmath,2 - 2
+22,Pensacola Catholic ,22,325,18,0.0,61.0,124.0,17.0,202.0,boys,laxmath,6 - 0
+23,West Forsyth ,23,88,110,0.0,179.0,389.0,152.0,720.0,boys,laxmath,6 - 1
+24,St Edwards School ,24,7,3179,0.0,76.0,54.0,3440.0,3570.0,boys,laxmath,3 - 2
+25,Walton ,25,81,28,0.0,123.0,261.0,102.0,486.0,boys,laxmath,7 - 1
+26,Redwood ,26,124,91,0.0,8.0,32.0,84.0,124.0,boys,laxmath,2 - 0
+27,Torrey Pines ,27,104,152,0.0,19.0,58.0,145.0,222.0,boys,laxmath,1 - 0
+28,Charlotte Catholic ,28,257,41,0.0,45.0,144.0,39.0,228.0,boys,laxmath,4 - 0
+29,Baylor School ,29,508,44,0.0,68.0,216.0,42.0,326.0,boys,laxmath,4 - 0
+30,Episcopal Dallas ,30,102,79,0.0,204.0,410.0,2986.0,3600.0,boys,laxmath,5 - 1
+31,North Paulding ,31,209,7,0.0,111.0,325.0,4.0,440.0,boys,laxmath,8 - 0
+32,Montgomery Bell Academy ,32,135,199,0.0,47.0,155.0,190.0,392.0,boys,laxmath,1 - 0
+33,Canyon ,33,531,16,0.0,46.0,152.0,15.0,213.0,boys,laxmath,6 - 0
+34,Loyola Los Angeles ,34,43,3228,0.0,85.0,70.0,3234.0,3389.0,boys,laxmath,2 - 1
+35,Blessed Trinity ,35,19,3310,0.0,100.0,117.0,3372.0,3589.0,boys,laxmath,5 - 2
+36,Community School-Naples ,36,38,154,0.0,126.0,111.0,3434.0,3671.0,boys,laxmath,3 - 2
+37,Ponte Vedra ,37,51,3449,0.0,147.0,187.0,3525.0,3859.0,boys,laxmath,6 - 3
+38,Fellowship Christian ,38,62,504,0.0,182.0,366.0,503.0,1051.0,boys,laxmath,5 - 1
+39,Starrs Mill ,39,379,512,0.0,254.0,502.0,511.0,1267.0,boys,laxmath,5 - 1
+40,St Margarets Episcopal ,40,197,37,0.0,168.0,497.0,34.0,699.0,boys,laxmath,4 - 0
+41,Mater Dei Santa Ana ,41,17,3229,0.0,57.0,43.0,3235.0,3335.0,boys,laxmath,2 - 1
+42,Cypress Woods ,42,65,131,0.0,177.0,268.0,3338.0,3783.0,boys,laxmath,5 - 2
+43,Jesuit Tampa ,43,67,107,0.0,52.0,76.0,495.0,623.0,boys,laxmath,5 - 1
+44,Allatoona ,44,31,3636,0.0,270.0,194.0,3787.0,4251.0,boys,laxmath,3 - 4
+45,Columbus Catholic ,45,6,3239,0.0,110.0,59.0,3616.0,3785.0,boys,laxmath,3 - 3
+46,Cardinal Mooney ,46,45,3207,0.0,75.0,101.0,3214.0,3390.0,boys,laxmath,3 - 1
+47,Ransom Everglades ,47,764,40,0.0,109.0,321.0,38.0,468.0,boys,laxmath,4 - 0
+48,Cambridge ,48,34,160,0.0,87.0,160.0,500.0,747.0,boys,laxmath,5 - 1
+49,Plant ,49,529,19,0.0,94.0,286.0,18.0,398.0,boys,laxmath,6 - 0
+50,Bishop Moore ,50,54,491,0.0,63.0,64.0,3246.0,3373.0,boys,laxmath,5 - 2
+51,Marin Academy ,51,208,52,0.0,41.0,134.0,48.0,223.0,boys,laxmath,3 - 0
+52,Brophy Prep ,52,119,2,0.0,54.0,174.0,1.0,229.0,boys,laxmath,9 - 0
+53,Wesleyan School ,53,20,3695,0.0,260.0,190.0,3788.0,4238.0,boys,laxmath,3 - 4
+54,Apex Friendship ,54,190,114,0.0,1.0,1.0,14.0,16.0,boys,laxmath,2 - 0
+55,Gulliver Prep ,55,275,22,0.0,149.0,323.0,100.0,572.0,boys,laxmath,6 - 1
+56,IMG Academy-White ,56,10,3446,0.0,121.0,26.0,3524.0,3671.0,boys,laxmath,1 - 2
+57,Bishop Verot ,57,188,17,0.0,64.0,201.0,16.0,281.0,boys,laxmath,6 - 0
+58,Bishops School ,58,460,61,0.0,22.0,68.0,36.0,126.0,boys,laxmath,3 - 0
+59,Gulf Breeze ,59,141,105,0.0,44.0,74.0,99.0,217.0,boys,laxmath,7 - 1
+60,Lassiter ,60,256,12,0.0,119.0,341.0,11.0,471.0,boys,laxmath,7 - 0
+61,Foothill Santa Ana ,61,136,3163,0.0,90.0,151.0,3168.0,3409.0,boys,laxmath,4 - 1
+62,Whitney ,62,480,93,0.0,187.0,536.0,86.0,809.0,boys,laxmath,2 - 0
+63,Vandegrift ,63,144,48,0.0,189.0,417.0,192.0,798.0,boys,laxmath,6 - 1
+64,Canterbury School ,64,167,39,0.0,34.0,103.0,37.0,174.0,boys,laxmath,4 - 0
+65,Briarcrest Christian ,65,327,2975,0.0,50.0,73.0,2979.0,3102.0,boys,laxmath,5 - 1
+66,Servite ,66,91,3166,0.0,58.0,75.0,3171.0,3304.0,boys,laxmath,4 - 1
+67,Francis Parker ,67,177,62,0.0,28.0,100.0,57.0,185.0,boys,laxmath,3 - 0
+68,Westlake ,68,169,3168,0.0,227.0,420.0,3173.0,3820.0,boys,laxmath,4 - 1
+69,Oak Hall ,69,154,3379,0.0,150.0,218.0,3365.0,3733.0,boys,laxmath,5 - 2
+70,Gulf Coast ,70,313,21,0.0,125.0,365.0,20.0,510.0,boys,laxmath,5 - 0
+71,Mill Creek ,71,180,3385,0.0,186.0,284.0,3374.0,3844.0,boys,laxmath,5 - 2
+72,Middle Creek ,72,249,3250,0.0,345.0,487.0,3257.0,4089.0,boys,laxmath,2 - 1
+73,Greater Atlanta Christia,73,72,3478,0.0,257.0,274.0,3627.0,4158.0,boys,laxmath,4 - 3
+74,Rocklin ,74,382,55,0.0,2.0,5.0,51.0,58.0,boys,laxmath,3 - 0
+75,St Thomas More ,75,189,733,0.0,82.0,149.0,734.0,965.0,boys,laxmath,5 - 1
+76,Cardinal Gibbons ,76,184,69,0.0,88.0,271.0,64.0,423.0,boys,laxmath,3 - 0
+77,Vestavia Hills ,77,472,133,0.0,267.0,534.0,124.0,925.0,boys,laxmath,6 - 1
+78,Montverde Academy ,78,42,3377,0.0,124.0,112.0,3492.0,3728.0,boys,laxmath,5 - 3
+79,JSerra Catholic ,79,497,58,0.0,322.0,734.0,54.0,1110.0,boys,laxmath,3 - 0
+80,Lucy Beckham ,80,14,3484,0.0,148.0,50.0,3502.0,3700.0,boys,laxmath,1 - 2
+81,Christ School ,81,93,117,0.0,24.0,77.0,108.0,209.0,boys,laxmath,2 - 0
+82,Aliso Niguel ,82,103,3162,0.0,27.0,39.0,3167.0,3233.0,boys,laxmath,4 - 1
+83,Hammond School ,83,916,42,0.0,337.0,752.0,40.0,1129.0,boys,laxmath,4 - 0
+84,Lake Travis ,84,49,3268,0.0,141.0,179.0,3453.0,3773.0,boys,laxmath,4 - 2
+85,Western Reserve Academy ,85,424,85,0.0,4.0,7.0,78.0,89.0,boys,laxmath,2 - 0
+86,Spire Academy ,86,66,3220,0.0,56.0,42.0,3228.0,3326.0,boys,laxmath,2 - 1
+87,Lakewood Ranch ,87,571,24,0.0,117.0,337.0,22.0,476.0,boys,laxmath,5 - 0
+88,Marist ,88,40,3312,0.0,159.0,239.0,3373.0,3771.0,boys,laxmath,5 - 2
+89,Westminster ,89,25,3872,0.0,237.0,126.0,3868.0,4231.0,boys,laxmath,3 - 5
+90,River Ridge ,90,656,14,0.0,226.0,597.0,13.0,836.0,boys,laxmath,7 - 0
+91,Strake Jesuit ,91,84,3196,0.0,253.0,338.0,3421.0,4012.0,boys,laxmath,4 - 2
+92,Cate School ,92,546,97,0.0,77.0,241.0,90.0,408.0,boys,laxmath,2 - 0
+93,Venice ,93,174,3476,0.0,136.0,123.0,3472.0,3731.0,boys,laxmath,3 - 2
+94,Brentwood ,94,462,129,0.0,280.0,683.0,120.0,1083.0,boys,laxmath,2 - 0
+95,Newsome ,95,390,3378,0.0,196.0,299.0,3364.0,3859.0,boys,laxmath,5 - 2
+96,Charlotte CDS ,96,494,116,0.0,49.0,157.0,107.0,313.0,boys,laxmath,2 - 0
+97,Franklin ,97,593,31,0.0,81.0,253.0,28.0,362.0,boys,laxmath,5 - 0
+98,Vero Beach ,98,12,3584,0.0,391.0,199.0,3712.0,4302.0,boys,laxmath,1 - 3
+99,Lovejoy ,99,117,3193,0.0,209.0,395.0,3200.0,3804.0,boys,laxmath,4 - 1
+100,Oxbridge Academy ,100,112,3175,0.0,203.0,302.0,3368.0,3873.0,boys,laxmath,5 - 2
+101,North Oconee ,101,418,3454,0.0,320.0,454.0,3446.0,4220.0,boys,laxmath,4 - 2
+102,Jensen Beach ,102,224,106,0.0,169.0,346.0,494.0,1009.0,boys,laxmath,5 - 1
+103,North Forsyth ,103,337,13,0.0,131.0,406.0,12.0,549.0,boys,laxmath,7 - 0
+104,Allen ,104,89,3641,0.0,382.0,378.0,3669.0,4429.0,boys,laxmath,3 - 3
+105,Oceanside Academy ,105,77,3187,0.0,213.0,288.0,3220.0,3721.0,boys,laxmath,2 - 1
+106,American Heritage Planta,106,134,3627,0.0,176.0,182.0,3614.0,3972.0,boys,laxmath,4 - 3
+107,Crespi ,107,268,247,0.0,114.0,209.0,91.0,414.0,boys,laxmath,5 - 1
+108,South Forsyth ,108,101,3455,0.0,338.0,479.0,3447.0,4264.0,boys,laxmath,4 - 2
+109,Santa Margarita Catholic,109,106,60,0.0,13.0,44.0,56.0,113.0,boys,laxmath,3 - 0
+110,Terry Sanford ,110,182,194,0.0,33.0,96.0,185.0,314.0,boys,laxmath,1 - 0
+111,Hillsborough Orange ,111,183,181,0.0,98.0,297.0,172.0,567.0,boys,laxmath,1 - 0
+112,Monte Vista Danville ,112,524,54,0.0,103.0,306.0,50.0,459.0,boys,laxmath,3 - 0
+113,Providence Day ,113,464,126,0.0,15.0,49.0,117.0,181.0,boys,laxmath,2 - 0
+114,Winter Park ,114,32,3529,0.0,70.0,20.0,3624.0,3714.0,boys,laxmath,2 - 3
+115,North Gwinnett ,115,15,3589,0.0,224.0,122.0,3689.0,4035.0,boys,laxmath,2 - 3
+116,Granite Bay ,116,133,3225,0.0,95.0,99.0,212.0,406.0,boys,laxmath,2 - 1
+117,Fletcher ,117,187,63,0.0,84.0,173.0,58.0,315.0,boys,laxmath,6 - 1
+118,Santa Fe Christian ,118,191,3301,0.0,358.0,340.0,3212.0,3910.0,boys,laxmath,1 - 1
+119,Martin County ,119,151,3172,0.0,162.0,307.0,3178.0,3647.0,boys,laxmath,4 - 1
+120,Mauldin ,120,434,30,0.0,53.0,166.0,27.0,246.0,boys,laxmath,5 - 0
+121,Hebron Christian ,121,392,505,0.0,137.0,273.0,504.0,914.0,boys,laxmath,5 - 1
+122,Episcopal Jacksonville ,122,289,3304,0.0,146.0,236.0,3299.0,3681.0,boys,laxmath,6 - 2
+123,Nease ,123,52,3307,0.0,157.0,197.0,3302.0,3656.0,boys,laxmath,4 - 2
+124,RJ Reynolds ,124,510,190,0.0,31.0,94.0,181.0,306.0,boys,laxmath,1 - 0
+125,St Francis-Mtn View ,125,419,96,0.0,200.0,554.0,89.0,843.0,boys,laxmath,2 - 0
+126,Bishop Gorman ,126,311,66,0.0,35.0,107.0,61.0,203.0,boys,laxmath,3 - 0
+127,Garner ,127,634,121,0.0,73.0,232.0,112.0,417.0,boys,laxmath,2 - 0
+128,Ravenwood ,128,266,3214,0.0,301.0,500.0,3222.0,4023.0,boys,laxmath,3 - 1
+129,Notre Dame Prep ,129,118,3160,0.0,66.0,105.0,3165.0,3336.0,boys,laxmath,4 - 1
+130,Woodward Academy ,130,78,3696,0.0,255.0,163.0,3692.0,4110.0,boys,laxmath,2 - 3
+131,Centennial ,131,22,3812,0.0,292.0,164.0,3810.0,4266.0,boys,laxmath,2 - 4
+132,Dallas Jesuit B ,132,520,32,0.0,191.0,549.0,29.0,769.0,boys,laxmath,5 - 0
+133,Rabun Gap-Nocoochee ,133,171,189,0.0,26.0,79.0,180.0,285.0,boys,laxmath,1 - 0
+134,El Dorado ,134,748,3437,0.0,466.0,622.0,3428.0,4516.0,boys,laxmath,4 - 2
+135,South Walton ,135,423,3241,0.0,300.0,473.0,3248.0,4021.0,boys,laxmath,5 - 2
+136,Lake Norman HS ,136,195,3330,0.0,37.0,14.0,3319.0,3370.0,boys,laxmath,1 - 1
+137,Miramonte ,137,602,53,0.0,258.0,651.0,49.0,958.0,boys,laxmath,3 - 0
+138,Belen Jesuit ,138,555,9,0.0,130.0,400.0,6.0,536.0,boys,laxmath,7 - 0
+139,Chapin ,139,254,73,0.0,107.0,319.0,68.0,494.0,boys,laxmath,3 - 0
+140,Cathedral Catholic ,140,302,3233,0.0,662.0,818.0,3238.0,4718.0,boys,laxmath,2 - 1
+141,Holy Trinity Episcopal ,141,492,497,0.0,91.0,176.0,493.0,760.0,boys,laxmath,5 - 1
+142,Frisco ,142,306,3266,0.0,60.0,53.0,3270.0,3383.0,boys,laxmath,2 - 1
+143,Boone ,143,386,3169,0.0,197.0,360.0,3175.0,3732.0,boys,laxmath,4 - 1
+144,TMI Episcopal ,144,321,200,0.0,245.0,504.0,191.0,940.0,boys,laxmath,6 - 1
+145,St Johns ,145,26,3488,0.0,212.0,183.0,3512.0,3907.0,boys,laxmath,2 - 2
+146,St Francis-La Canada ,146,173,3625,0.0,172.0,177.0,3612.0,3961.0,boys,laxmath,4 - 3
+147,Memphis University Schoo,147,213,3262,0.0,93.0,82.0,3266.0,3441.0,boys,laxmath,2 - 1
+148,Milton ,148,50,3859,0.0,411.0,361.0,3862.0,4634.0,boys,laxmath,4 - 5
+149,Rockwall ,149,484,2984,0.0,277.0,532.0,2989.0,3798.0,boys,laxmath,5 - 1
+150,West Orange ,150,193,3528,0.0,288.0,317.0,3623.0,4228.0,boys,laxmath,4 - 3
+151,McCallie School ,151,229,130,0.0,92.0,283.0,121.0,496.0,boys,laxmath,2 - 0
+152,Briarwood School ,152,338,132,0.0,138.0,291.0,123.0,552.0,boys,laxmath,6 - 1
+153,Catholic Baton Rouge ,153,69,3398,0.0,51.0,25.0,3387.0,3463.0,boys,laxmath,3 - 2
+154,St Pauls II ,154,432,171,0.0,9.0,28.0,162.0,199.0,boys,laxmath,1 - 0
+155,Wando ,155,205,3213,0.0,142.0,225.0,3221.0,3588.0,boys,laxmath,3 - 1
+156,Pope ,156,127,3871,0.0,480.0,373.0,3867.0,4720.0,boys,laxmath,3 - 5
+157,Oak Mountain ,157,516,33,0.0,208.0,573.0,30.0,811.0,boys,laxmath,4 - 0
+158,Chattahoochee ,158,533,502,0.0,230.0,463.0,501.0,1194.0,boys,laxmath,5 - 1
+159,Miami Palmetto ,159,212,3631,0.0,340.0,384.0,3619.0,4343.0,boys,laxmath,4 - 3
+160,Boiling Springs ,160,248,3254,0.0,86.0,72.0,3260.0,3418.0,boys,laxmath,2 - 1
+161,Los Alamitos ,161,152,3652,0.0,167.0,120.0,3640.0,3927.0,boys,laxmath,3 - 3
+162,Sequoyah ,162,476,510,0.0,359.0,648.0,509.0,1516.0,boys,laxmath,5 - 1
+163,Alamo Heights ,163,639,3215,0.0,657.0,855.0,3223.0,4735.0,boys,laxmath,3 - 1
+164,New Hanover ,164,454,184,0.0,6.0,11.0,175.0,192.0,boys,laxmath,1 - 0
+165,Sacred Heart Cathedral ,165,565,57,0.0,152.0,470.0,53.0,675.0,boys,laxmath,3 - 0
+166,St Pius X ,166,232,3590,0.0,319.0,401.0,3577.0,4297.0,boys,laxmath,5 - 3
+167,TC Roberson ,167,616,193,0.0,32.0,95.0,184.0,311.0,boys,laxmath,1 - 0
+168,Memorial ,168,61,3269,0.0,154.0,265.0,3454.0,3873.0,boys,laxmath,3 - 2
+169,Leesville Road ,169,721,125,0.0,366.0,783.0,116.0,1265.0,boys,laxmath,2 - 0
+170,Manatee ,170,85,3471,0.0,344.0,422.0,3467.0,4233.0,boys,laxmath,3 - 2
+171,Greensboro Day ,171,572,122,0.0,74.0,233.0,113.0,420.0,boys,laxmath,2 - 0
+172,Lakeland HS ,172,452,156,0.0,164.0,351.0,148.0,663.0,boys,laxmath,6 - 1
+173,Steinbrenner ,173,258,3667,0.0,339.0,322.0,3658.0,4319.0,boys,laxmath,3 - 3
+174,Tesoro ,174,610,38,0.0,155.0,475.0,35.0,665.0,boys,laxmath,4 - 0
+175,Lake Brantley ,175,201,3579,0.0,198.0,158.0,3652.0,4008.0,boys,laxmath,3 - 3
+176,Mountain Brook ,176,299,3274,0.0,190.0,466.0,3276.0,3932.0,boys,laxmath,6 - 2
+177,Beckman ,177,156,3465,0.0,83.0,61.0,3460.0,3604.0,boys,laxmath,3 - 2
+178,Episcopal Houston ,178,145,3771,0.0,246.0,250.0,3765.0,4261.0,boys,laxmath,5 - 4
+179,Coronado ,179,369,3205,0.0,664.0,856.0,3174.0,4694.0,boys,laxmath,3 - 1
+180,Laney ,180,733,124,0.0,173.0,515.0,115.0,803.0,boys,laxmath,2 - 0
+181,Bartram Trail ,181,76,3681,0.0,281.0,192.0,3675.0,4148.0,boys,laxmath,2 - 3
+182,Lovett ,182,59,3837,0.0,482.0,245.0,3834.0,4561.0,boys,laxmath,1 - 4
+183,San Diego ,183,350,104,0.0,3.0,6.0,98.0,107.0,boys,laxmath,2 - 0
+184,Nolensville ,184,493,76,0.0,40.0,121.0,71.0,232.0,boys,laxmath,3 - 0
+185,Viera ,185,82,3833,0.0,318.0,204.0,3865.0,4387.0,boys,laxmath,3 - 5
+186,San Clemente ,186,125,3204,0.0,69.0,81.0,3211.0,3361.0,boys,laxmath,3 - 1
+187,Harrison ,187,116,3587,0.0,239.0,145.0,3688.0,4072.0,boys,laxmath,2 - 3
+188,Arcadia ,188,380,3159,0.0,108.0,186.0,3164.0,3458.0,boys,laxmath,4 - 1
+189,Maclay ,189,450,3306,0.0,205.0,336.0,3301.0,3842.0,boys,laxmath,6 - 2
+190,St Marks ,190,73,3550,0.0,390.0,258.0,3544.0,4192.0,boys,laxmath,1 - 2
+191,Woodstock ,191,79,3533,0.0,291.0,269.0,3665.0,4225.0,boys,laxmath,3 - 3
+192,Santiago ,192,405,3439,0.0,307.0,427.0,3430.0,4164.0,boys,laxmath,4 - 2
+193,Riverview Sarasota ,193,108,3664,0.0,252.0,217.0,3655.0,4124.0,boys,laxmath,3 - 3
+194,Palo Verde ,194,28,3596,0.0,113.0,4.0,3583.0,3700.0,boys,laxmath,0 - 2
+195,Cardinal Newman ,195,563,87,0.0,143.0,440.0,80.0,663.0,boys,laxmath,2 - 0
+196,Calvary Christian Academ,196,267,3442,0.0,132.0,162.0,3433.0,3727.0,boys,laxmath,4 - 2
+197,Creekview ,197,30,3891,0.0,347.0,114.0,3889.0,4350.0,boys,laxmath,1 - 5
+198,Olathe East ,198,522,112,0.0,78.0,243.0,104.0,425.0,boys,laxmath,2 - 0
+199,Boca Raton ,199,318,3441,0.0,386.0,541.0,3432.0,4359.0,boys,laxmath,4 - 2
+200,Millbrook ,200,56,3331,0.0,10.0,2.0,2240.0,2252.0,boys,laxmath,1 - 1
+201,Timber Creek ,201,556,3242,0.0,250.0,371.0,3249.0,3870.0,boys,laxmath,5 - 2
+202,Perry ,202,123,3463,0.0,247.0,279.0,3458.0,3984.0,boys,laxmath,3 - 2
+203,Great Oak ,203,226,3202,0.0,397.0,631.0,3209.0,4237.0,boys,laxmath,3 - 1
+204,Cascia Hall ,204,400,3183,0.0,207.0,388.0,3190.0,3785.0,boys,laxmath,4 - 1
+205,La Costa Canyon ,205,8,3366,0.0,219.0,21.0,3353.0,3593.0,boys,laxmath,0 - 1
+206,Olympia ,206,724,157,0.0,311.0,606.0,149.0,1066.0,boys,laxmath,6 - 1
+207,Centennial ,207,964,8,0.0,354.0,769.0,5.0,1128.0,boys,laxmath,7 - 0
+208,Father Ryan ,208,137,3511,0.0,356.0,354.0,3508.0,4218.0,boys,laxmath,2 - 2
+209,Benedictine Military ,209,582,3477,0.0,464.0,556.0,3473.0,4493.0,boys,laxmath,3 - 2
+210,East Forsyth ,210,944,27,0.0,357.0,772.0,25.0,1154.0,boys,laxmath,5 - 0
+211,Whitefield Academy ,211,397,162,0.0,99.0,195.0,153.0,447.0,boys,laxmath,6 - 1
+212,Edison ,212,305,248,0.0,116.0,214.0,243.0,573.0,boys,laxmath,5 - 1
+213,Holly Springs ,213,706,70,0.0,217.0,588.0,65.0,870.0,boys,laxmath,3 - 0
+214,Jesuit New Orleans ,214,887,3249,0.0,668.0,822.0,3256.0,4746.0,boys,laxmath,2 - 1
+215,Oak Ridge ,215,541,34,0.0,231.0,607.0,31.0,869.0,boys,laxmath,4 - 0
+216,Prosper ,216,298,3194,0.0,375.0,643.0,3201.0,4219.0,boys,laxmath,4 - 1
+217,Hickory ,217,481,180,0.0,5.0,10.0,171.0,186.0,boys,laxmath,1 - 0
+218,Plano ,218,399,3217,0.0,180.0,300.0,3225.0,3705.0,boys,laxmath,3 - 1
+219,Dripping Springs ,219,406,78,0.0,185.0,431.0,73.0,689.0,boys,laxmath,8 - 1
+220,Niceville ,220,271,3632,0.0,249.0,259.0,3620.0,4128.0,boys,laxmath,4 - 3
+221,Del Norte ,221,55,3575,0.0,327.0,52.0,3569.0,3948.0,boys,laxmath,0 - 2
+222,Shawnee Mission East ,222,732,113,0.0,429.0,832.0,105.0,1366.0,boys,laxmath,2 - 0
+223,Wellington ,223,833,10,0.0,363.0,780.0,9.0,1152.0,boys,laxmath,7 - 0
+224,Desert Vista ,224,160,3646,0.0,240.0,203.0,3634.0,4077.0,boys,laxmath,3 - 3
+225,Swansboro ,225,844,71,0.0,672.0,914.0,66.0,1652.0,boys,laxmath,3 - 0
+226,Trinity Catholic ,226,676,3384,0.0,279.0,433.0,3371.0,4083.0,boys,laxmath,5 - 2
+227,Athens Drive ,227,739,173,0.0,435.0,824.0,164.0,1423.0,boys,laxmath,1 - 0
+228,Cardinal Gibbons ,228,58,3526,0.0,241.0,146.0,3643.0,4030.0,boys,laxmath,2 - 3
+229,Greenville ,229,590,3186,0.0,325.0,567.0,3193.0,4085.0,boys,laxmath,4 - 1
+230,Boyd Buchanan ,230,663,45,0.0,42.0,133.0,43.0,218.0,boys,laxmath,4 - 0
+231,Forest ,231,194,3661,0.0,378.0,370.0,3650.0,4398.0,boys,laxmath,3 - 3
+232,Palos Verdes ,232,57,3680,0.0,364.0,278.0,3674.0,4316.0,boys,laxmath,2 - 3
+233,Hoover ,233,323,3551,0.0,271.0,330.0,3545.0,4146.0,boys,laxmath,5 - 3
+234,Sacred Heart Prep ,234,666,94,0.0,616.0,899.0,87.0,1602.0,boys,laxmath,2 - 0
+235,Carlsbad ,235,333,3232,0.0,18.0,13.0,3237.0,3268.0,boys,laxmath,2 - 1
+236,Holy Innocents ,236,370,3451,0.0,402.0,558.0,3442.0,4402.0,boys,laxmath,4 - 2
+237,Kings Academy ,237,235,3578,0.0,400.0,403.0,3651.0,4454.0,boys,laxmath,3 - 3
+238,George Walton Academy ,238,913,109,0.0,139.0,418.0,101.0,658.0,boys,laxmath,2 - 0
+239,Sickles ,239,206,3665,0.0,225.0,188.0,3656.0,4069.0,boys,laxmath,3 - 3
+240,Dutch Fork ,240,278,197,0.0,12.0,38.0,188.0,238.0,boys,laxmath,1 - 0
+241,Eastlake ,241,507,3295,0.0,425.0,443.0,3293.0,4161.0,boys,laxmath,1 - 1
+242,Tulsa Alliance ,242,351,29,0.0,194.0,550.0,26.0,770.0,boys,laxmath,5 - 0
+243,Boulder Creek ,243,131,3705,0.0,468.0,257.0,3701.0,4426.0,boys,laxmath,1 - 3
+244,Huntington Beach ,244,250,3651,0.0,342.0,326.0,3639.0,4307.0,boys,laxmath,3 - 3
+245,Christ Church Episcopal ,245,47,3893,0.0,379.0,142.0,3892.0,4413.0,boys,laxmath,1 - 5
+246,Temecula Valley ,246,269,3467,0.0,161.0,175.0,3462.0,3798.0,boys,laxmath,3 - 2
+247,Calvary Christian HS ,247,375,3206,0.0,242.0,398.0,3213.0,3853.0,boys,laxmath,3 - 1
+248,Ravenscroft School ,248,300,3337,0.0,265.0,234.0,3188.0,3687.0,boys,laxmath,1 - 1
+249,Jesuit New Orleans II ,249,917,65,0.0,471.0,847.0,60.0,1378.0,boys,laxmath,3 - 0
+250,Nation Ford ,250,601,3257,0.0,583.0,751.0,3261.0,4595.0,boys,laxmath,2 - 1
+251,Creekside ,251,162,3656,0.0,461.0,471.0,3645.0,4577.0,boys,laxmath,3 - 3
+252,Southeast Guilford ,252,505,3252,0.0,827.0,913.0,3258.0,4998.0,boys,laxmath,2 - 1
+253,Springfield ,253,894,134,0.0,488.0,952.0,125.0,1565.0,boys,laxmath,1 - 0
+254,Blue Valley Eastside ,254,895,164,0.0,492.0,857.0,155.0,1504.0,boys,laxmath,1 - 0
+255,Apex ,255,168,3535,0.0,384.0,252.0,3530.0,4166.0,boys,laxmath,1 - 2
+256,Isidore Newman ,256,691,732,0.0,199.0,399.0,733.0,1331.0,boys,laxmath,5 - 1
+257,Fallbrook ,257,737,101,0.0,387.0,799.0,95.0,1281.0,boys,laxmath,2 - 0
+258,Broughton ,258,592,68,0.0,385.0,797.0,63.0,1245.0,boys,laxmath,3 - 0
+259,Justin Siena ,259,70,3708,0.0,514.0,313.0,3704.0,4531.0,boys,laxmath,1 - 3
+260,Kingwood ,260,120,3914,0.0,324.0,191.0,3914.0,4429.0,boys,laxmath,3 - 6
+261,University SF ,261,331,3285,0.0,367.0,352.0,3284.0,4003.0,boys,laxmath,1 - 1
+262,Johns Creek ,262,53,3836,0.0,395.0,228.0,3877.0,4500.0,boys,laxmath,2 - 5
+263,St Augustine ,263,241,3583,0.0,211.0,255.0,3573.0,4039.0,boys,laxmath,5 - 3
+264,Vista del Lago ,264,142,3286,0.0,383.0,381.0,3285.0,4049.0,boys,laxmath,1 - 1
+265,Friendswood ,265,703,2982,0.0,170.0,347.0,2987.0,3504.0,boys,laxmath,5 - 1
+266,Oaks Christian ,266,317,59,0.0,25.0,78.0,55.0,158.0,boys,laxmath,3 - 0
+267,Bonita Vista ,267,725,3231,0.0,134.0,165.0,140.0,439.0,boys,laxmath,2 - 1
+268,Pinnacle ,268,132,3875,0.0,392.0,226.0,3871.0,4489.0,boys,laxmath,2 - 5
+269,Windermere HS ,269,500,3309,0.0,328.0,531.0,3305.0,4164.0,boys,laxmath,6 - 2
+270,Barron Collier ,270,355,3628,0.0,282.0,312.0,3615.0,4209.0,boys,laxmath,4 - 3
+271,Lindbergh ,271,348,3316,0.0,72.0,29.0,3307.0,3408.0,boys,laxmath,1 - 1
+272,Monterey ,272,836,142,0.0,820.0,945.0,134.0,1899.0,boys,laxmath,1 - 0
+273,Sun Valley ,273,711,127,0.0,316.0,727.0,118.0,1161.0,boys,laxmath,2 - 0
+274,Viewpoint School ,274,692,3230,0.0,232.0,310.0,3236.0,3778.0,boys,laxmath,2 - 1
+275,Whitewater ,275,653,163,0.0,479.0,784.0,154.0,1417.0,boys,laxmath,6 - 1
+276,First Academy ,276,433,3445,0.0,351.0,491.0,3437.0,4279.0,boys,laxmath,4 - 2
+277,Vandermont Academy ,277,823,136,0.0,912.0,975.0,127.0,2014.0,boys,laxmath,1 - 0
+278,Woodside ,278,824,146,0.0,915.0,1014.0,138.0,2067.0,boys,laxmath,1 - 0
+279,Mission Bay ,279,825,149,0.0,918.0,1026.0,142.0,2086.0,boys,laxmath,1 - 0
+280,Ballard Louisville ,280,826,165,0.0,920.0,1468.0,156.0,2544.0,boys,laxmath,1 - 0
+281,Ryle ,281,827,170,0.0,925.0,1492.0,161.0,2578.0,boys,laxmath,1 - 0
+282,Good Counsel ,282,828,172,0.0,926.0,1573.0,163.0,2662.0,boys,laxmath,1 - 0
+283,Mater Dei Chula Vista ,283,680,102,0.0,426.0,831.0,96.0,1353.0,boys,laxmath,2 - 0
+284,Grossmont ,284,210,3234,0.0,128.0,148.0,3239.0,3515.0,boys,laxmath,2 - 1
+285,Harvard-Westlake ,285,552,99,0.0,102.0,304.0,93.0,499.0,boys,laxmath,2 - 0
+286,405 LC ,286,288,3482,0.0,243.0,276.0,3478.0,3997.0,boys,laxmath,3 - 2
+287,Novato ,287,68,3518,0.0,59.0,12.0,3516.0,3587.0,boys,laxmath,1 - 2
+288,Foothill Pleasanton ,288,444,90,0.0,420.0,827.0,83.0,1330.0,boys,laxmath,2 - 0
+289,Lake Nona ,289,270,498,0.0,71.0,129.0,496.0,696.0,boys,laxmath,5 - 1
+290,Lake Minneola ,290,586,3171,0.0,222.0,408.0,3177.0,3807.0,boys,laxmath,4 - 1
+291,Seminole ,291,332,3716,0.0,312.0,292.0,3777.0,4381.0,boys,laxmath,4 - 4
+292,Christ Presbyterian Acad,292,175,3347,0.0,112.0,636.0,3333.0,4081.0,boys,laxmath,1 - 1
+293,Coppell ,293,98,3733,0.0,410.0,215.0,3727.0,4352.0,boys,laxmath,1 - 3
+294,Pace Academy ,294,163,3870,0.0,478.0,369.0,3866.0,4713.0,boys,laxmath,3 - 5
+295,Vista Ridge ,295,328,3786,0.0,286.0,262.0,3780.0,4328.0,boys,laxmath,4 - 4
+296,Austin ,296,129,3873,0.0,406.0,303.0,3869.0,4578.0,boys,laxmath,3 - 5
+297,Palm Harbor University ,297,297,3788,0.0,304.0,230.0,3783.0,4317.0,boys,laxmath,3 - 4
+298,Kinkaid ,298,24,3866,0.0,498.0,235.0,3893.0,4626.0,boys,laxmath,1 - 5
+299,Naples ,299,395,3473,0.0,122.0,104.0,3469.0,3695.0,boys,laxmath,3 - 2
+300,Community School-Davidso,300,953,118,0.0,557.0,884.0,109.0,1550.0,boys,laxmath,2 - 0
+301,MICDS ,301,228,3317,0.0,660.0,710.0,3308.0,4678.0,boys,laxmath,1 - 1
+302,Leon ,302,83,3715,0.0,460.0,251.0,3711.0,4422.0,boys,laxmath,1 - 3
+303,Mitchell ,303,383,3783,0.0,333.0,316.0,3776.0,4425.0,boys,laxmath,4 - 4
+304,De LaSalle ,304,854,88,0.0,490.0,861.0,81.0,1432.0,boys,laxmath,2 - 0
+305,Peninsula ,305,573,3203,0.0,504.0,735.0,3210.0,4449.0,boys,laxmath,3 - 1
+306,Bishop McGuinness ,306,669,67,0.0,216.0,587.0,62.0,865.0,boys,laxmath,3 - 0
+307,Mill Valley ,307,466,111,0.0,48.0,156.0,103.0,307.0,boys,laxmath,2 - 0
+308,Dorman ,308,130,3542,0.0,266.0,132.0,3536.0,3934.0,boys,laxmath,1 - 2
+309,Bellarmine Prep ,309,94,3521,0.0,105.0,24.0,3426.0,3555.0,boys,laxmath,1 - 2
+310,Yorba Linda ,310,429,3626,0.0,374.0,438.0,3613.0,4425.0,boys,laxmath,4 - 3
+311,Berkeley Prep ,311,92,3682,0.0,101.0,27.0,3676.0,3804.0,boys,laxmath,2 - 3
+312,Webb School Knoxville ,312,539,3188,0.0,355.0,618.0,3196.0,4169.0,boys,laxmath,4 - 1
+313,Sarasota HS ,313,64,3931,0.0,535.0,168.0,3929.0,4632.0,boys,laxmath,0 - 6
+314,Vista Murrieta ,314,559,3167,0.0,417.0,695.0,3172.0,4284.0,boys,laxmath,4 - 1
+315,Livermore ,315,791,51,0.0,261.0,661.0,47.0,969.0,boys,laxmath,3 - 0
+316,Mira Costa ,316,138,3466,0.0,235.0,266.0,3461.0,3962.0,boys,laxmath,3 - 2
+317,Cornerstone Charter ,317,652,119,0.0,439.0,833.0,110.0,1382.0,boys,laxmath,2 - 0
+318,Havelock ,318,731,179,0.0,930.0,3009.0,170.0,4109.0,boys,laxmath,1 - 0
+319,Pine Crest ,319,90,3582,0.0,335.0,242.0,3682.0,4259.0,boys,laxmath,2 - 3
+320,Owasso ,320,192,3611,0.0,452.0,102.0,3598.0,4152.0,boys,laxmath,0 - 2
+321,Hoggard ,321,334,182,0.0,30.0,93.0,173.0,296.0,boys,laxmath,1 - 0
+322,Cardinal Newman ,322,343,3779,0.0,511.0,527.0,3772.0,4810.0,boys,laxmath,4 - 4
+323,AC Flora ,323,403,3483,0.0,296.0,350.0,3479.0,4125.0,boys,laxmath,3 - 2
+324,Durham Academy ,324,735,175,0.0,278.0,679.0,166.0,1123.0,boys,laxmath,1 - 0
+325,Decatur ,325,322,3671,0.0,536.0,564.0,3662.0,4762.0,boys,laxmath,3 - 3
+326,Flower Mound ,326,376,3643,0.0,517.0,601.0,3631.0,4749.0,boys,laxmath,4 - 3
+327,East Chapel Hill ,327,109,3326,0.0,14.0,3.0,2233.0,2250.0,boys,laxmath,1 - 1
+328,Del Oro ,328,681,89,0.0,23.0,69.0,82.0,174.0,boys,laxmath,2 - 0
+329,Bishop England ,329,408,3504,0.0,522.0,540.0,3500.0,4562.0,boys,laxmath,2 - 2
+330,Hillgrove ,330,766,506,0.0,450.0,732.0,505.0,1687.0,boys,laxmath,5 - 1
+331,JL Mann Academy ,331,527,3255,0.0,607.0,777.0,3194.0,4578.0,boys,laxmath,2 - 1
+332,Notre Dame Sherman Oaks,332,558,3438,0.0,341.0,482.0,3429.0,4252.0,boys,laxmath,4 - 2
+333,Naval Academy Prep ,333,756,135,0.0,911.0,973.0,126.0,2010.0,boys,laxmath,1 - 0
+334,Sonoma Valley ,334,757,137,0.0,914.0,988.0,129.0,2031.0,boys,laxmath,1 - 0
+335,Henry Clay ,335,758,166,0.0,921.0,1481.0,157.0,2559.0,boys,laxmath,1 - 0
+336,Lexington Catholic ,336,759,167,0.0,922.0,1484.0,158.0,2564.0,boys,laxmath,1 - 0
+337,Cary Academy ,337,760,174,0.0,928.0,2998.0,165.0,4091.0,boys,laxmath,1 - 0
+338,Pine Lake Prep ,338,761,188,0.0,934.0,3023.0,179.0,4136.0,boys,laxmath,1 - 0
+339,Topsail ,339,762,195,0.0,936.0,3032.0,186.0,4154.0,boys,laxmath,1 - 0
+340,Walter M Williams ,340,763,196,0.0,937.0,3034.0,187.0,4158.0,boys,laxmath,1 - 0
+341,Greenbrier ,341,684,3450,0.0,353.0,494.0,3441.0,4288.0,boys,laxmath,4 - 2
+342,Sage Creek ,342,931,151,0.0,823.0,948.0,144.0,1915.0,boys,laxmath,1 - 0
+343,Mooresville ,343,290,3332,0.0,174.0,131.0,3320.0,3625.0,boys,laxmath,1 - 1
+344,Madison Central ,344,1006,75,0.0,768.0,939.0,70.0,1777.0,boys,laxmath,3 - 0
+345,Out-of-Door Academy ,345,308,3687,0.0,233.0,135.0,3681.0,4049.0,boys,laxmath,2 - 3
+346,Spain Park ,346,295,3776,0.0,275.0,249.0,3770.0,4294.0,boys,laxmath,4 - 4
+347,Oviedo ,347,449,3633,0.0,223.0,223.0,3621.0,4067.0,boys,laxmath,4 - 3
+348,Lakeside-Evans ,348,682,3311,0.0,195.0,324.0,3306.0,3825.0,boys,laxmath,6 - 2
+349,Jenks ,349,503,3184,0.0,454.0,707.0,3191.0,4352.0,boys,laxmath,4 - 1
+350,Lexington ,350,97,3543,0.0,290.0,161.0,3537.0,3988.0,boys,laxmath,1 - 2
+351,Lawton Chiles ,351,291,3802,0.0,661.0,576.0,3799.0,5036.0,boys,laxmath,2 - 4
+352,Charlotte Christian ,352,44,3410,0.0,734.0,383.0,3399.0,4516.0,boys,laxmath,0 - 1
+353,St Joseph Catholic ,353,996,74,0.0,447.0,835.0,69.0,1351.0,boys,laxmath,3 - 0
+354,Grimsley ,354,908,178,0.0,859.0,3008.0,169.0,4036.0,boys,laxmath,1 - 0
+355,St Pauls ,355,751,3456,0.0,614.0,782.0,3448.0,4844.0,boys,laxmath,4 - 2
+356,Captain Shreve ,356,346,3248,0.0,214.0,290.0,3255.0,3759.0,boys,laxmath,2 - 1
+357,Etowah ,357,402,3638,0.0,381.0,461.0,3626.0,4468.0,boys,laxmath,4 - 3
+358,Northside Christian ,358,871,3173,0.0,590.0,841.0,3179.0,4610.0,boys,laxmath,4 - 1
+359,Mountain View ,359,674,3452,0.0,334.0,472.0,3444.0,4250.0,boys,laxmath,4 - 2
+360,Carlmont ,360,778,139,0.0,818.0,943.0,131.0,1892.0,boys,laxmath,1 - 0
+361,Nevada Union ,361,105,3282,0.0,120.0,63.0,215.0,398.0,boys,laxmath,1 - 1
+362,Enloe ,362,804,120,0.0,441.0,829.0,111.0,1381.0,boys,laxmath,2 - 0
+363,Bella Vista ,363,255,3706,0.0,587.0,396.0,3702.0,4685.0,boys,laxmath,1 - 3
+364,Hilton Head ,364,768,3212,0.0,229.0,368.0,3219.0,3816.0,boys,laxmath,3 - 1
+365,Agoura ,365,576,3161,0.0,201.0,364.0,3166.0,3731.0,boys,laxmath,4 - 1
+366,Village Christian ,366,640,3468,0.0,272.0,318.0,3463.0,4053.0,boys,laxmath,3 - 2
+367,Highland Park B ,367,389,80,0.0,36.0,110.0,74.0,220.0,boys,laxmath,3 - 0
+368,Marvin Ridge ,368,309,3539,0.0,181.0,67.0,3477.0,3725.0,boys,laxmath,1 - 2
+369,Woodbridge ,369,442,3495,0.0,373.0,356.0,3490.0,4219.0,boys,laxmath,2 - 2
+370,St Andrews ,370,798,3195,0.0,153.0,293.0,3202.0,3648.0,boys,laxmath,4 - 1
+371,Menendez ,371,100,3448,0.0,192.0,198.0,3439.0,3829.0,boys,laxmath,2 - 2
+372,North Oldham ,372,712,168,0.0,923.0,1488.0,159.0,2570.0,boys,laxmath,1 - 0
+373,Paul Laurence Dunbar ,373,713,169,0.0,924.0,1491.0,160.0,2575.0,boys,laxmath,1 - 0
+374,Stratford ,374,347,3489,0.0,349.0,428.0,3483.0,4260.0,boys,laxmath,3 - 2
+375,Cypress Bay ,375,678,3443,0.0,377.0,526.0,3435.0,4338.0,boys,laxmath,4 - 2
+376,Amador Valley ,376,475,86,0.0,752.0,921.0,79.0,1752.0,boys,laxmath,2 - 0
+377,Northwood ,377,113,3493,0.0,104.0,57.0,3488.0,3649.0,boys,laxmath,2 - 2
+378,Oconee County ,378,46,3941,0.0,509.0,213.0,3941.0,4663.0,boys,laxmath,1 - 7
+379,El Segundo ,379,159,3710,0.0,415.0,220.0,3706.0,4341.0,boys,laxmath,1 - 3
+380,Sanderson ,380,797,191,0.0,758.0,935.0,182.0,1875.0,boys,laxmath,1 - 0
+381,Christian Brothers ,381,301,3223,0.0,284.0,392.0,128.0,804.0,boys,laxmath,2 - 1
+382,Lake Norman Charter ,382,841,123,0.0,264.0,663.0,114.0,1041.0,boys,laxmath,2 - 0
+383,Plano East ,383,246,3842,0.0,370.0,154.0,3839.0,4363.0,boys,laxmath,1 - 4
+384,Porter-Gaud ,384,654,3258,0.0,158.0,205.0,3262.0,3625.0,boys,laxmath,2 - 1
+385,Osceola ,385,803,3174,0.0,376.0,644.0,3180.0,4200.0,boys,laxmath,4 - 1
+386,Pacific Collegiate ,386,992,144,0.0,821.0,946.0,136.0,1903.0,boys,laxmath,1 - 0
+387,Eastside ,387,579,3674,0.0,380.0,376.0,3667.0,4423.0,boys,laxmath,3 - 3
+388,Croatan ,388,606,3325,0.0,883.0,911.0,3315.0,5109.0,boys,laxmath,1 - 1
+389,Riverwood ,389,498,3639,0.0,472.0,538.0,3628.0,4638.0,boys,laxmath,4 - 3
+390,American Heritage Delray,390,140,3778,0.0,414.0,280.0,3794.0,4488.0,boys,laxmath,2 - 4
+391,Richmond Hill ,391,569,3673,0.0,467.0,477.0,3664.0,4608.0,boys,laxmath,3 - 3
+392,Pinecrest ,392,501,3336,0.0,558.0,584.0,3323.0,4465.0,boys,laxmath,1 - 1
+393,Menlo-Atherton ,393,551,56,0.0,215.0,586.0,52.0,853.0,boys,laxmath,3 - 0
+394,Santa Monica ,394,186,3822,0.0,455.0,208.0,3821.0,4484.0,boys,laxmath,1 - 4
+395,Green Level ,395,817,177,0.0,757.0,932.0,168.0,1857.0,boys,laxmath,1 - 0
+396,Lower Alabama LC ,396,443,3273,0.0,234.0,196.0,3275.0,3705.0,boys,laxmath,1 - 1
+397,Glendale ,397,1011,147,0.0,916.0,1016.0,139.0,2071.0,boys,laxmath,1 - 0
+398,Savannah Country Day ,398,252,3785,0.0,171.0,125.0,3779.0,4075.0,boys,laxmath,4 - 4
+399,Faith Lutheran ,399,96,3725,0.0,313.0,128.0,3666.0,4107.0,boys,laxmath,1 - 3
+400,Byrnes ,400,738,72,0.0,329.0,745.0,67.0,1141.0,boys,laxmath,3 - 0
+401,University City ,401,679,153,0.0,919.0,1030.0,146.0,2095.0,boys,laxmath,1 - 0
+402,Helix Charter ,402,513,148,0.0,29.0,85.0,141.0,255.0,boys,laxmath,1 - 0
+403,Dos Pueblos ,403,598,3291,0.0,750.0,820.0,3290.0,4860.0,boys,laxmath,1 - 1
+404,San Ramon Valley ,404,158,3560,0.0,421.0,98.0,3554.0,4073.0,boys,laxmath,0 - 2
+405,North Atlanta ,405,621,3453,0.0,551.0,717.0,3445.0,4713.0,boys,laxmath,4 - 2
+406,Redondo Union ,406,324,3494,0.0,451.0,456.0,3489.0,4396.0,boys,laxmath,2 - 2
+407,Saugus ,407,445,3624,0.0,236.0,248.0,3611.0,4095.0,boys,laxmath,4 - 3
+408,Scripps Ranch ,408,202,3236,0.0,183.0,246.0,3242.0,3671.0,boys,laxmath,2 - 1
+409,Christ The King ,409,107,3322,0.0,184.0,143.0,3312.0,3639.0,boys,laxmath,1 - 1
+410,Denmark ,410,121,3757,0.0,690.0,620.0,3811.0,5121.0,boys,laxmath,2 - 4
+411,Page ,411,781,3263,0.0,611.0,779.0,3267.0,4657.0,boys,laxmath,2 - 1
+412,Bentonville ,412,701,3219,0.0,459.0,690.0,3227.0,4376.0,boys,laxmath,2 - 1
+413,Cherokee ,413,161,3835,0.0,538.0,301.0,3833.0,4672.0,boys,laxmath,1 - 4
+414,San Juan Hills ,414,200,3821,0.0,330.0,118.0,3820.0,4268.0,boys,laxmath,1 - 4
+415,Bear River ,415,459,3275,0.0,115.0,62.0,3277.0,3454.0,boys,laxmath,1 - 1
+416,Marietta ,416,231,3838,0.0,747.0,605.0,3835.0,5187.0,boys,laxmath,1 - 4
+417,Fort Myers ,417,885,3376,0.0,407.0,611.0,3363.0,4381.0,boys,laxmath,5 - 2
+418,San Dieguito ,418,222,3371,0.0,669.0,296.0,3358.0,4323.0,boys,laxmath,0 - 1
+419,Mountain View ,419,973,143,0.0,779.0,940.0,135.0,1854.0,boys,laxmath,1 - 0
+420,Westwood ,420,41,3793,0.0,624.0,240.0,3861.0,4725.0,boys,laxmath,0 - 4
+421,West Florida ,421,499,3635,0.0,289.0,320.0,3622.0,4231.0,boys,laxmath,4 - 3
+422,Page ,422,95,3604,0.0,202.0,18.0,3591.0,3811.0,boys,laxmath,0 - 2
+423,Rancho Cotate ,423,373,3519,0.0,689.0,614.0,3517.0,4820.0,boys,laxmath,1 - 2
+424,Dobyns Bennett-Kingsport,424,336,3348,0.0,80.0,35.0,3334.0,3449.0,boys,laxmath,1 - 1
+425,Forsyth Central ,425,74,3857,0.0,332.0,108.0,3890.0,4330.0,boys,laxmath,1 - 5
+426,Tocoi Creek ,426,417,3810,0.0,653.0,569.0,3807.0,5029.0,boys,laxmath,2 - 4
+427,St Xavier Louisville ,427,412,3313,0.0,430.0,444.0,727.0,1601.0,boys,laxmath,1 - 1
+428,Serra San Mateo ,428,530,3201,0.0,295.0,489.0,3208.0,3992.0,boys,laxmath,3 - 1
+429,Mount Paran Christian ,429,274,3245,0.0,135.0,167.0,3252.0,3554.0,boys,laxmath,2 - 1
+430,Knoxville Catholic ,430,245,3351,0.0,469.0,478.0,3337.0,4284.0,boys,laxmath,1 - 1
+431,McKinney ,431,86,3772,0.0,635.0,254.0,3766.0,4655.0,boys,laxmath,0 - 3
+432,East Coweta ,432,949,3180,0.0,647.0,866.0,3184.0,4697.0,boys,laxmath,4 - 1
+433,Boerne ,433,361,3792,0.0,470.0,407.0,3789.0,4666.0,boys,laxmath,3 - 4
+434,La Jolla HS ,434,277,3298,0.0,556.0,583.0,3295.0,4434.0,boys,laxmath,1 - 1
+435,Terra Linda ,435,810,138,0.0,754.0,924.0,130.0,1808.0,boys,laxmath,1 - 0
+436,Orange Lutheran ,436,879,3165,0.0,412.0,687.0,3170.0,4269.0,boys,laxmath,4 - 1
+437,Casa Grande ,437,263,3277,0.0,489.0,511.0,3279.0,4279.0,boys,laxmath,1 - 1
+438,Houston ,438,165,3731,0.0,474.0,260.0,3725.0,4459.0,boys,laxmath,1 - 3
+439,Crean Lutheran ,439,207,3648,0.0,140.0,80.0,3636.0,3856.0,boys,laxmath,3 - 3
+440,Seaforth ,440,642,3251,0.0,495.0,662.0,3189.0,4346.0,boys,laxmath,2 - 1
+441,Providence School ,441,605,3663,0.0,592.0,638.0,3654.0,4884.0,boys,laxmath,3 - 3
+442,Dutchtown ,442,469,3315,0.0,670.0,726.0,3186.0,4582.0,boys,laxmath,1 - 1
+443,South Fork ,443,401,3789,0.0,404.0,339.0,3784.0,4527.0,boys,laxmath,3 - 4
+444,North Cobb Christian ,444,646,3246,0.0,308.0,429.0,3253.0,3990.0,boys,laxmath,2 - 1
+445,Carmel ,445,835,140,0.0,819.0,944.0,132.0,1895.0,boys,laxmath,1 - 0
+446,Trinity Louisville ,446,342,3314,0.0,431.0,445.0,729.0,1605.0,boys,laxmath,1 - 1
+447,Hagerty ,447,441,3240,0.0,323.0,458.0,3247.0,4028.0,boys,laxmath,2 - 1
+448,Palo Alto ,448,765,3227,0.0,294.0,415.0,3233.0,3942.0,boys,laxmath,2 - 1
+449,Hendersonville ,449,790,46,0.0,166.0,493.0,44.0,703.0,boys,laxmath,4 - 0
+450,NSU University School ,450,848,3208,0.0,408.0,641.0,3215.0,4264.0,boys,laxmath,3 - 1
+451,Broken Arrow ,451,396,3503,0.0,547.0,577.0,3499.0,4623.0,boys,laxmath,2 - 2
+452,Katy ,452,607,3192,0.0,416.0,693.0,3199.0,4308.0,boys,laxmath,4 - 1
+453,Millikan ,453,114,3571,0.0,507.0,140.0,3565.0,4212.0,boys,laxmath,0 - 2
+454,Summit ,454,296,3548,0.0,297.0,172.0,3542.0,4011.0,boys,laxmath,1 - 2
+455,Farragut ,455,635,3260,0.0,273.0,367.0,3264.0,3904.0,boys,laxmath,2 - 1
+456,Valhalla ,456,693,3238,0.0,534.0,703.0,3244.0,4481.0,boys,laxmath,2 - 1
+457,Berkeley ,457,487,3222,0.0,717.0,860.0,3230.0,4807.0,boys,laxmath,2 - 1
+458,Union Grove ,458,595,3813,0.0,640.0,553.0,3812.0,5005.0,boys,laxmath,2 - 4
+459,Bishop ODowd ,459,478,3276,0.0,705.0,763.0,3278.0,4746.0,boys,laxmath,1 - 1
+460,Independence ,460,463,3675,0.0,399.0,402.0,3668.0,4469.0,boys,laxmath,3 - 3
+461,Brother Martin ,461,543,3640,0.0,389.0,464.0,3629.0,4482.0,boys,laxmath,4 - 3
+462,Bridge LC ,462,718,3216,0.0,39.0,41.0,3224.0,3304.0,boys,laxmath,3 - 1
+463,Davis ,463,526,3198,0.0,188.0,315.0,3205.0,3708.0,boys,laxmath,3 - 1
+464,Northside ,464,372,3335,0.0,445.0,450.0,3187.0,4082.0,boys,laxmath,1 - 1
+465,Simi Valley ,465,998,36,0.0,516.0,868.0,33.0,1417.0,boys,laxmath,4 - 0
+466,Granada ,466,818,3224,0.0,665.0,821.0,3231.0,4717.0,boys,laxmath,2 - 1
+467,Corona del Sol ,467,518,3461,0.0,530.0,642.0,3456.0,4628.0,boys,laxmath,3 - 2
+468,Lincoln Stockton ,468,594,3226,0.0,695.0,845.0,3232.0,4772.0,boys,laxmath,2 - 1
+469,Archbishop Riordan ,469,643,3200,0.0,596.0,813.0,3207.0,4616.0,boys,laxmath,3 - 1
+470,Dunwoody ,470,357,3880,0.0,703.0,589.0,3876.0,5168.0,boys,laxmath,2 - 5
+471,Gateway ,471,253,3734,0.0,350.0,170.0,3728.0,4248.0,boys,laxmath,1 - 3
+472,Spanish River ,472,560,3666,0.0,302.0,282.0,3657.0,4241.0,boys,laxmath,3 - 3
+473,Campolindo ,473,259,3517,0.0,133.0,40.0,3515.0,3688.0,boys,laxmath,1 - 2
+474,San Marin ,474,239,3559,0.0,753.0,441.0,3553.0,4747.0,boys,laxmath,0 - 2
+475,Blue Valley Southwest ,475,628,3247,0.0,788.0,900.0,3254.0,4942.0,boys,laxmath,2 - 1
+476,Greenhill ,476,525,3267,0.0,62.0,56.0,3271.0,3389.0,boys,laxmath,2 - 1
+477,Carrollton ,477,340,3692,0.0,463.0,363.0,3687.0,4513.0,boys,laxmath,2 - 3
+478,Palisades Charter ,478,509,3292,0.0,178.0,136.0,3291.0,3605.0,boys,laxmath,1 - 1
+479,Lake Wales ,479,705,3629,0.0,362.0,423.0,3617.0,4402.0,boys,laxmath,4 - 3
+480,East River ,480,940,155,0.0,371.0,684.0,147.0,1202.0,boys,laxmath,6 - 1
+481,North Davidson ,481,547,185,0.0,933.0,3016.0,176.0,4125.0,boys,laxmath,1 - 0
+482,Las Lomas ,482,279,3846,0.0,887.0,740.0,3843.0,5470.0,boys,laxmath,0 - 4
+483,River Bluff ,483,491,3507,0.0,605.0,649.0,3504.0,4758.0,boys,laxmath,2 - 2
+484,Trinity Prep ,484,230,3755,0.0,360.0,224.0,3808.0,4392.0,boys,laxmath,2 - 4
+485,Northeast St Petersburg ,485,974,64,0.0,396.0,806.0,59.0,1261.0,boys,laxmath,3 - 0
+486,Oro Valley ,486,352,3676,0.0,722.0,714.0,3670.0,5106.0,boys,laxmath,2 - 3
+487,Cocoa Beach ,487,364,3655,0.0,206.0,171.0,3644.0,4021.0,boys,laxmath,3 - 3
+488,North Cobb ,488,170,3721,0.0,336.0,153.0,3716.0,4205.0,boys,laxmath,1 - 3
+489,Estero ,489,888,494,0.0,331.0,615.0,490.0,1436.0,boys,laxmath,5 - 1
+490,Asheville HS ,490,368,3319,0.0,434.0,446.0,2224.0,3104.0,boys,laxmath,1 - 1
+491,Northgate ,491,649,3199,0.0,256.0,424.0,3206.0,3886.0,boys,laxmath,3 - 1
+492,Key West ,492,832,3170,0.0,462.0,719.0,3176.0,4357.0,boys,laxmath,4 - 1
+493,Wheeler ,493,677,3481,0.0,604.0,731.0,3476.0,4811.0,boys,laxmath,3 - 2
+494,Christian Brothers ,494,176,3769,0.0,745.0,419.0,3763.0,4927.0,boys,laxmath,0 - 3
+495,San Marcos SD ,495,122,3851,0.0,880.0,713.0,3848.0,5441.0,boys,laxmath,0 - 4
+496,Ridge Point ,496,704,3514,0.0,346.0,331.0,3511.0,4188.0,boys,laxmath,2 - 2
+497,Fleming Island ,497,360,3828,0.0,739.0,579.0,3827.0,5145.0,boys,laxmath,1 - 4
+498,Riverside Durham ,498,488,3338,0.0,618.0,659.0,3324.0,4601.0,boys,laxmath,1 - 1
+499,King ,499,128,3896,0.0,519.0,287.0,3896.0,4702.0,boys,laxmath,0 - 5
+500,Lakeside-DeKalb ,500,772,3784,0.0,696.0,753.0,3778.0,5227.0,boys,laxmath,4 - 4
+501,West Hills ,501,374,3303,0.0,365.0,353.0,3298.0,4016.0,boys,laxmath,1 - 1
+502,California ,502,363,3516,0.0,802.0,802.0,3514.0,5118.0,boys,laxmath,1 - 2
+503,Asheville School ,503,203,3597,0.0,220.0,22.0,3584.0,3826.0,boys,laxmath,0 - 2
+504,Woodlands B ,504,536,3815,0.0,567.0,460.0,3814.0,4841.0,boys,laxmath,2 - 4
+505,Santa Fe ,505,948,3177,0.0,228.0,421.0,3182.0,3831.0,boys,laxmath,4 - 1
+506,Murrieta Mesa ,506,696,3492,0.0,569.0,602.0,3487.0,4658.0,boys,laxmath,2 - 2
+507,Socastee ,507,955,43,0.0,321.0,733.0,41.0,1095.0,boys,laxmath,4 - 0
+508,JH Rose ,508,740,183,0.0,443.0,825.0,174.0,1442.0,boys,laxmath,1 - 0
+509,Park Vista ,509,227,3867,0.0,574.0,305.0,3888.0,4767.0,boys,laxmath,1 - 5
+510,Keller ,510,21,3927,0.0,532.0,159.0,3940.0,4631.0,boys,laxmath,0 - 6
+511,Collierville ,511,240,3730,0.0,663.0,506.0,3724.0,4893.0,boys,laxmath,1 - 3
+512,Catawba Ridge ,512,242,3726,0.0,276.0,106.0,3720.0,4102.0,boys,laxmath,1 - 3
+513,Woodmont ,513,863,3510,0.0,582.0,624.0,3507.0,4713.0,boys,laxmath,2 - 2
+514,Waccamaw ,514,657,3509,0.0,287.0,263.0,3506.0,4056.0,boys,laxmath,2 - 2
+515,St Marys Stockton ,515,378,3284,0.0,163.0,115.0,217.0,495.0,boys,laxmath,1 - 1
+516,Evans ,516,521,3672,0.0,310.0,289.0,3663.0,4262.0,boys,laxmath,3 - 3
+517,Plano West ,517,699,3218,0.0,448.0,665.0,3226.0,4339.0,boys,laxmath,3 - 1
+518,Classical Academy ,518,431,3294,0.0,424.0,442.0,250.0,1116.0,boys,laxmath,1 - 1
+519,Mays ,812,910,161,0.0,151.0,468.0,151.0,770.0,boys,laxmath,1 - 0
+520,Mount Tabor ,2536,514,3333,0.0,931.0,934.0,3321.0,5186.0,boys,laxmath,1 - 1
+521,El Capitan ,3456,515,3296,0.0,917.0,926.0,3294.0,5137.0,boys,laxmath,1 - 1
+522,St Augustine ,3457,627,3237,0.0,633.0,796.0,3243.0,4672.0,boys,laxmath,2 - 1
+523,Clover ,3458,899,3210,0.0,570.0,787.0,3217.0,4574.0,boys,laxmath,3 - 1
+524,Sonoma Academy ,3459,744,92,0.0,97.0,295.0,85.0,477.0,boys,laxmath,2 - 0
+525,Cary HS ,3460,446,3321,0.0,493.0,513.0,3311.0,4317.0,boys,laxmath,1 - 1
+526,Evangelical Christian ,3461,157,3349,0.0,268.0,237.0,3335.0,3840.0,boys,laxmath,1 - 1
+527,Higley ,3462,880,3462,0.0,525.0,634.0,3457.0,4616.0,boys,laxmath,3 - 2
+528,Edgewater ,3463,773,3658,0.0,585.0,629.0,3647.0,4861.0,boys,laxmath,3 - 3
+529,Clayton ,3464,371,3323,0.0,438.0,448.0,3313.0,4199.0,boys,laxmath,1 - 1
+530,Wesley Chapel ,3465,461,3668,0.0,244.0,207.0,3659.0,4110.0,boys,laxmath,3 - 3
+531,Buchholz ,3466,233,3798,0.0,457.0,311.0,3795.0,4563.0,boys,laxmath,2 - 4
+532,Northview ,3467,455,3693,0.0,483.0,409.0,3690.0,4582.0,boys,laxmath,2 - 3
+533,East Ridge ,3468,575,3657,0.0,405.0,414.0,3646.0,4465.0,boys,laxmath,3 - 3
+534,Gunn ,3469,532,141,0.0,218.0,582.0,133.0,933.0,boys,laxmath,1 - 0
+535,Stuart Hall ,3470,534,3520,0.0,766.0,743.0,3518.0,5027.0,boys,laxmath,1 - 2
+536,Riverside ,3471,471,3508,0.0,418.0,435.0,3505.0,4358.0,boys,laxmath,2 - 2
+537,Soquel ,3472,951,95,0.0,822.0,947.0,88.0,1857.0,boys,laxmath,2 - 0
+538,Foothills Christian ,3473,545,3524,0.0,631.0,539.0,3521.0,4691.0,boys,laxmath,1 - 2
+539,Edgewood ,3474,485,3659,0.0,597.0,640.0,3648.0,4885.0,boys,laxmath,3 - 3
+540,Hardin Valley ,3475,786,3350,0.0,561.0,590.0,3336.0,4487.0,boys,laxmath,1 - 1
+541,Archbishop McCarthy ,3476,335,3751,0.0,368.0,416.0,3745.0,4529.0,boys,laxmath,5 - 4
+542,Ragsdale ,3477,474,3420,0.0,3028.0,3026.0,3409.0,9463.0,boys,laxmath,0 - 1
+543,Heritage ,3478,365,3329,0.0,674.0,722.0,3318.0,4714.0,boys,laxmath,1 - 1
+544,Tamalpais ,3479,178,3847,0.0,812.0,566.0,3844.0,5222.0,boys,laxmath,0 - 4
+545,Magnolia ,3480,172,3916,0.0,667.0,507.0,3916.0,5090.0,boys,laxmath,2 - 6
+546,Christian Academy ,3481,785,3457,0.0,679.0,840.0,3449.0,4968.0,boys,laxmath,4 - 2
+547,North Raleigh Christian ,3482,923,186,0.0,825.0,949.0,177.0,1951.0,boys,laxmath,1 - 0
+548,Fike ,3483,730,176,0.0,929.0,3004.0,167.0,4100.0,boys,laxmath,1 - 0
+549,Eastern Alamance ,3484,261,3411,0.0,440.0,91.0,3400.0,3931.0,boys,laxmath,0 - 1
+550,Palm Beach Central ,3485,776,3176,0.0,298.0,543.0,3181.0,4022.0,boys,laxmath,4 - 1
+551,Little Rock Catholic ,3486,972,84,0.0,238.0,623.0,77.0,938.0,boys,laxmath,2 - 0
+552,St Brendan ,3487,851,3178,0.0,372.0,639.0,3183.0,4194.0,boys,laxmath,4 - 1
+553,Bixby ,3488,315,3908,0.0,721.0,358.0,3908.0,4987.0,boys,laxmath,0 - 5
+554,Valley Center ,3489,416,3302,0.0,251.0,212.0,3245.0,3708.0,boys,laxmath,1 - 1
+555,Smithson Valley ,3490,662,3460,0.0,581.0,746.0,3455.0,4782.0,boys,laxmath,4 - 2
+556,All Saints Academy ,3491,983,490,0.0,651.0,878.0,486.0,2015.0,boys,laxmath,5 - 1
+557,Pearland ,3492,585,3645,0.0,573.0,668.0,3633.0,4874.0,boys,laxmath,4 - 3
+558,Trinity Valley ,3493,919,3272,0.0,681.0,842.0,3274.0,4797.0,boys,laxmath,2 - 1
+559,Los Gatos ,3494,631,3289,0.0,497.0,512.0,3288.0,4297.0,boys,laxmath,1 - 1
+560,Union Pines ,3495,769,3341,0.0,619.0,660.0,3327.0,4606.0,boys,laxmath,1 - 1
+561,Milton ,3496,615,3496,0.0,562.0,595.0,3491.0,4648.0,boys,laxmath,2 - 2
+562,Bremen ,3497,857,3243,0.0,650.0,814.0,3250.0,4714.0,boys,laxmath,2 - 1
+563,Chaminade Prep ,3498,927,246,0.0,303.0,574.0,242.0,1119.0,boys,laxmath,5 - 1
+564,Mount Pisgah Christian ,3499,326,3720,0.0,398.0,206.0,3715.0,4319.0,boys,laxmath,1 - 3
+565,Newbury Park ,3500,837,3164,0.0,623.0,851.0,3169.0,4643.0,boys,laxmath,4 - 1
+566,South Mecklenburg ,3501,743,3540,0.0,897.0,898.0,3534.0,5329.0,boys,laxmath,1 - 2
+567,Ardrey Kell ,3502,904,3318,0.0,960.0,955.0,3309.0,5224.0,boys,laxmath,1 - 1
+568,Myers Park ,3503,273,3334,0.0,444.0,449.0,3322.0,4215.0,boys,laxmath,1 - 1
+569,University School Nashvi,3504,166,3770,0.0,299.0,137.0,3764.0,4200.0,boys,laxmath,0 - 3
+570,St John Bosco ,3505,425,3823,0.0,694.0,503.0,3822.0,5019.0,boys,laxmath,1 - 4
+571,Westminster Academy ,3506,687,3499,0.0,515.0,533.0,3495.0,4543.0,boys,laxmath,2 - 2
+572,St James ,3507,589,3700,0.0,502.0,430.0,3696.0,4628.0,boys,laxmath,2 - 3
+573,Midtown ,3508,367,3881,0.0,552.0,390.0,3878.0,4820.0,boys,laxmath,2 - 5
+574,University Irvine ,3509,617,3654,0.0,628.0,674.0,3642.0,4944.0,boys,laxmath,3 - 3
+575,St Stephens ,3510,632,3340,0.0,935.0,936.0,3326.0,5197.0,boys,laxmath,1 - 1
+576,Fort Worth CDS ,3511,921,3265,0.0,458.0,608.0,3269.0,4335.0,boys,laxmath,2 - 1
+577,Wakefield ,3512,385,3541,0.0,559.0,439.0,3535.0,4533.0,boys,laxmath,1 - 2
+578,Westlake B ,3513,307,3736,0.0,413.0,219.0,3730.0,4362.0,boys,laxmath,1 - 3
+579,Atlantic-Delray Beach ,3514,153,3374,0.0,269.0,34.0,3361.0,3664.0,boys,laxmath,0 - 1
+580,Legion Collegiate Academ,3515,422,3256,0.0,343.0,484.0,3195.0,4022.0,boys,laxmath,2 - 1
+581,Hillsboro ,3516,840,3261,0.0,775.0,896.0,3265.0,4936.0,boys,laxmath,2 - 1
+582,Jesuit Sacramento ,3517,599,3280,0.0,96.0,46.0,3282.0,3424.0,boys,laxmath,1 - 1
+583,Coronado ,3518,115,3404,0.0,326.0,51.0,3393.0,3770.0,boys,laxmath,0 - 1
+584,Satellite ,3519,867,3209,0.0,579.0,793.0,3216.0,4588.0,boys,laxmath,3 - 1
+585,Flagler Palm Coast ,3520,554,3305,0.0,484.0,501.0,3300.0,4285.0,boys,laxmath,1 - 1
+586,May River ,3521,477,3544,0.0,531.0,404.0,3538.0,4473.0,boys,laxmath,1 - 2
+587,Lake Howell ,3522,247,3830,0.0,568.0,327.0,3829.0,4724.0,boys,laxmath,1 - 4
+588,Jordan ,3523,557,3418,0.0,978.0,933.0,3407.0,5318.0,boys,laxmath,0 - 1
+589,Watauga ,3524,866,3342,0.0,963.0,958.0,3328.0,5249.0,boys,laxmath,1 - 1
+590,Lick Wilmerding ,3525,519,3354,0.0,144.0,8.0,3341.0,3493.0,boys,laxmath,0 - 1
+591,Sierra Canyon ,3526,198,3523,0.0,637.0,548.0,3520.0,4705.0,boys,laxmath,1 - 2
+592,Preuss School ,3527,945,103,0.0,528.0,869.0,97.0,1494.0,boys,laxmath,2 - 0
+593,Union ,3528,294,3892,0.0,621.0,355.0,3891.0,4867.0,boys,laxmath,1 - 5
+594,Lakeland Christian ,3529,709,3630,0.0,352.0,405.0,3618.0,4375.0,boys,laxmath,4 - 3
+595,Hebron ,3530,941,3191,0.0,687.0,880.0,3198.0,4765.0,boys,laxmath,4 - 1
+596,South Brunswick ,3531,995,192,0.0,671.0,912.0,183.0,1766.0,boys,laxmath,1 - 0
+597,Cary Christian ,3532,404,3320,0.0,437.0,447.0,3310.0,4194.0,boys,laxmath,1 - 1
+598,Piedmont ,3533,420,3558,0.0,881.0,724.0,3552.0,5157.0,boys,laxmath,0 - 2
+599,Admiral Farragut Academy,3534,922,3470,0.0,713.0,837.0,3465.0,5015.0,boys,laxmath,3 - 2
+600,Rio Americano ,3535,562,3647,0.0,630.0,680.0,3635.0,4945.0,boys,laxmath,3 - 3
+601,Auburn ,3536,292,3816,0.0,513.0,272.0,3815.0,4600.0,boys,laxmath,1 - 4
+602,Hart ,3537,622,3650,0.0,388.0,386.0,3638.0,4412.0,boys,laxmath,3 - 3
+603,San Rafael ,3538,584,3283,0.0,615.0,657.0,3283.0,4555.0,boys,laxmath,1 - 1
+604,Land O Lakes ,3539,814,499,0.0,309.0,580.0,497.0,1386.0,boys,laxmath,5 - 1
+605,Fort Mill ,3540,648,3505,0.0,709.0,770.0,3501.0,4980.0,boys,laxmath,2 - 2
+606,Bob Jones ,3541,354,3794,0.0,503.0,362.0,3790.0,4655.0,boys,laxmath,2 - 4
+607,Sprayberry ,3542,567,3694,0.0,746.0,758.0,3691.0,5195.0,boys,laxmath,2 - 3
+608,Eleanor Roosevelt ,3543,548,3649,0.0,539.0,571.0,3637.0,4747.0,boys,laxmath,3 - 3
+609,Brookwood ,3544,394,3811,0.0,409.0,277.0,3809.0,4495.0,boys,laxmath,2 - 4
+610,Oakland ,3545,60,3430,0.0,620.0,231.0,3419.0,4270.0,boys,laxmath,0 - 1
+611,West Broward ,3546,855,3308,0.0,259.0,434.0,3304.0,3997.0,boys,laxmath,6 - 2
+612,Mission Hills ,3547,468,3299,0.0,361.0,348.0,3296.0,4005.0,boys,laxmath,1 - 1
+613,Concordia Lutheran ,3548,963,3189,0.0,248.0,462.0,3197.0,3907.0,boys,laxmath,4 - 1
+614,Butler ,3549,211,3406,0.0,262.0,30.0,3395.0,3687.0,boys,laxmath,0 - 1
+615,Scottsdale ,3550,377,3738,0.0,900.0,800.0,3732.0,5432.0,boys,laxmath,0 - 3
+616,Canyon Crest ,3551,512,3363,0.0,1039.0,1021.0,3350.0,5410.0,boys,laxmath,0 - 1
+617,El Camino ,3552,358,3365,0.0,1041.0,1023.0,3352.0,5416.0,boys,laxmath,0 - 1
+618,Clairemont ,3553,220,3364,0.0,423.0,84.0,3351.0,3858.0,boys,laxmath,0 - 1
+619,Mira Mesa ,3554,221,3367,0.0,427.0,86.0,3354.0,3867.0,boys,laxmath,0 - 1
+620,Huntsville ,3555,185,3883,0.0,512.0,247.0,3880.0,4639.0,boys,laxmath,1 - 5
+621,Springdale United ,3556,457,3817,0.0,609.0,385.0,3816.0,4810.0,boys,laxmath,1 - 4
+622,George Ranch ,3557,799,3459,0.0,486.0,650.0,3452.0,4588.0,boys,laxmath,4 - 2
+623,Cypress Creek ,3558,872,3444,0.0,589.0,757.0,3436.0,4782.0,boys,laxmath,4 - 2
+624,Dwyer ,3559,155,3901,0.0,501.0,138.0,3901.0,4540.0,boys,laxmath,0 - 5
+625,Segerstrom ,3560,918,251,0.0,419.0,720.0,246.0,1385.0,boys,laxmath,5 - 1
+626,Woodcreek ,3561,779,3287,0.0,508.0,524.0,3286.0,4318.0,boys,laxmath,1 - 1
+627,Western-Davie ,3562,243,3924,0.0,566.0,285.0,3924.0,4775.0,boys,laxmath,1 - 6
+628,Carolina Forest ,3563,925,3185,0.0,496.0,760.0,3192.0,4448.0,boys,laxmath,4 - 1
+629,Wiregrass Ranch ,3564,470,3791,0.0,485.0,453.0,3786.0,4724.0,boys,laxmath,3 - 4
+630,Urban School ,3565,237,3561,0.0,394.0,71.0,3555.0,4020.0,boys,laxmath,0 - 2
+631,Cactus Shadows ,3566,715,3197,0.0,165.0,275.0,3204.0,3644.0,boys,laxmath,3 - 1
+632,Acalanes ,3567,264,3739,0.0,732.0,380.0,3733.0,4845.0,boys,laxmath,0 - 3
+633,Sunlake ,3568,722,3474,0.0,506.0,616.0,3470.0,4592.0,boys,laxmath,3 - 2
+634,Arlington ,3569,858,3346,0.0,560.0,585.0,3332.0,4477.0,boys,laxmath,1 - 1
+635,Bradford Prep ,3570,238,3405,0.0,436.0,90.0,3394.0,3920.0,boys,laxmath,0 - 1
+636,Peachtree Ridge ,3571,75,3937,0.0,741.0,411.0,3936.0,5088.0,boys,laxmath,0 - 6
+637,Corona ,3572,987,5,0.0,403.0,808.0,3.0,1214.0,boys,laxmath,8 - 0
+638,UMS-Wright ,3573,710,3490,0.0,805.0,871.0,3484.0,5160.0,boys,laxmath,2 - 2
+639,Olympic Heights ,3574,877,3381,0.0,283.0,436.0,3367.0,4086.0,boys,laxmath,5 - 2
+640,Matanzas ,3575,829,3447,0.0,401.0,557.0,3438.0,4396.0,boys,laxmath,4 - 2
+641,Hillcrest ,3576,330,3613,0.0,317.0,48.0,3600.0,3965.0,boys,laxmath,0 - 2
+642,Santana ,3577,502,3525,0.0,677.0,600.0,3522.0,4799.0,boys,laxmath,1 - 2
+643,East Lake ,3578,864,3801,0.0,629.0,535.0,3798.0,4962.0,boys,laxmath,2 - 4
+644,Valencia Santa Clarita ,3579,893,3440,0.0,518.0,677.0,3431.0,4626.0,boys,laxmath,4 - 2
+645,White Knoll ,3580,991,3259,0.0,692.0,844.0,3263.0,4799.0,boys,laxmath,2 - 1
+646,Covington Catholic ,3581,319,3389,0.0,1489.0,1474.0,3378.0,6341.0,boys,laxmath,0 - 1
+647,Madison County CoOp ,3582,320,3394,0.0,1499.0,1486.0,3383.0,6368.0,boys,laxmath,0 - 1
+648,Olympian ,3583,775,3235,0.0,632.0,795.0,3241.0,4668.0,boys,laxmath,2 - 1
+649,Forsyth Country Day ,3584,39,3412,0.0,145.0,9.0,3401.0,3555.0,boys,laxmath,0 - 1
+650,Northwest Guilford ,3585,139,3419,0.0,221.0,23.0,3408.0,3652.0,boys,laxmath,0 - 1
+651,South Plantation ,3586,838,3808,0.0,710.0,646.0,3805.0,5161.0,boys,laxmath,2 - 4
+652,Calvary Day ,3587,884,3670,0.0,656.0,708.0,3661.0,5025.0,boys,laxmath,3 - 3
+653,Anderson ,3588,694,3642,0.0,580.0,670.0,3630.0,4880.0,boys,laxmath,4 - 3
+654,West Ranch ,3589,774,3469,0.0,600.0,729.0,3464.0,4793.0,boys,laxmath,3 - 2
+655,Lanier ,3590,550,3502,0.0,540.0,572.0,3498.0,4610.0,boys,laxmath,2 - 2
+656,Winter Haven ,3591,736,3669,0.0,449.0,455.0,3660.0,4564.0,boys,laxmath,3 - 3
+657,Klein ,3592,415,3894,0.0,720.0,518.0,3894.0,5132.0,boys,laxmath,1 - 5
+658,West Stokes ,3593,262,3425,0.0,446.0,97.0,3414.0,3957.0,boys,laxmath,0 - 1
+659,DH Conley ,3594,410,3599,0.0,3010.0,3003.0,3586.0,9599.0,boys,laxmath,0 - 2
+660,John Burroughs School ,3595,147,3400,0.0,432.0,88.0,3389.0,3909.0,boys,laxmath,0 - 1
+661,Kirkwood ,3596,148,3401,0.0,433.0,89.0,3390.0,3912.0,boys,laxmath,0 - 1
+662,North Broward Prep ,3597,225,3580,0.0,393.0,332.0,3782.0,4507.0,boys,laxmath,3 - 4
+663,Aubrey Rogers ,3598,672,3787,0.0,453.0,379.0,3781.0,4613.0,boys,laxmath,3 - 4
+664,Charlotte Latin ,3599,414,3536,0.0,828.0,830.0,3531.0,5189.0,boys,laxmath,1 - 2
+665,Cumberland Academy ,3600,591,3814,0.0,599.0,495.0,3813.0,4907.0,boys,laxmath,2 - 4
+666,Jack Britt ,3601,99,3601,0.0,263.0,31.0,3588.0,3882.0,boys,laxmath,0 - 2
+667,Miami Country Day ,3602,580,3806,0.0,521.0,377.0,3803.0,4701.0,boys,laxmath,2 - 4
+668,Corinth Holders ,3603,473,3537,0.0,951.0,931.0,3532.0,5414.0,boys,laxmath,1 - 2
+669,Eastern Guilford ,3604,482,3600,0.0,849.0,630.0,3587.0,5066.0,boys,laxmath,0 - 2
+670,Western Guilford ,3605,816,128,0.0,529.0,870.0,119.0,1518.0,boys,laxmath,2 - 0
+671,Hilton Head Christian ,3606,831,3344,0.0,838.0,886.0,3330.0,5054.0,boys,laxmath,1 - 1
+672,Southeast Alamance ,3607,581,3339,0.0,790.0,859.0,3325.0,4974.0,boys,laxmath,1 - 1
+673,Millard West ,3608,349,3595,0.0,,,,,boys,laxmath,0 - 2

@@ -34,3 +34,7 @@ toplax_names_map_dict = {
     'Club Team':'club',
     'DIV':'division'
     }
+insidelacrosse_names_map_dict= {
+    'Pos':'position',
+    'Link':'profile_link'
+}

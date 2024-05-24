@@ -1,0 +1,67 @@
+rank,team,pr,sos-pr,qwf-pr,champion_%,rpi,sos-rpi,qwf-rpi,selection,gender,division
+1,West Chester Club ( 12 - 3 ),1,5,1,27 . 50 %,2,10,1,13,boys,D2
+2,Louisville Club ( 10 - 4 ),4,22,9,14 . 0 %,1,1,3,5,boys,D2
+3,High Point Club ( 13 - 2 ),2,9,2,13 . 50 %,3,15,2,20,boys,D2
+4,Georgetown Club ( 7 - 4 ),5,20,16,6 . 50 %,27,55,16,98,boys,D2
+5,Williamson ( 5 - 3 ),3,4,7,6 . 0 %,10,6,10,26,boys,D2
+6,RIT Club ( 7 - 2 ),10,37,24,3 . 50 %,12,20,9,41,boys,D2
+7,Bucknell Club ( 2 - 0 ),13,44,12,3 . 0 %,16,47,13,76,boys,D2
+8,Drexel Club ( 3 - 6 ),6,6,13,3 . 0 %,14,12,24,50,boys,D2
+9,Massachusetts B Club ( 8 - 2 ),12,14,3,2 . 50 %,7,9,4,20,boys,D2
+10,Tufts Club ( 4 - 3 ),15,21,32,2 . 50 %,15,19,22,56,boys,D2
+11,Binghamton Club ( 8 - 3 ),17,32,5,2 . 0 %,4,4,7,15,boys,D2
+12,Brown Club ( 5 - 5 ),9,13,8,2 . 0 %,9,11,8,28,boys,D2
+13,Electric City LC ( 6 - 3 ),7,28,4,2 . 0 %,6,28,5,39,boys,D2
+14,Bryant Club ( 6 - 2 ),14,11,6,1 . 50 %,5,5,6,16,boys,D2
+15,Marist Club ( 4 - 7 ),8,42,28,1 . 50 %,29,27,28,84,boys,D2
+16,Rowan Club ( 2 - 4 ),20,7,31,1 . 50 %,30,14,37,81,boys,D2
+17,TCNJ Club ( 6 - 2 ),11,17,10,1 . 50 %,13,24,12,49,boys,D2
+18,Babson Club ( 5 - 3 ),22,24,33,0 . 0 %,26,13,26,65,boys,D2
+19,Clarkson Club ( 4 - 1 ),16,57,11,0 . 0 %,19,51,11,81,boys,D2
+20,George Mason Club ( 5 - 6 ),21,15,42,0 . 0 %,28,31,55,114,boys,D2
+21,Massachusetts-Lowell Clu( 4 - 3 ),24,23,36,0 . 0 %,25,17,29,71,boys,D2
+22,Virginia Commonwealth Cl( 5 - 3 ),28,34,41,0 . 0 %,35,49,36,120,boys,D2
+23,Duquesne Club ( 7 - 1 ),27,60,15,0 . 0 %,23,45,15,83,boys,D2
+24,RPI Club ( 0 - 2 ),35,40,19,0 . 0 %,64,64,20,148,boys,D2
+25,Akron Club ( 4 - 7 ),59,52,63,0 . 0 %,40,52,58,150,boys,D2
+26,Bloomsburg Club ( 0 - 6 ),48,30,66,0 . 0 %,51,23,65,139,boys,D2
+27,Bowling Green Club ( 3 - 3 ),63,47,50,0 . 0 %,43,54,44,141,boys,D2
+28,Carnegie Mellon Club ( 0 - 4 ),61,45,60,0 . 0 %,48,21,59,128,boys,D2
+29,Catholic Club ( 0 - 2 ),44,18,34,0 . 0 %,57,39,48,144,boys,D2
+30,CCNY Club ( 1 - 7 ),64,49,51,0 . 0 %,56,48,52,156,boys,D2
+31,Christopher Newport Club( 1 - 2 ),60,19,47,0 . 0 %,53,22,45,120,boys,D2
+32,Dickinson Club ( 0 - 0 ),0,0,0,0 . 0 %,0,0,0,0,boys,D2
+33,Gannon Club ( 0 - 1 ),66,61,30,0 . 0 %,59,46,33,138,boys,D2
+34,George Washington Club ( 2 - 5 ),46,25,58,0 . 0 %,47,38,64,149,boys,D2
+35,Ithaca Club ( 0 - 0 ),0,0,0,0 . 0 %,0,0,0,0,boys,D2
+36,IUP Club ( 1 - 2 ),55,56,48,0 . 0 %,39,30,46,115,boys,D2
+37,Johns Hopkins Club ( 0 - 0 ),0,0,0,0 . 0 %,0,0,0,0,boys,D2
+38,Kent State Club ( 8 - 5 ),43,48,35,0 . 0 %,17,33,27,77,boys,D2
+39,Kentucky Club ( 4 - 4 ),29,10,22,0 . 0 %,8,63,19,90,boys,D2
+40,Kutztown Club ( 5 - 4 ),18,26,25,0 . 0 %,20,40,31,91,boys,D2
+41,Le Moyne Club ( 1 - 5 ),51,41,57,0 . 0 %,38,25,53,116,boys,D2
+42,Millersville Club ( 5 - 2 ),42,46,37,0 . 0 %,42,58,34,134,boys,D2
+43,New Haven Club ( 1 - 2 ),50,51,29,0 . 0 %,50,53,32,135,boys,D2
+44,Niagara Club ( 5 - 7 ),31,31,56,0 . 0 %,34,29,51,114,boys,D2
+45,NYU Club ( 4 - 4 ),45,59,43,0 . 0 %,58,57,39,154,boys,D2
+46,Oswego Club ( 1 - 4 ),62,50,44,0 . 0 %,46,59,40,145,boys,D2
+47,PSU Berks Club ( 1 - 5 ),54,35,61,0 . 0 %,54,41,60,155,boys,D2
+48,Quinnipiac Club ( 2 - 10 ),40,29,64,0 . 0 %,32,7,61,100,boys,D2
+49,Radford Club ( 2 - 3 ),30,3,38,0 . 0 %,21,18,49,88,boys,D2
+50,Richmond Club ( 1 - 2 ),47,36,45,0 . 0 %,41,37,41,119,boys,D2
+51,Robert Morris Club ( 2 - 2 ),57,55,46,0 . 0 %,33,35,42,110,boys,D2
+52,Rochester Club ( 4 - 6 ),26,43,39,0 . 0 %,37,42,43,122,boys,D2
+53,Rutgers-Camden Club ( 1 - 7 ),53,27,65,0 . 0 %,52,34,66,152,boys,D2
+54,Shippensburg Club ( 4 - 3 ),39,33,40,0 . 0 %,24,26,38,88,boys,D2
+55,Slippery Rock Club ( 4 - 4 ),49,54,52,0 . 0 %,36,43,47,126,boys,D2
+56,St Anselm Club ( 0 - 6 ),52,8,59,0 . 0 %,45,16,56,117,boys,D2
+57,St Bonaventure Club ( 1 - 5 ),56,39,62,0 . 0 %,49,32,62,143,boys,D2
+58,St Josephs (PA) Club ( 3 - 8 ),23,12,26,0 . 0 %,31,8,35,74,boys,D2
+59,Stevens Club ( 1 - 5 ),41,38,53,0 . 0 %,44,44,50,138,boys,D2
+60,Stony Brook Club ( 5 - 5 ),58,53,54,0 . 0 %,55,56,57,168,boys,D2
+61,Toledo Club ( 0 - 3 ),65,58,55,0 . 0 %,60,50,54,164,boys,D2
+62,Trinity Club ( 0 - 0 ),0,0,0,0 . 0 %,0,0,0,0,boys,D2
+63,UMBC Club ( 1 - 12 ),25,2,49,0 . 0 %,22,2,63,87,boys,D2
+64,VMI Club ( 0 - 1 ),37,1,23,0 . 0 %,11,3,25,39,boys,D2
+65,William & Mary Club ( 5 - 4 ),19,16,27,0 . 0 %,18,36,30,84,boys,D2
+66,York Club ( 0 - 0 ),0,0,0,0 . 0 %,0,0,0,0,boys,D2

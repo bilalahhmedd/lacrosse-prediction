@@ -1,0 +1,128 @@
+rank,school,conference,record,road,neutral,home,non_div_i,gender,division
+1,Yale,Ivy League,11-1,4-1,0-0,7-0,0-0,girls,D1
+2,Northwestern,Big Ten,12-2,4-2,0-0,8-0,0-0,girls,D1
+3,Syracuse,ACC,12-3,5-1,0-0,7-2,0-0,girls,D1
+4,Michigan,Big Ten,14-1,10-0,0-0,4-1,0-0,girls,D1
+5,Maryland,Big Ten,11-4,8-0,0-0,3-4,0-0,girls,D1
+6,Virginia,ACC,12-3,4-1,1-0,7-2,0-0,girls,D1
+7,Penn,Ivy League,9-3,4-2,1-0,4-1,0-0,girls,D1
+8,Johns Hopkins,Big Ten,10-5,4-2,1-0,5-3,0-0,girls,D1
+9,Notre Dame,ACC,13-2,7-0,0-0,6-2,0-0,girls,D1
+10,Loyola Maryland,Patriot,13-1,6-1,0-0,7-0,0-0,girls,D1
+11,Stanford,Pac-12,9-3,3-3,0-0,6-0,0-0,girls,D1
+12,Boston College,ACC,12-3,5-1,0-0,7-2,0-0,girls,D1
+13,Princeton,Ivy League,8-4,4-3,0-0,4-1,0-0,girls,D1
+14,Fairfield,MAAC,13-1,4-1,0-0,9-0,0-0,girls,D1
+15,Stony Brook,CAA,13-2,5-0,0-1,8-1,0-0,girls,D1
+16,Denver,Big East,11-3,3-2,0-0,8-1,0-0,girls,D1
+17,James Madison,AAC,10-4,3-4,1-0,6-0,0-0,girls,D1
+18,North Carolina,ACC,9-5,3-3,0-0,6-2,0-0,girls,D1
+19,Florida,AAC,13-2,5-2,1-0,7-0,0-0,girls,D1
+20,Brown,Ivy League,9-4,4-2,0-0,5-2,0-0,girls,D1
+21,Drexel,CAA,10-4,5-3,0-0,5-1,0-0,girls,D1
+22,Southern California,Pac-12,10-4,6-2,0-0,4-2,0-0,girls,D1
+23,Penn St.,Big Ten,8-6,4-3,0-0,4-3,0-0,girls,D1
+24,Holy Cross,Patriot,10-3,7-0,0-0,3-3,0-0,girls,D1
+25,Clemson,ACC,9-6,5-2,0-0,4-4,0-0,girls,D1
+26,Navy,Patriot,11-3,4-2,0-0,7-1,0-0,girls,D1
+27,Colorado,Pac-12,10-4,6-2,0-0,4-2,0-0,girls,D1
+28,Harvard,Ivy League,8-3,2-3,1-0,5-0,0-0,girls,D1
+29,Temple,AAC,9-4,1-2,0-0,8-2,0-0,girls,D1
+30,Massachusetts,Atlantic 10,9-4,5-2,0-0,4-2,0-0,girls,D1
+31,Duke,ACC,10-6,3-3,0-0,7-3,0-0,girls,D1
+32,Dartmouth,Ivy League,7-5,4-4,0-0,3-1,0-0,girls,D1
+33,Rutgers,Big Ten,6-8,1-4,0-0,5-4,0-0,girls,D1
+34,Niagara,MAAC,12-3,4-2,2-0,6-1,0-0,girls,D1
+35,Siena,MAAC,11-4,3-2,0-0,8-2,0-0,girls,D1
+36,Richmond,Atlantic 10,11-3,5-2,0-0,6-1,0-0,girls,D1
+37,Coastal Carolina,ASUN,10-4,4-3,0-0,6-1,0-0,girls,D1
+38,Virginia Tech,ACC,9-7,4-4,0-0,5-3,0-0,girls,D1
+39,Cornell,Ivy League,7-6,3-2,1-1,3-3,0-0,girls,D1
+40,Army West Point,Patriot,6-7,2-5,0-0,4-2,0-0,girls,D1
+41,Bryant,America East,8-5,3-4,0-0,5-1,0-0,girls,D1
+42,Saint Joseph's,Atlantic 10,8-6,3-4,0-0,5-2,0-0,girls,D1
+43,UAlbany,America East,4-9,2-6,0-0,2-3,0-0,girls,D1
+44,UConn,Big East,8-5,3-4,0-1,5-0,0-0,girls,D1
+45,Louisville,ACC,7-9,3-6,0-0,4-3,0-0,girls,D1
+46,Towson,CAA,6-8,4-2,0-0,2-6,0-0,girls,D1
+47,Iona,MAAC,10-4,5-3,0-0,5-1,0-0,girls,D1
+48,Mercer,Big South,8-5,4-2,0-0,4-3,0-0,girls,D1
+49,Delaware,CAA,9-5,4-3,0-0,5-2,0-0,girls,D1
+50,Arizona St.,Pac-12,7-8,2-5,0-0,5-3,0-0,girls,D1
+51,Hofstra,CAA,9-5,4-4,0-0,5-1,0-0,girls,D1
+52,UC Davis,Pac-12,9-5,2-2,0-2,7-1,0-0,girls,D1
+53,Lehigh,Patriot,7-5,2-1,0-0,5-4,0-0,girls,D1
+54,Davidson,Atlantic 10,8-6,2-5,0-0,6-1,0-0,girls,D1
+55,Vanderbilt,AAC,8-6,3-4,0-0,5-2,0-0,girls,D1
+56,Ohio St.,Big Ten,7-7,2-6,0-0,5-1,0-0,girls,D1
+57,Georgetown,Big East,6-9,5-2,0-1,1-6,0-0,girls,D1
+58,UMass Lowell,America East,11-4,6-2,0-0,5-2,0-0,girls,D1
+59,Binghamton,America East,8-6,3-3,0-0,5-3,0-0,girls,D1
+60,Jacksonville,ASUN,5-8,1-2,0-1,4-5,0-0,girls,D1
+61,Mount St. Mary's,MAAC,5-9,4-4,0-1,1-4,0-0,girls,D1
+62,Canisius,MAAC,10-5,5-2,0-0,5-3,0-0,girls,D1
+63,UMBC,America East,9-4,4-3,0-0,5-1,0-0,girls,D1
+64,Elon,CAA,7-7,4-4,0-0,3-3,0-0,girls,D1
+65,Liberty,ASUN,5-10,3-3,0-0,2-7,0-0,girls,D1
+66,Sacred Heart,NEC,8-5,3-5,0-0,5-0,0-0,girls,D1
+67,Cincinnati,AAC,10-5,5-2,1-0,4-3,0-0,girls,D1
+68,Lindenwood,ASUN,11-3,6-3,0-0,5-0,0-0,girls,D1
+69,Marquette,Big East,5-10,1-7,0-0,4-3,0-0,girls,D1
+70,Pittsburgh,ACC,5-11,1-7,0-0,4-4,0-0,girls,D1
+71,Oregon,Pac-12,7-5,1-3,0-0,6-2,0-0,girls,D1
+72,High Point,Big South,8-5,3-2,1-0,4-3,0-0,girls,D1
+73,Boston U.,Patriot,4-9,2-6,0-0,2-3,0-0,girls,D1
+74,American,Patriot,6-8,3-3,0-0,3-5,0-0,girls,D1
+75,Le Moyne,NEC,8-6,2-5,0-0,6-1,0-0,girls,D1
+76,St. Bonaventure,Atlantic 10,7-8,2-7,0-0,5-1,0-0,girls,D1
+77,Vermont,America East,6-7,5-4,0-0,1-3,0-0,girls,D1
+78,Colgate,Patriot,2-11,1-6,0-0,1-5,0-0,girls,D1
+79,Monmouth,CAA,6-8,3-6,0-0,3-2,0-0,girls,D1
+80,Villanova,Big East,6-7,3-4,0-0,3-3,0-0,girls,D1
+81,Queens (NC),ASUN,8-6,5-3,0-0,3-3,0-0,girls,D1
+82,East Carolina,AAC,3-11,1-6,0-1,2-4,0-0,girls,D1
+83,LIU,NEC,7-7,3-5,0-0,4-2,0-0,girls,D1
+84,Columbia,Ivy League,3-9,1-5,0-1,2-3,0-0,girls,D1
+85,VCU,Atlantic 10,4-11,0-7,0-1,4-3,0-0,girls,D1
+86,William & Mary,CAA,4-11,1-5,0-1,3-5,0-0,girls,D1
+87,California,Pac-12,4-9,1-4,0-0,3-5,0-0,girls,D1
+88,Furman,Big South,6-8,4-3,0-0,2-5,0-0,girls,D1
+89,San Diego St.,Pac-12,2-12,0-6,1-0,1-6,0-0,girls,D1
+90,George Mason,Atlantic 10,9-6,3-4,1-0,5-2,0-0,girls,D1
+91,Central Mich.,MAC,4-11,2-8,0-0,2-3,0-0,girls,D1
+92,Campbell,CAA,3-12,1-8,0-0,2-4,0-0,girls,D1
+93,Rider,MAAC,8-7,2-5,0-0,6-2,0-0,girls,D1
+94,Bucknell,Patriot,4-8,1-7,0-0,3-1,0-0,girls,D1
+95,Manhattan,MAAC,4-11,0-9,0-0,4-2,0-0,girls,D1
+96,Wofford,Big South,5-7,2-3,0-0,3-4,0-0,girls,D1
+97,Duquesne,Atlantic 10,7-7,2-4,0-0,5-3,0-0,girls,D1
+98,Quinnipiac,MAAC,2-11,1-7,0-0,1-4,0-0,girls,D1
+99,Marist,MAAC,3-11,1-5,0-0,2-6,0-0,girls,D1
+100,Lafayette,Patriot,4-9,2-4,0-0,2-5,0-0,girls,D1
+101,New Hampshire,America East,2-10,1-4,0-0,1-6,0-0,girls,D1
+102,Eastern Mich.,MAC,6-6,4-4,0-0,2-2,0-0,girls,D1
+103,Saint Francis (PA),NEC,7-6,3-4,0-0,4-2,0-0,girls,D1
+103,Old Dominion,AAC,3-11,1-7,0-0,2-4,0-0,girls,D1
+105,Kent St.,MAC,5-10,3-6,0-0,2-4,0-0,girls,D1
+106,Stonehill,NEC,6-7,3-4,0-0,3-3,0-0,girls,D1
+107,Butler,Big East,2-12,1-6,0-0,1-6,0-0,girls,D1
+108,Stetson,ASUN,4-9,2-2,0-0,2-7,0-0,girls,D1
+109,Longwood,Big South,7-7,4-5,0-0,3-2,0-0,girls,D1
+110,Akron,MAC,6-8,3-5,0-0,3-3,0-0,girls,D1
+111,George Washington,Atlantic 10,4-11,1-6,0-0,3-5,0-0,girls,D1
+112,Robert Morris,MAC,4-11,2-7,0-0,2-4,0-0,girls,D1
+113,Merrimack,NEC,3-11,2-6,0-0,1-5,0-0,girls,D1
+114,Wagner,NEC,4-9,3-4,0-0,1-5,0-0,girls,D1
+115,Kennesaw St.,ASUN,4-9,1-5,0-0,3-4,1-0,girls,D1
+116,La Salle,Atlantic 10,2-10,2-5,0-0,0-5,0-0,girls,D1
+117,Xavier,Big East,3-10,0-4,0-1,3-5,0-0,girls,D1
+118,Winthrop,Big South,1-12,0-5,0-0,1-7,0-0,girls,D1
+119,Radford,Big South,4-9,2-5,0-0,2-4,0-0,girls,D1
+120,Detroit Mercy,MAC,3-11,1-8,0-0,2-3,0-0,girls,D1
+121,Presbyterian,Big South,2-10,2-4,0-0,0-6,0-1,girls,D1
+122,Delaware St.,NEC,2-11,0-6,0-0,2-5,0-0,girls,D1
+123,Youngstown St.,MAC,0-14,0-9,0-0,0-5,0-0,girls,D1
+124,Central Conn. St.,NEC,2-10,0-7,0-0,2-3,0-0,girls,D1
+125,Gardner-Webb,Big South,0-14,0-6,0-0,0-8,0-0,girls,D1
+126,FDU,NEC,2-13,1-5,0-0,1-8,0-0,girls,D1
+127,Howard,NEC,0-14,0-6,0-0,0-8,0-0,girls,D1

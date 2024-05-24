@@ -1,0 +1,1 @@
+Data directory contains multiple folders containing scrapped data for different websites.

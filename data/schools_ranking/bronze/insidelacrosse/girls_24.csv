@@ -1,0 +1,501 @@
+rank,team,w,l,rating,link,gender
+1,Acalanes (CA),1,0,0.0,,girls
+2,Albertus Magnus (NY),1,0,0.0,,girls
+3,All Saints Academy (FL),1,0,0.0,,girls
+4,Apex Friendship (NC),1,0,0.0,,girls
+5,Ardsley (NY),1,0,0.0,,girls
+6,Arizona College Prep (AZ),9,0,0.0,,girls
+7,Asheville School (NC),1,0,0.0,,girls
+8,Baldwin (NY),1,0,0.0,,girls
+9,Bel Air (MD),1,0,0.0,,girls
+10,Benilde-St. Margaret's (MN),2,0,0.0,,girls
+11,Bishop England (SC),15,0,0.0,,girls
+12,Bishop's School (CA),1,0,0.0,,girls
+13,Blessed Trinity (GA),2,0,0.0,,girls
+14,Brooklyn Technical (NY),9,0,0.0,,girls
+15,Cape Henlopen (DE),9,0,0.0,,girls
+16,Catawba Ridge (SC),1,0,0.0,,girls
+17,Central Square (NY),3,0,0.0,,girls
+18,Colorado Academy (CO),11,0,0.0,,girls
+19,Commack (NY),1,0,0.0,,girls
+20,Connetquot (NY),1,0,0.0,,girls
+21,Creekview (GA),1,0,0.0,,girls
+22,Dobbs Ferry (NY),1,0,0.0,,girls
+23,Downingtown West (PA),1,0,0.0,,girls
+24,E.A. Laney (NC),1,0,0.0,,girls
+25,Fellowship Christian (GA),1,0,0.0,,girls
+26,Fox Lane (NY),1,0,0.0,,girls
+27,Fuquay-Varina (NC),1,0,0.0,,girls
+28,Gerstell Academy (MD),3,0,0.0,,girls
+29,Glenn (NC),1,0,0.0,,girls
+30,Good Counsel (MD),16,0,0.0,,girls
+31,Grand Rapids Catholic Central (MI),7,0,0.0,,girls
+32,Green Hope (NC),1,0,0.0,,girls
+33,H.B. Plant (FL),1,0,0.0,,girls
+34,Harrison (NY),1,0,0.0,,girls
+35,Hartland (MI),1,0,0.0,,girls
+36,Hereford (MD),6,0,0.0,,girls
+37,Heritage (NC),1,0,0.0,,girls
+38,Hotchkiss School (CT),1,0,0.0,,girls
+39,Indian Hill (OH),2,0,0.0,,girls
+40,Indian River (NY),1,0,0.0,,girls
+41,J.H. Rose (NC),1,0,0.0,,girls
+42,King Philip Regional (MA),6,0,0.0,,girls
+43,Lakeville South (MN),1,0,0.0,,girls
+44,Langley (VA),1,0,0.0,,girls
+45,Liverpool (NY),1,0,0.0,,girls
+46,Manchester Valley (MD),7,0,0.0,,girls
+47,Maret School (DC),1,0,0.0,,girls
+48,Mater Dei (CA),1,0,0.0,,girls
+49,Medfield (MA),1,0,0.0,,girls
+50,Mepham (NY),1,0,0.0,,girls
+51,Meridian (VA),1,0,0.0,,girls
+52,MICDS (MO),1,0,0.0,,girls
+53,Millbrook (NC),1,0,0.0,,girls
+54,Miller Place (NY),1,0,0.0,,girls
+55,Mira Costa (CA),1,0,0.0,,girls
+56,Moses Brown School (RI),7,0,0.0,,girls
+57,Mt. Lebanon (PA),1,0,0.0,,girls
+58,Nanuet (NY),1,0,0.0,,girls
+59,New Albany (OH),8,0,0.0,,girls
+60,New Hanover (NC),1,0,0.0,,girls
+61,North Davidson (NC),1,0,0.0,,girls
+62,Northwest Guilford (NC),1,0,0.0,,girls
+63,Nyack (NY),7,0,0.0,,girls
+64,O'Fallon Township (IL),4,0,0.0,,girls
+65,Pelham Memorial (NY),1,0,0.0,,girls
+66,Phoenixville (PA),1,0,0.0,,girls
+67,Pleasant Valley (PA),13,0,0.0,,girls
+68,Pleasantville (NY),1,0,0.0,,girls
+69,Plymouth-Whitemarsh (PA),1,0,0.0,,girls
+70,Queensbury (NY),6,0,0.0,,girls
+71,Redondo Union (CA),2,0,0.0,,girls
+72,Rockwood Summit (MO),1,0,0.0,,girls
+73,Rocky Point (NY),1,0,0.0,,girls
+74,Roslyn (NY),1,0,0.0,,girls
+75,San Clemente (CA),2,0,0.0,,girls
+76,Santa Margarita Catholic School (CA),2,0,0.0,,girls
+77,Saugerties (NY),1,0,0.0,,girls
+78,Sayville (NY),2,0,0.0,,girls
+79,Severna Park (MD),5,0,0.0,,girls
+80,Sherwood (MD),6,0,0.0,,girls
+81,South Brunswick (NC),1,0,0.0,,girls
+82,South Mecklenburg (NC),1,0,0.0,,girls
+83,Southeast Guilford (NC),1,0,0.0,,girls
+84,St. Anthony's (NY),8,0,0.0,,girls
+85,Sts. Peter & Paul (MD),1,0,0.0,,girls
+86,Suffern (NY),2,0,0.0,,girls
+87,Swansboro (NC),1,0,0.0,,girls
+88,The Pingree School (MA ),1,0,0.0,,girls
+89,Wakefield (NC),1,0,0.0,,girls
+90,Weddington (NC),15,0,0.0,,girls
+91,West Brunswick (NC),2,0,0.0,,girls
+92,West Forsyth (NC),1,0,0.0,,girls
+93,Western Albemarle (VA),1,0,0.0,,girls
+94,"Westfield, VA (VA)",1,0,0.0,,girls
+95,Whitman (MD),7,0,0.0,,girls
+96,Williston Northampton (MA ),1,0,0.0,,girls
+97,"Yorktown, VA (VA)",1,0,0.0,,girls
+98,American Heritage - Delray (FL),15,1,0.0,,girls
+99,St. Anne's-Belfield (VA),15,1,0.0,,girls
+100,Episcopal Academy (PA),13,1,0.0,,girls
+101,McDonogh School (MD),12,1,0.0,,girls
+102,Oceanside Collegiate (SC),12,1,0.0,,girls
+103,San Ramon Valley (CA),11,1,0.0,,girls
+104,Benet Academy (IL),10,1,0.0,,girls
+105,Archbishop Carroll (PA),9,1,0.0,,girls
+106,Glenelg (MD),9,1,0.0,,girls
+107,Radnor (PA),9,1,0.0,,girls
+108,Carmel (IN),8,1,0.0,,girls
+109,Frisco (TX),8,1,0.0,,girls
+110,Prosper (TX),8,1,0.0,,girls
+111,Upper Arlington (OH),8,1,0.0,,girls
+112,Kentucky Country Day (KY),15,2,0.0,,girls
+113,St. John's (TX),15,2,0.0,,girls
+114,Garden City (NY),7,1,0.0,,girls
+115,Noble & Greenough (MA ),7,1,0.0,,girls
+116,Oak Ridge (CA),14,2,0.0,,girls
+117,Park City (UT),7,1,0.0,,girls
+118,Sacred Heart Prep (CA),14,2,0.0,,girls
+119,Wilton (CT),7,1,0.0,,girls
+120,Episcopal Houston (TX),12,2,0.0,,girls
+121,Harpeth Hall (TN),12,2,0.0,,girls
+122,Portsmouth Abbey (RI),6,1,0.0,,girls
+123,Sacred Heart - Greenwich (CT),6,1,0.0,,girls
+124,Ursuline School (NY),6,1,0.0,,girls
+125,West Genesee (NY),6,1,0.0,,girls
+126,Benjamin School (FL),11,2,0.0,,girls
+127,Lake Highland Prep (FL),16,3,0.0,,girls
+128,Austin (TX),10,2,0.0,,girls
+129,C. M. Wright (MD),5,1,0.0,,girls
+130,Cicero North Syracuse (NY),5,1,0.0,,girls
+131,Galena Club (NV),5,1,0.0,,girls
+132,Haslett (MI),5,1,0.0,,girls
+133,Maryvale Prep (MD),10,2,0.0,,girls
+134,New Canaan (CT),5,1,0.0,,girls
+135,Summit (NJ),5,1,0.0,,girls
+136,Anderson (TX),9,2,0.0,,girls
+137,Sidwell Friends (DC),9,2,0.0,,girls
+138,Canyon (TX),8,2,0.0,,girls
+139,Chatham (NJ),4,1,0.0,,girls
+140,Conestoga (PA),8,2,0.0,,girls
+141,Cornwall Central (NY),4,1,0.0,,girls
+142,IMG Academy (FL),12,3,0.0,,girls
+143,Reagan (TX),8,2,0.0,,girls
+144,Ridgewood (NJ),4,1,0.0,,girls
+145,Westwood (MA),4,1,0.0,,girls
+146,Collegiate School (VA),11,3,0.0,,girls
+147,Stone Ridge School of the Sacred Heart (MD),11,3,0.0,,girls
+148,Bridge (TX),7,2,0.0,,girls
+149,Lake Forest (IL),7,2,0.0,,girls
+150,Milton (GA),14,4,0.0,,girls
+151,Bishop Ireton (VA),10,3,0.0,,girls
+152,Katy (TX),10,3,0.0,,girls
+153,Kinkaid (TX),10,3,0.0,,girls
+154,Loyola Academy (IL),10,3,0.0,,girls
+155,Westlake (TX),10,3,0.0,,girls
+156,Cardinal Gibbons (NC),13,4,0.0,,girls
+157,West Forsyth (GA),13,4,0.0,,girls
+158,Bayport Blue Point (NY),6,2,0.0,,girls
+159,Cedar Park (TX),10,3,0.0,,girls
+160,Damascus (MD),6,2,0.0,,girls
+161,"Lexington, SC (SC)",6,2,0.0,,girls
+162,Manheim Township (PA),9,3,0.0,,girls
+163,Massapequa (NY),3,1,0.0,,girls
+164,Oak Knoll School (NJ),3,1,0.0,,girls
+165,Rush Henrietta (NY),3,1,0.0,,girls
+166,San Marin (CA),9,3,0.0,,girls
+167,St. John's Catholic Prep (MD),9,3,0.0,,girls
+168,Carlsbad (CA),11,4,0.0,,girls
+169,Yorktown (NY),8,3,0.0,,girls
+170,John Burroughs (MO),5,2,0.0,,girls
+171,Sacred Heart Academy - Long Island (NY),5,2,0.0,,girls
+172,Salisbury School (MD),5,2,0.0,,girls
+173,Saratoga Springs (NY),5,2,0.0,,girls
+174,St. Paul's School (NH),5,2,0.0,,girls
+175,Rockwall (TX),8,3,0.0,,girls
+176,Palos Verdes (CA),12,5,0.0,,girls
+177,St. Ignatius Prep (CA),12,5,0.0,,girls
+178,Sts. Stephen's & Agnes (VA),12,5,0.0,,girls
+179,Alamo Heights (TX),7,3,0.0,,girls
+180,Torrey Pines (CA),7,3,0.0,,girls
+181,St. Paul's SG (MD),9,4,0.0,,girls
+182,Archbishop Spalding (MD),6,3,0.0,,girls
+183,Coronado (CA),2,1,0.0,,girls
+184,Darien (CT),4,2,0.0,,girls
+185,Manhasset (NY),4,2,0.0,,girls
+186,Olentangy Liberty (OH),6,3,0.0,,girls
+187,Parish (TX),6,3,0.0,,girls
+188,Ravenwood (TN),2,1,0.0,,girls
+189,Ridgefield (CT),4,2,0.0,,girls
+190,Shaker (NY),2,1,0.0,,girls
+191,South Side (NY),4,2,0.0,,girls
+192,St. John's College (DC),10,5,0.0,,girls
+193,Unionville (PA),2,1,0.0,,girls
+194,Potomac School (VA),9,5,0.0,,girls
+195,St. Agnes (TX),9,5,0.0,,girls
+196,Southlake Carroll (TX),7,4,0.0,,girls
+197,"St. Catherine's, VA (VA)",7,4,0.0,,girls
+198,St. Michael's (TX),7,4,0.0,,girls
+199,William Penn Charter (PA),7,4,0.0,,girls
+200,Agnes Irwin (PA),5,3,0.0,,girls
+201,Bishop Moore (FL),10,6,0.0,,girls
+202,East Meadow (NY),5,3,0.0,,girls
+203,Harford Tech (MD),5,3,0.0,,girls
+204,Hockaday (TX),5,3,0.0,,girls
+205,Smithtown West (NY),5,3,0.0,,girls
+206,St. Stephen's (TX),5,3,0.0,,girls
+207,Oakton (VA),8,5,0.0,,girls
+208,Woodlands (TX),8,5,0.0,,girls
+209,Bishop Lynch (TX),6,4,0.0,,girls
+210,Emery Weiner (TX),6,4,0.0,,girls
+211,Fairport (NY),3,2,0.0,,girls
+212,Hagerty (FL),3,2,0.0,,girls
+213,Houston Christian (TX),6,4,0.0,,girls
+214,Valor Christian (CO),6,4,0.0,,girls
+215,Friendswood (TX),7,5,0.0,,girls
+216,John Carroll (MD),7,5,0.0,,girls
+217,Keller (TX),3,2,0.0,,girls
+218,Catonsville (MD),4,3,0.0,,girls
+219,Wantagh (NY),4,3,0.0,,girls
+220,Antonian Prep (TX),5,4,0.0,,girls
+221,Flower Mound (TX),5,4,0.0,,girls
+222,John Paul II (TX),5,4,0.0,,girls
+223,Coppell (TX),6,5,0.0,,girls
+224,Cy-Fair (TX),6,5,0.0,,girls
+225,Holton-Arms School (MD),6,5,0.0,,girls
+226,New Trier (IL),6,5,0.0,,girls
+227,Georgetown Visitation (DC),7,6,0.0,,girls
+228,Charlotte Catholic (NC),8,7,0.0,,girls
+229,Ardrey Kell (NC),1,1,0.0,,girls
+230,Bishop McGuiness (NC),1,1,0.0,,girls
+231,"Brentwood, TN (TN)",1,1,0.0,,girls
+232,Briarcliff (NY),5,5,0.0,,girls
+233,Byram Hills (NY),1,1,0.0,,girls
+234,Cape Fear Academy (NC),0,0,0.0,,girls
+235,Center Moriches (NY),4,4,0.0,,girls
+236,Chapin (SC),2,2,0.0,,girls
+237,Cold Spring Harbor (NY),1,1,0.0,,girls
+238,David W. Butler (NC),1,1,0.0,,girls
+239,Detroit Country Day (MI),2,2,0.0,,girls
+240,Ensworth (TN),1,1,0.0,,girls
+241,Episcopal Dallas (TX),3,3,0.0,,girls
+242,Foothill - Santa Ana (CA),1,1,0.0,,girls
+243,General Brown (NY),3,3,0.0,,girls
+244,Greenwich (CT),3,3,0.0,,girls
+245,Greenwich Academy (CT),4,4,0.0,,girls
+246,Havre De Grace (MD),1,1,0.0,,girls
+247,Hinsdale Central (IL),1,1,0.0,,girls
+248,Kingwood (TX),6,6,0.0,,girls
+249,Lake Mary (FL),1,1,0.0,,girls
+250,Marriotts Ridge (MD),1,1,0.0,,girls
+251,Notre Dame Academy (PA),2,2,0.0,,girls
+252,Notre Dame Prep (MD),4,4,0.0,,girls
+253,Oswego (NY),1,1,0.0,,girls
+254,Owen J. Roberts (PA),1,1,0.0,,girls
+255,Parkwood (NC),1,1,0.0,,girls
+256,Ronald Reagan (NC),1,1,0.0,,girls
+257,Rye (NY),2,2,0.0,,girls
+258,Scarsdale (NY),2,2,0.0,,girls
+259,Scripps Ranch (CA),1,1,0.0,,girls
+260,Shoreham Wading River (NY),1,1,0.0,,girls
+261,Skaneateles (NY),1,1,0.0,,girls
+262,Springside Chestnut Hill Academy (PA),3,3,0.0,,girls
+263,St. Andrew's (FL),1,1,0.0,,girls
+264,ThunderRidge (CO),1,1,0.0,,girls
+265,TMI (TX),5,5,0.0,,girls
+266,Ursuline (TX),4,4,0.0,,girls
+267,Westhampton Beach (NY),4,4,0.0,,girls
+268,Bryn Mawr (MD),6,7,0.0,,girls
+269,Glenelg Country School (MD),4,5,0.0,,girls
+270,Paul VI (VA),7,9,0.0,,girls
+271,Cathedral Catholic (CA),3,4,0.0,,girls
+272,Sacred Heart Academy (KY),6,8,0.0,,girls
+273,St. Andrew's (TX),3,4,0.0,,girls
+274,Highland Park (TX),5,7,0.0,,girls
+275,Lake Travis (TX),6,9,0.0,,girls
+276,Vero Beach (FL),2,3,0.0,,girls
+277,Severn School (MD),5,8,0.0,,girls
+278,Lamar (TX),3,5,0.0,,girls
+279,Atascocita (TX),4,7,0.0,,girls
+280,LASA (TX),4,7,0.0,,girls
+281,St. Pius X (TX),4,7,0.0,,girls
+282,Westwood (TX),4,8,0.0,,girls
+283,Charlotte Country Day (NC),1,2,0.0,,girls
+284,Charlotte Latin (NC),1,2,0.0,,girls
+285,Cuthbertson (NC),1,2,0.0,,girls
+286,Dripping Springs (TX),4,8,0.0,,girls
+287,Duchesne (TX),4,8,0.0,,girls
+288,Eastern (KY),1,2,0.0,,girls
+289,Edgemont (NY),2,4,0.0,,girls
+290,Hill Academy (CAN),2,4,0.0,,girls
+291,Marin Catholic (CA),1,2,0.0,,girls
+292,Myers Park (NC),1,2,0.0,,girls
+293,Phillips Exeter Acad (NH),1,2,0.0,,girls
+294,Pomfret School (CT),1,2,0.0,,girls
+295,Ponte Vedra (FL),1,2,0.0,,girls
+296,Roland Park Country (MD),3,6,0.0,,girls
+297,St. Mary's (MD),1,2,0.0,,girls
+298,Stratford (TX),3,6,0.0,,girls
+299,Holy Cross (MD),3,7,0.0,,girls
+300,Lovejoy (TX),3,7,0.0,,girls
+301,Grapevine (TX),3,8,0.0,,girls
+302,Bethlehem (NY),1,3,0.0,,girls
+303,Bronxville (NY),1,3,0.0,,girls
+304,East Grand Rapids (MI),0,1,0.0,,girls
+305,Eastport South Manor (NY),1,3,0.0,,girls
+306,Mount de Sales (MD),2,6,0.0,,girls
+307,New Bern (NC),0,1,0.0,,girls
+308,Redwood (CA),1,3,0.0,,girls
+309,Towson (MD),1,3,0.0,,girls
+310,Awty International (TX),2,7,0.0,,girls
+311,McKinney (TX),3,11,0.0,,girls
+312,Bartram Trail (FL),1,4,0.0,,girls
+313,Episcopal School (FL),1,4,0.0,,girls
+314,Klein (TX),2,8,0.0,,girls
+315,Allen (TX),1,5,0.0,,girls
+316,Memorial (TX),1,5,0.0,,girls
+317,St. Mary's Hall (TX),2,12,0.0,,girls
+318,Bowie (TX),1,7,0.0,,girls
+319,Mercy (MD),1,7,0.0,,girls
+320,Plano (TX),1,8,0.0,,girls
+321,Bellaire (TX),1,11,0.0,,girls
+322,North Gwinnett (GA),0,2,0.0,,girls
+323,Academic Magnet (SC),0,1,0.0,,girls
+324,Agoura (CA),0,1,0.0,,girls
+325,Aiken (SC),0,1,0.0,,girls
+326,Air Academy (CO),0,2,0.0,,girls
+327,Albany (NY),0,1,0.0,,girls
+328,Albemarle (VA),0,1,0.0,,girls
+329,Allentown Central Catholic (PA),0,1,0.0,,girls
+330,Alpharetta (GA),0,2,0.0,,girls
+331,Amsterdam (NY),0,1,0.0,,girls
+332,Archbishop Mitty (CA),0,3,0.0,,girls
+333,Arlington (NY),0,1,0.0,,girls
+334,Arundel (MD),0,1,0.0,,girls
+335,Ashland (MA),0,1,0.0,,girls
+336,Assumption (KY),0,1,0.0,,girls
+337,Athens Drive (NC),0,2,0.0,,girls
+338,Atherton (KY),0,1,0.0,,girls
+339,Auburn (NY),0,1,0.0,,girls
+340,Averill Park (NY),0,1,0.0,,girls
+341,Baldwinsville (NY),0,2,0.0,,girls
+342,Ballston Spa (NY),0,1,0.0,,girls
+343,Barron G. Collier (FL),0,1,0.0,,girls
+344,Bayside (NY),0,1,0.0,,girls
+345,Beach Channel (NY),0,1,0.0,,girls
+346,Beaver CDS (MA ),0,1,0.0,,girls
+347,Belleville West (IL),0,1,0.0,,girls
+348,Bethesda-Chevy Chase (MD),0,1,0.0,,girls
+349,Bishop Feehan (MA),0,1,0.0,,girls
+350,Bishop Manogue Club (NV),0,1,0.0,,girls
+351,Bishop McNamara (MD),0,2,0.0,,girls
+352,Bishop O'Connell (VA),0,5,0.0,,girls
+353,Bishop Shanahan (PA),0,1,0.0,,girls
+354,Blake (MD),0,2,0.0,,girls
+355,Blind Brook (NY),0,1,0.0,,girls
+356,Bloomfield Hills (MI),0,1,0.0,,girls
+357,Bluffton (SC),0,1,0.0,,girls
+358,Bolles School (FL),0,1,0.0,,girls
+359,Bonner-Prendergast (PA),0,1,0.0,,girls
+360,Branson School (CA),0,1,0.0,,girls
+361,Brebeuf Jesuit Prep (IN),0,1,0.0,,girls
+362,Briarcrest (TN),0,1,0.0,,girls
+363,Brien McMahon (CT),0,1,0.0,,girls
+364,Brighton (NY),0,1,0.0,,girls
+365,Broadneck (MD),0,2,0.0,,girls
+366,Brookline (MA),0,1,0.0,,girls
+367,Broughton (NC),0,3,0.0,,girls
+368,Buckingham (MA ),0,1,0.0,,girls
+369,Buford (GA),0,2,0.0,,girls
+370,Bullis School (MD),0,10,0.0,,girls
+371,Burnt Hills Ballston Lake (NY),0,1,0.0,,girls
+372,California HS (Danville) (CA),0,1,0.0,,girls
+373,Cambridge (GA),0,2,0.0,,girls
+374,Cambridge-South Dorchester (MD),0,1,0.0,,girls
+375,Cardinal Newman (CA),0,1,0.0,,girls
+376,Carmel (NY),0,1,0.0,,girls
+377,Carondelet (CA),0,2,0.0,,girls
+378,Carthage (NY),0,2,0.0,,girls
+379,Catholic High School (VA),0,1,0.0,,girls
+380,Cedar Crest (PA),0,2,0.0,,girls
+381,Celebration (FL),0,1,0.0,,girls
+382,Centreville (VA),0,1,0.0,,girls
+383,Chaminade College Prep (CA),0,1,0.0,,girls
+384,Chantilly (VA),0,1,0.0,,girls
+385,Chaparral (AZ),0,1,0.0,,girls
+386,Chapel Hill (NC),0,1,0.0,,girls
+387,Chatfield (CO),0,1,0.0,,girls
+388,Cherry Creek (CO),0,2,0.0,,girls
+389,Cheshire (CT),0,1,0.0,,girls
+390,Cheshire Academy (CT),0,1,0.0,,girls
+391,Christian Academy (KY),0,2,0.0,,girls
+392,Cincinnati Hills CA (OH),0,1,0.0,,girls
+393,Clarkstown North (NY),0,2,0.0,,girls
+394,Clear Springs (TX),0,7,0.0,,girls
+395,College Park (CA),0,1,0.0,,girls
+396,Collegiate (KY),0,1,0.0,,girls
+397,Colonie (NY),0,1,0.0,,girls
+398,Columbine (CO),0,1,0.0,,girls
+399,Community School (FL),0,1,0.0,,girls
+400,Concord Academy (MA ),0,1,0.0,,girls
+401,Concordia Prep (MD),0,1,0.0,,girls
+402,Conestoga Valley (PA),0,2,0.0,,girls
+403,Conwell Egan Catholic (PA),0,1,0.0,,girls
+404,Corona Del Sol (AZ),0,1,0.0,,girls
+405,Covenant School (VA),0,2,0.0,,girls
+406,"Crestwood, PA (PA)",0,1,0.0,,girls
+407,Culver City (CA),0,1,0.0,,girls
+408,Curtis (NY),0,1,0.0,,girls
+409,D.H. Conley Club (NC),0,1,0.0,,girls
+410,Dakota Ridge (CO),0,2,0.0,,girls
+411,Damonte Ranch Club (NV),0,1,0.0,,girls
+412,Daniel Hand (CT),0,1,0.0,,girls
+413,Danville Area (PA),0,1,0.0,,girls
+414,Davis (CA),0,1,0.0,,girls
+415,Deep Run (VA),0,1,0.0,,girls
+416,Deer Park (NY),0,1,0.0,,girls
+417,Deerfield Academy (MA ),0,1,0.0,,girls
+418,Del Norte (CA),0,1,0.0,,girls
+419,Del Oro (CA),0,2,0.0,,girls
+420,Denmark (GA),0,2,0.0,,girls
+421,Denver East (CO),0,1,0.0,,girls
+422,Desert Vista (AZ),0,1,0.0,,girls
+423,Dexter Southfield (MA ),0,1,0.0,,girls
+424,Dougherty Valley (CA),0,1,0.0,,girls
+425,Dover (DE),0,1,0.0,,girls
+426,Downey (CA),0,1,0.0,,girls
+427,Downingtown East (PA),0,1,0.0,,girls
+428,Dublin Coffman (OH),0,1,0.0,,girls
+429,Dulaney (MD),0,3,0.0,,girls
+430,Durham Academy (NC),0,1,0.0,,girls
+431,Dutch Fork (SC),0,2,0.0,,girls
+432,Eagles Co-Op (IL),0,1,0.0,,girls
+433,East (UT),0,1,0.0,,girls
+434,East Forsyth (NC),0,1,0.0,,girls
+435,East Ridge (FL),0,1,0.0,,girls
+436,East Ridge (MN),0,1,0.0,,girls
+437,Eastern Technical (MD),0,1,0.0,,girls
+438,"Easton Area, PA (PA)",0,1,0.0,,girls
+439,Edgewater (FL),0,1,0.0,,girls
+440,Edgewood (MD),0,1,0.0,,girls
+441,Edison - Huntington Beach (CA),0,1,0.0,,girls
+442,El Camino (CA),0,1,0.0,,girls
+443,El Segundo (CA),0,1,0.0,,girls
+444,Elizabeth Seton (MD),0,6,0.0,,girls
+445,Emmaus (PA),0,1,0.0,,girls
+446,Enloe (NC),0,3,0.0,,girls
+447,Ephrata (PA),0,1,0.0,,girls
+448,Episcopal (VA),0,5,0.0,,girls
+449,Evans (GA),0,1,0.0,,girls
+450,Evanston Township (IL),0,1,0.0,,girls
+451,Evansville Memorial (IN),0,1,0.0,,girls
+452,Evansville North (IN),0,1,0.0,,girls
+453,F.D. Roosevelt (NY),0,1,0.0,,girls
+454,Fairfield Ludlowe (CT),0,1,0.0,,girls
+455,Fairview (CO),0,1,0.0,,girls
+456,Fallston (MD),0,4,0.0,,girls
+457,Farmington (UT),0,1,0.0,,girls
+458,Father Ryan (TN),0,1,0.0,,girls
+459,FCA (MD),0,1,0.0,,girls
+460,Fenwick (IL),0,1,0.0,,girls
+461,Field School (DC),0,1,0.0,,girls
+462,First Academy (FL),0,3,0.0,,girls
+463,Floral Park Memorial (NY),0,1,0.0,,girls
+464,Folsom (CA),0,1,0.0,,girls
+465,Forest Hills Central (MI),0,1,0.0,,girls
+466,Forest Hills Eastern (MI),0,2,0.0,,girls
+467,Forsyth Central (GA),0,2,0.0,,girls
+468,Fort Mill (SC),0,1,0.0,,girls
+469,Foxborough (MA),0,1,0.0,,girls
+470,Francis Howell (MO),0,1,0.0,,girls
+471,Francis Howell Central (MO),0,1,0.0,,girls
+472,Francis Parker School (CA),0,1,0.0,,girls
+473,Franklin (MD),0,1,0.0,,girls
+474,Franklin (MA),0,1,0.0,,girls
+475,"Freedom, PA (PA)",0,1,0.0,,girls
+476,Freeport (NY),0,1,0.0,,girls
+477,Fulton (NY),0,1,0.0,,girls
+478,Gahanna Lincoln (OH),0,1,0.0,,girls
+479,Garnet Valley (PA),0,2,0.0,,girls
+480,Garrison Forest (MD),0,6,0.0,,girls
+481,George Marshall (VA),0,1,0.0,,girls
+482,Georgetown Day School (DC),0,1,0.0,,girls
+483,Germantown Academy (PA),0,3,0.0,,girls
+484,Girls Prep School (TN),0,1,0.0,,girls
+485,Glen Allen (VA),0,1,0.0,,girls
+486,Glen Cove (NY),0,1,0.0,,girls
+487,Glen Ridge (NJ),0,1,0.0,,girls
+488,Glenbrook North (IL),0,1,0.0,,girls
+489,Glenbrook South (IL),0,2,0.0,,girls
+490,Glendale (CA),0,2,0.0,,girls
+491,Grand Rapids Christian (MI),0,1,0.0,,girls
+492,Granite Bay (CA),0,2,0.0,,girls
+493,Granite Hills (CA),0,1,0.0,,girls
+494,Great Valley (PA),0,1,0.0,,girls
+495,Greenhill (TX),0,9,0.0,,girls
+496,Greens Farms Academy (CT),0,1,0.0,,girls
+497,Greensboro Day School (NC),0,1,0.0,,girls
+498,Greenwich (NY),0,1,0.0,,girls
+499,Grimsley (NC),0,1,0.0,,girls
+500,Grosse Pointe South (MI),0,2,0.0,,girls
