@@ -6,6 +6,7 @@ import os
 import sys
 sys.path.insert(1,os.path.join(os.path.realpath('__file__').split("lacrosse-prediction")[0],'lacrosse-prediction'))
 import chromedriver_autoinstaller
+chromedriver_autoinstaller.install()
 from selenium.webdriver.common.action_chains import ActionChains
 
 from selenium.webdriver.common.by import By

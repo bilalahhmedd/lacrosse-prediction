@@ -5,9 +5,10 @@ from time import sleep
 from datetime import datetime
 import pandas as pd
 from selenium import webdriver
+import chromedriver_autoinstaller
+chromedriver_autoinstaller.install()
 from selenium.webdriver.common.by import By
 from config.config import category_config_dict
-
 
 configuration = category_config_dict['camps_and_clinics']
 CATEGORY_NAME = configuration['category_name']

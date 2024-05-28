@@ -12,6 +12,9 @@ OUTPUT_FOLDER_PATH=os.path.join(configuration['scrapper_output_folder_path'],WEB
 from time import sleep
 import pandas as pd
 from selenium import webdriver
+import chromedriver_autoinstaller
+chromedriver_autoinstaller.install()
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
@@ -19,6 +22,7 @@ from selenium.common.exceptions import TimeoutException
 opt = webdriver.ChromeOptions()
 opt.add_argument("--start-maximized")
 opt.add_experimental_option("excludeSwitches", ["disable-popup-blocking"])
+opt.add_argument("--headless")
 
 def get_page_table(driver):
     "this method will get all the entries on the page "

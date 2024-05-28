@@ -6,6 +6,8 @@ from time import sleep
 from datetime import datetime
 import pandas as pd
 from selenium import webdriver
+import chromedriver_autoinstaller
+chromedriver_autoinstaller.install()
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
