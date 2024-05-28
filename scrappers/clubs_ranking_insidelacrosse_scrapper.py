@@ -5,6 +5,7 @@ import os
 import sys
 sys.path.insert(1,os.path.join(os.path.realpath('__file__').split("lacrosse-prediction")[0],'lacrosse-prediction'))
 import chromedriver_autoinstaller
+chromedriver_autoinstaller.install()
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from config.config import category_config_dict
@@ -13,12 +14,10 @@ configuration = category_config_dict['clubs_ranking']
 CATEGORY_NAME = configuration['category_name']
 WEBSOURCE = configuration['websources_list'][0]
 OUTPUT_FOLDER_PATH=os.path.join(configuration['scrapper_output_folder_path'],WEBSOURCE)
-
 opt = webdriver.ChromeOptions()
 opt.add_argument("--start-maximized")
 opt.add_experimental_option("excludeSwitches", ["disable-popup-blocking"])
-# opt.add_argument("--headless")
-chromedriver_autoinstaller.install()
+opt.add_argument('--disable-dev-shm-usage')
 
 CREATE_CONFIG_FLAG = False
 SAVE_DATA_FLAG = True

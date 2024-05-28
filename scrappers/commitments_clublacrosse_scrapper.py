@@ -7,6 +7,7 @@ import pandas as pd
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 import chromedriver_autoinstaller
+chromedriver_autoinstaller.install()
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.options import Options
 

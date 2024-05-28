@@ -159,7 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 # large data csv files
-*.csv
+# *.csv
 
 # ignore folder
 tmp-work/*
+# ignore config changes
+config/*
