@@ -1,4 +1,4 @@
-commitment_year,position,high_school,college,division,name,gender,club_year,club,state,weight,club_rank,height,web_source
+commitment_year,position,high_school,college,division,name,gender,weight,club,height,state,club_year,club_rank,web_source
 2024.0,Attack,West Babylon Senior High School,Adelphi,D2,Thomas Raccomandato,boy,,,,,,,toplaxrecruits
 2024.0,Defense,Mount Sinai High School,Adelphi,D2,Jake Furrer,boy,,,,,,,toplaxrecruits
 2024.0,Defense,East Islip High School,Adelphi,D2,Charles Kalinowski,boy,,,,,,,toplaxrecruits
