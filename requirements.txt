@@ -9,3 +9,5 @@ urllib3==1.26.14
 selenium
 chromedriver_autoinstaller
 pylint
+sqlalchemy
+mysql
