@@ -10,9 +10,9 @@ This is data engineering repo for lacrosse-prediciton project. It contains end t
 ### Dependencies
 
 <<<<<<< HEAD
-* linux operating system.
+* linux operating system
 =======
-* linux operating system.
+* linux operating system
 >>>>>>> origin/dev
 * python >= 3.6
 * pip3 latest
