@@ -163,3 +163,5 @@ cython_debug/
 
 # ignore folder
 tmp-work/*
+# ignore config changes
+config/*
