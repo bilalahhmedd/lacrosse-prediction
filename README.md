@@ -8,16 +8,7 @@ This is data engineering repo for lacrosse-prediciton project. It contains end t
 ## Getting Started
 
 ### Dependencies
-
-<<<<<<< HEAD
-* linux operating system.
-=======
-<<<<<<< HEAD
-* linux operating system.
-=======
-* linux operating system.
->>>>>>> origin/dev
->>>>>>> c6755bc040793a9acfd04604f3acee653e22aa2d
+* linux operating system
 * python >= 3.6
 * pip3 latest
 * salenium

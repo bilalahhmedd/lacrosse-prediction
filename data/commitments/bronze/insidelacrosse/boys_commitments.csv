@@ -1,4 +1,4 @@
-name,position,class,high_school,date,commitment,rating,profile_link,gender,height,club_rank,college,weight,club_year,state,club,commitment_year,web_source
+name,position,class,high_school,date,commitment,rating,profile_link,gender,weight,club,college,commitment_year,height,state,club_year,club_rank,web_source
 Colin Kenney,M,2024,Boys Latin School of Maryland (MD),5/12/2024,Fairfield,--,https://www.insidelacrosse.com/recruiting/profile/112254,boy,,,,,,,,,insidelacrosse
 Will Schwanke,A,2025,Calvert Hall College High School (MD),5/9/2024,Gettysburg,--,https://www.insidelacrosse.com/recruiting/profile/120285,boy,,,,,,,,,insidelacrosse
 Landon Addleman,M,2025,Archbishop Spalding High School (MD),5/8/2024,Florida Tech,--,https://www.insidelacrosse.com/recruiting/profile/87828,boy,,,,,,,,,insidelacrosse
@@ -140,9 +140,9 @@ Collin McLaughlin,M,2025,Ralston Valley Senior High School (CO),2/23/2024,Saint 
 Evan Kotkin,G,2025,St James School (MD),2/21/2024,Gettysburg,--,https://www.insidelacrosse.com/recruiting/profile/95369,boy,,,,,,,,,insidelacrosse
 Brady Pietruszka,LSM,2024,IMG Academy (FL),2/20/2024,Le Moyne,--,https://www.insidelacrosse.com/recruiting/profile/120390,boy,,,,,,,,,insidelacrosse
 Owen Embley,A,2024,Robbinsville High School (NJ),2/20/2024,Susquehanna,--,https://www.insidelacrosse.com/recruiting/profile/126321,boy,,,,,,,,,insidelacrosse
-Jacob Parenteau,A,2024,Nipmuc Regional High School (MA),2/20/2024,Roger Williams,--,https://www.insidelacrosse.com/recruiting/profile/95537,boy,,,,,,,,,insidelacrosse
 Francisco Morales,D,2024,Pingree School (MA),2/20/2024,Salisbury,--,https://www.insidelacrosse.com/recruiting/profile/108837,boy,,,,,,,,,insidelacrosse
 Charlie Quinn,FO,2025,Western Reserve Academy (OH),2/20/2024,Iona,--,https://www.insidelacrosse.com/recruiting/profile/94213,boy,,,,,,,,,insidelacrosse
+Jacob Parenteau,A,2024,Nipmuc Regional High School (MA),2/20/2024,Roger Williams,--,https://www.insidelacrosse.com/recruiting/profile/95537,boy,,,,,,,,,insidelacrosse
 Andrew Cavanaugh,A,2025,Sherwood High School (MD),2/20/2024,Towson,--,https://www.insidelacrosse.com/recruiting/profile/85912,boy,,,,,,,,,insidelacrosse
 Christian Chiusolo,D,2025,Thayer Academy (MA),2/20/2024,Alabama Huntsville,--,https://www.insidelacrosse.com/recruiting/profile/125815,boy,,,,,,,,,insidelacrosse
 Luke Byman,M,2025,Strake Jesuit College Prep School (TX),2/19/2024,Quinnipiac,--,https://www.insidelacrosse.com/recruiting/profile/73685,boy,,,,,,,,,insidelacrosse
@@ -173,8 +173,8 @@ Talon Osmun,M,2024,Mattawan High School (MI),2/7/2024,Mount Union,--,https://www
 Isaiah Chavez,FO,2025,Foothill High School (CA),2/7/2024,Westminster,--,https://www.insidelacrosse.com/recruiting/profile/124386,boy,,,,,,,,,insidelacrosse
 Tristan Harrison,LSM,2024,Notre Dame High School (NJ),2/7/2024,NJIT,--,https://www.insidelacrosse.com/recruiting/profile/74298,boy,,,,,,,,,insidelacrosse
 Chris Sartain,LSM,2024,Jack Britt High School (NC),2/7/2024,Methodist,--,https://www.insidelacrosse.com/recruiting/profile/123725,boy,,,,,,,,,insidelacrosse
-Alexandre Lafleche,M,2025,Perkiomen School (PA),2/6/2024,William Jewell,--,https://www.insidelacrosse.com/recruiting/profile/118263,boy,,,,,,,,,insidelacrosse
 Nathan Smith,D,2025,St Ignatius High School (OH),2/6/2024,Providence,--,https://www.insidelacrosse.com/recruiting/profile/120658,boy,,,,,,,,,insidelacrosse
+Alexandre Lafleche,M,2025,Perkiomen School (PA),2/6/2024,William Jewell,--,https://www.insidelacrosse.com/recruiting/profile/118263,boy,,,,,,,,,insidelacrosse
 Cameron Wheelans,LSM,2025,Culver Academy (IN),2/6/2024,Providence,--,https://www.insidelacrosse.com/recruiting/profile/129155,boy,,,,,,,,,insidelacrosse
 JohnLuca Aiello,M,2024,Pine-Richland High School (PA),2/6/2024,Susquehanna,--,https://www.insidelacrosse.com/recruiting/profile/129243,boy,,,,,,,,,insidelacrosse
 Noah Russ,M,2024,Mt Olive High School (NJ),2/6/2024,Stockton,--,https://www.insidelacrosse.com/recruiting/profile/108220,boy,,,,,,,,,insidelacrosse
@@ -366,11 +366,11 @@ Luke Jaeger,M,2025,Western Reserve Academy (OH),12/15/2023,Providence,,https://w
 Gael Avalos,M,2024,Mars Area Shs (PA),12/15/2023,Immaculata,--,https://www.insidelacrosse.com/recruiting/profile/128721,boy,,,,,,,,,insidelacrosse
 Jack Szalanski,D,2024,Detroit Country Day School (MI),12/15/2023,Detroit Mercy,--,https://www.insidelacrosse.com/recruiting/profile/92245,boy,,,,,,,,,insidelacrosse
 Ward Jenkins,D,2025,Yarmouth High School (ME),12/15/2023,UMBC,--,https://www.insidelacrosse.com/recruiting/profile/121230,boy,,,,,,,,,insidelacrosse
-Kade Sizer,D,2024,Wakefield High School (NC),12/15/2023,Barton,--,https://www.insidelacrosse.com/recruiting/profile/87561,boy,,,,,,,,,insidelacrosse
 Joshua Aguirre,M,2024,Florida Christian School (FL),12/15/2023,Gordon,--,https://www.insidelacrosse.com/recruiting/profile/123582,boy,,,,,,,,,insidelacrosse
+Kade Sizer,D,2024,Wakefield High School (NC),12/15/2023,Barton,--,https://www.insidelacrosse.com/recruiting/profile/87561,boy,,,,,,,,,insidelacrosse
 Braydon Tichy,M,2024,Riverside High School (OH),12/15/2023,Mount Union,--,https://www.insidelacrosse.com/recruiting/profile/122889,boy,,,,,,,,,insidelacrosse
-Mason Baker,D,2024,Monte Vista High School (CA),12/15/2023,Manhattan,--,https://www.insidelacrosse.com/recruiting/profile/97139,boy,,,,,,,,,insidelacrosse
 Owen Johnson,D,2024,Forest Park High School (VA),12/15/2023,Stevenson,--,https://www.insidelacrosse.com/recruiting/profile/128568,boy,,,,,,,,,insidelacrosse
+Mason Baker,D,2024,Monte Vista High School (CA),12/15/2023,Manhattan,--,https://www.insidelacrosse.com/recruiting/profile/97139,boy,,,,,,,,,insidelacrosse
 Gordon Griffith,M,2025,Archbishop Spalding High School (MD),12/15/2023,Flagler,--,https://www.insidelacrosse.com/recruiting/profile/86935,boy,,,,,,,,,insidelacrosse
 Andrew Hoffmann,G,2025,Louisville Collegiate School (KY),12/14/2023,Bellarmine,--,https://www.insidelacrosse.com/recruiting/profile/122776,boy,,,,,,,,,insidelacrosse
 Brian O'Connor II,M,2025,St. Xavier High School (OH),12/14/2023,Bellarmine,--,https://www.insidelacrosse.com/recruiting/profile/97160,boy,,,,,,,,,insidelacrosse
@@ -419,7 +419,7 @@ Owen Teaney,M,2024,Concord High School (DE),12/5/2023,Susquehanna,--,https://www
 James O'Malley,G,2024,Northport Senior High School (NY),12/5/2023,SUNY Maritime,--,https://www.insidelacrosse.com/recruiting/profile/122816,boy,,,,,,,,,insidelacrosse
 Michael Goben,FO,2024,Colonial Forge High School (VA),12/5/2023,Elizabethtown,--,https://www.insidelacrosse.com/recruiting/profile/122781,boy,,,,,,,,,insidelacrosse
 Carter Frank,G,2024,Pomperaug Regional High School (CT),12/5/2023,Roger Williams,--,https://www.insidelacrosse.com/recruiting/profile/123030,boy,,,,,,,,,insidelacrosse
-Carter Frank,G,2024,Pomperaug Regional High School (CT),12/5/2023,Roger Williams,--,https://www.insidelacrosse.com/recruiting/profile/123030,boy,,,,,,,,,insidelacrosse
+Jake Wolf,M,2025,Archbishop Spalding High School (MD),12/5/2023,Delaware,,https://www.insidelacrosse.com/recruiting/profile/87755,boy,,,,,,,,,insidelacrosse
 Charlie Foley,A,2025,Wheaton Academy (IL),12/5/2023,Lafayette,--,https://www.insidelacrosse.com/recruiting/profile/121124,boy,,,,,,,,,insidelacrosse
 Ryan Farley,D,2025,St Sebastians School (MA),12/5/2023,Lafayette,--,https://www.insidelacrosse.com/recruiting/profile/120765,boy,,,,,,,,,insidelacrosse
 Deuce Duffield,D,2024,Trinity-Pawling School (NY),12/5/2023,Iona,,https://www.insidelacrosse.com/recruiting/profile/98534,boy,,,,,,,,,insidelacrosse
@@ -429,24 +429,24 @@ Gabriel Marizcurrena,M,2024,Boerne High School (TX),12/5/2023,Tiffin,--,https://
 Michael Gabriel,D,2025,Riverhead Senior High School (NY),12/4/2023,Sacred Heart,--,https://www.insidelacrosse.com/recruiting/profile/122913,boy,,,,,,,,,insidelacrosse
 Kolby Poole,D,2025,Penncrest High School (PA),12/4/2023,High Point,--,https://www.insidelacrosse.com/recruiting/profile/87588,boy,,,,,,,,,insidelacrosse
 Daulton Krall,M,2024,Cedar Crest High School (PA),12/4/2023,Lebanon Valley,--,https://www.insidelacrosse.com/recruiting/profile/116411,boy,,,,,,,,,insidelacrosse
-Nick Roesch,G,2024,Southern Regional High School (NJ),12/4/2023,Florida Tech,--,https://www.insidelacrosse.com/recruiting/profile/73481,boy,,,,,,,,,insidelacrosse
 Grant Carle,FO,2025,The Hotchkiss School (CT),12/4/2023,Army,,https://www.insidelacrosse.com/recruiting/profile/72863,boy,,,,,,,,,insidelacrosse
+Nick Roesch,G,2024,Southern Regional High School (NJ),12/4/2023,Florida Tech,--,https://www.insidelacrosse.com/recruiting/profile/73481,boy,,,,,,,,,insidelacrosse
 Nico Spaziani,M,2025,Watertown Senior High School (NY),12/4/2023,Binghamton,--,https://www.insidelacrosse.com/recruiting/profile/120265,boy,,,,,,,,,insidelacrosse
 Aaron Fink,A,2024,Cedar Crest High School (PA),12/4/2023,Susquehanna,--,https://www.insidelacrosse.com/recruiting/profile/119670,boy,,,,,,,,,insidelacrosse
 Brayden Mattera,M,2025,Walpole High School (MA),12/4/2023,Merrimack,--,https://www.insidelacrosse.com/recruiting/profile/71961,boy,,,,,,,,,insidelacrosse
-Vaughan Hawkins,D,2024,Bishop Fenwick High School (OH),12/3/2023,Tiffin,--,https://www.insidelacrosse.com/recruiting/profile/122750,boy,,,,,,,,,insidelacrosse
 Teddy Dannhauser,A,2024,St Anthony's High School (NY),12/3/2023,SUNY Maritime,--,https://www.insidelacrosse.com/recruiting/profile/122671,boy,,,,,,,,,insidelacrosse
+Vaughan Hawkins,D,2024,Bishop Fenwick High School (OH),12/3/2023,Tiffin,--,https://www.insidelacrosse.com/recruiting/profile/122750,boy,,,,,,,,,insidelacrosse
 Luke Fenderson,A,2025,Christ the King Christian Academy (NC),12/3/2023,High Point,--,https://www.insidelacrosse.com/recruiting/profile/122670,boy,,,,,,,,,insidelacrosse
 Lucas Mackin,A,2024,Arlington High School (NY),12/3/2023,Adelphi,--,https://www.insidelacrosse.com/recruiting/profile/122669,boy,,,,,,,,,insidelacrosse
 Jack Fish,M,2025,Severna Park High School (MD),12/3/2023,UMBC,,https://www.insidelacrosse.com/recruiting/profile/119731,boy,,,,,,,,,insidelacrosse
 Jacob Janke,M,2025,Everest Academy (ON),12/3/2023,Hobart,--,https://www.insidelacrosse.com/recruiting/profile/108561,boy,,,,,,,,,insidelacrosse
-Frank Bagolie,G,2025,Livingston Sr High School (NJ),12/3/2023,Embry-Riddle,--,https://www.insidelacrosse.com/recruiting/profile/118548,boy,,,,,,,,,insidelacrosse
 Conor Sweeney,A,2024,Downingtown East High School (PA),12/3/2023,Manhattan,--,https://www.insidelacrosse.com/recruiting/profile/73821,boy,,,,,,,,,insidelacrosse
 Paul Armstrong,A,2025,St Sebastians School (MA),12/3/2023,Holy Cross,--,https://www.insidelacrosse.com/recruiting/profile/116419,boy,,,,,,,,,insidelacrosse
+Frank Bagolie,G,2025,Livingston Sr High School (NJ),12/3/2023,Embry-Riddle,--,https://www.insidelacrosse.com/recruiting/profile/118548,boy,,,,,,,,,insidelacrosse
 Cooper Piesco,M,2024,New Fairfield High School (CT),12/3/2023,Eastern Connecticut,--,https://www.insidelacrosse.com/recruiting/profile/122673,boy,,,,,,,,,insidelacrosse
-Noah Humble,D,2024,Boyd Buchanan School (TN),12/3/2023,Tiffin,--,https://www.insidelacrosse.com/recruiting/profile/122738,boy,,,,,,,,,insidelacrosse
 Dennis Brady,G,2025,St Anthony's High School (NY),12/3/2023,Lynn,,https://www.insidelacrosse.com/recruiting/profile/99237,boy,,,,,,,,,insidelacrosse
 Blake Cascadden,M,2025,Garden City High School (NY),12/3/2023,Cornell,,https://www.insidelacrosse.com/recruiting/profile/118816,boy,,,,,,,,,insidelacrosse
+Noah Humble,D,2024,Boyd Buchanan School (TN),12/3/2023,Tiffin,--,https://www.insidelacrosse.com/recruiting/profile/122738,boy,,,,,,,,,insidelacrosse
 Chase Coy,M,2024,Mill Creek High School (GA),12/3/2023,Belmont Abbey,--,https://www.insidelacrosse.com/recruiting/profile/122672,boy,,,,,,,,,insidelacrosse
 Davis Campbell,M,2025,Christian Brothers Academy (NJ),12/2/2023,Holy Cross,--,https://www.insidelacrosse.com/recruiting/profile/120647,boy,,,,,,,,,insidelacrosse
 Ethan Mahoney,M,2024,Stonington High School (CT),12/2/2023,Roger Williams,--,https://www.insidelacrosse.com/recruiting/profile/122668,boy,,,,,,,,,insidelacrosse
@@ -599,63 +599,3 @@ Jackson Schaffer,A,2025,La Costa Canyon High School (CA),11/3/2023,Air Force,--,
 Logan Bryant,M,2025,Trinity High School (KY),11/3/2023,Fairfield,--,https://www.insidelacrosse.com/recruiting/profile/122831,boy,,,,,,,,,insidelacrosse
 Jack Cornwell,M,2024,North Paulding High School (GA),11/3/2023,Florida Tech,--,https://www.insidelacrosse.com/recruiting/profile/85847,boy,,,,,,,,,insidelacrosse
 Luca Signorello,A,2024,Paul VI Catholic High School (VA),11/3/2023,Washington College,--,https://www.insidelacrosse.com/recruiting/profile/85821,boy,,,,,,,,,insidelacrosse
-Drew Duncan,A,2024,Archmere Academy (DE),11/3/2023,Delaware,,https://www.insidelacrosse.com/recruiting/profile/72091,boy,,,,,,,,,insidelacrosse
-Noah Nahrebeski,LSM,2025,Hamburg High School (NY),11/3/2023,UAlbany,--,https://www.insidelacrosse.com/recruiting/profile/120570,boy,,,,,,,,,insidelacrosse
-Hayden Cody,FO,2025,The Roxbury Latin School (MA),11/3/2023,Bucknell,--,https://www.insidelacrosse.com/recruiting/profile/88123,boy,,,,,,,,,insidelacrosse
-Noah Gehlert,M,2025,Upper Arlington High School (OH),11/3/2023,Ohio State,--,https://www.insidelacrosse.com/recruiting/profile/122606,boy,,,,,,,,,insidelacrosse
-Sean McKee,A,2025,Western Reserve Academy (OH),11/3/2023,Lafayette,,https://www.insidelacrosse.com/recruiting/profile/85277,boy,,,,,,,,,insidelacrosse
-Chase Ford,D,2024,Denver South (CO),11/2/2023,NJIT,--,https://www.insidelacrosse.com/recruiting/profile/85231,boy,,,,,,,,,insidelacrosse
-Madden Murphy,FO,2024,Ward Melville Senior High School (NY),11/2/2023,Boston U,,https://www.insidelacrosse.com/recruiting/profile/89034,boy,,,,,,,,,insidelacrosse
-Caden Paradine,M,2025,Christ School (NC),11/2/2023,Denver,--,https://www.insidelacrosse.com/recruiting/profile/98943,boy,,,,,,,,,insidelacrosse
-Reese Marciniak,D,2024,Kettle Moraine High School (WI),11/2/2023,Newberry,--,https://www.insidelacrosse.com/recruiting/profile/121851,boy,,,,,,,,,insidelacrosse
-Logan Stafford,A,2024,Marist High School (IL),11/2/2023,Anderson (IN),--,https://www.insidelacrosse.com/recruiting/profile/123155,boy,,,,,,,,,insidelacrosse
-Matthew Mitcheltree,M,2024,St Vincent Pallotti High School (MD),11/2/2023,Hood,--,https://www.insidelacrosse.com/recruiting/profile/122500,boy,,,,,,,,,insidelacrosse
-Drew Barocas,A,2024,Jackson Memorial High School (NJ),11/2/2023,Alabama Huntsville,--,https://www.insidelacrosse.com/recruiting/profile/73431,boy,,,,,,,,,insidelacrosse
-Alex Moloney,A,2024,Farmingdale Senior High School (NY),11/2/2023,Saint Michael's,--,https://www.insidelacrosse.com/recruiting/profile/84761,boy,,,,,,,,,insidelacrosse
-Tristan Reinhold,A,2024,Gilford High School (NH),11/2/2023,Maine Maritime,--,https://www.insidelacrosse.com/recruiting/profile/121998,boy,,,,,,,,,insidelacrosse
-Dylan Blekicki,A,2025,The Pingry School (NJ),11/2/2023,Johns Hopkins,--,https://www.insidelacrosse.com/recruiting/profile/119012,boy,,,,,,,,,insidelacrosse
-Gunnar Bick,M,2024,Hutchinson Senior High School (MN),11/2/2023,Queens,--,https://www.insidelacrosse.com/recruiting/profile/122411,boy,,,,,,,,,insidelacrosse
-Luke Forde,FO,2024,Island Trees High School (NY),11/2/2023,Stony Brook,--,https://www.insidelacrosse.com/recruiting/profile/109528,boy,,,,,,,,,insidelacrosse
-Brady McEnroe,D,2025,Yorktown High School (NY),11/2/2023,Hobart,--,https://www.insidelacrosse.com/recruiting/profile/98703,boy,,,,,,,,,insidelacrosse
-Joey Brodbeck,M,2024,Cranford Sr High School (NJ),11/2/2023,Cortland,--,https://www.insidelacrosse.com/recruiting/profile/119684,boy,,,,,,,,,insidelacrosse
-Ashton Karch,FO,2024,Erie High School (CO),11/1/2023,Westminster,--,https://www.insidelacrosse.com/recruiting/profile/121758,boy,,,,,,,,,insidelacrosse
-Jameson Lowe,D,2024,Wando High School (SC),11/1/2023,Saint Leo,--,https://www.insidelacrosse.com/recruiting/profile/116530,boy,,,,,,,,,insidelacrosse
-Kurt Dillmeier,D,2024,The Lawrenceville School (NJ),11/1/2023,Brown,,https://www.insidelacrosse.com/recruiting/profile/71371,boy,,,,,,,,,insidelacrosse
-Ezekiel Merchant,M,2025,Western Reserve Academy (OH),11/1/2023,Ohio State,,https://www.insidelacrosse.com/recruiting/profile/120062,boy,,,,,,,,,insidelacrosse
-Harrison Wolpoe,M,2024,Bozeman High School (MT),11/1/2023,Mount St Mary's,--,https://www.insidelacrosse.com/recruiting/profile/91795,boy,,,,,,,,,insidelacrosse
-Tyler DeGirolamo,FO,2024,St Joseph's Preparatory School (PA),11/1/2023,Palm Beach Atlantic,--,https://www.insidelacrosse.com/recruiting/profile/87589,boy,,,,,,,,,insidelacrosse
-Jack Rabazzi,D,2025,The Rivers School (MA),11/1/2023,Colgate,--,https://www.insidelacrosse.com/recruiting/profile/121876,boy,,,,,,,,,insidelacrosse
-Jacob Fusco,D,2024,Cambridge High School (GA),11/1/2023,Richmond,--,https://www.insidelacrosse.com/recruiting/profile/89162,boy,,,,,,,,,insidelacrosse
-Ruairi O'Connor,G,2024,Bishop Hendricken High School (RI),10/31/2023,Felician,--,https://www.insidelacrosse.com/recruiting/profile/128976,boy,,,,,,,,,insidelacrosse
-Michael Groos,G,2024,Providence Catholic High School (IL),10/31/2023,Anderson (IN),--,https://www.insidelacrosse.com/recruiting/profile/123154,boy,,,,,,,,,insidelacrosse
-Jacob Roubic,FO,2025,St Ignatius High School (OH),10/31/2023,Bryant,--,https://www.insidelacrosse.com/recruiting/profile/87495,boy,,,,,,,,,insidelacrosse
-Collin Thomson,A,2024,Westtown School (PA),10/31/2023,Mount St Mary's,,https://www.insidelacrosse.com/recruiting/profile/73802,boy,,,,,,,,,insidelacrosse
-Adam Goucher,G,2024,Rockwall High School (TX),10/31/2023,Tiffin,--,https://www.insidelacrosse.com/recruiting/profile/122717,boy,,,,,,,,,insidelacrosse
-Dylan Martini,M,2025,Wantagh Senior High School (NY),10/31/2023,UAlbany,,https://www.insidelacrosse.com/recruiting/profile/119327,boy,,,,,,,,,insidelacrosse
-Cole Gaudet,A,2024,Falmouth High School (MA),10/31/2023,AIC,--,https://www.insidelacrosse.com/recruiting/profile/120828,boy,,,,,,,,,insidelacrosse
-Kevin Cinotti,D,2025,West Islip High School (NY),10/31/2023,St. John's,--,https://www.insidelacrosse.com/recruiting/profile/122953,boy,,,,,,,,,insidelacrosse
-Ryan McGovern,D,2024,American Heritage School - Boca/Delray (FL),10/31/2023,UMass Boston,--,https://www.insidelacrosse.com/recruiting/profile/121762,boy,,,,,,,,,insidelacrosse
-Patrick Welch,D,2025,Avon Old Farms School (CT),10/31/2023,Merrimack,--,https://www.insidelacrosse.com/recruiting/profile/109265,boy,,,,,,,,,insidelacrosse
-Luke Stickler,D,2024,Loyola High School (CA),10/30/2023,Johns Hopkins,,https://www.insidelacrosse.com/recruiting/profile/110089,boy,,,,,,,,,insidelacrosse
-Ricky Peterson,A,2025,Maple Grove Senior High School (MN),10/30/2023,Monmouth,--,https://www.insidelacrosse.com/recruiting/profile/122795,boy,,,,,,,,,insidelacrosse
-Laine Nissen,M,2025,The Hill Academy (ON),10/30/2023,Canisius,--,https://www.insidelacrosse.com/recruiting/profile/129226,boy,,,,,,,,,insidelacrosse
-Sam DePietro,A,2024,Holy Cross High School (CT),10/30/2023,Le Moyne,--,https://www.insidelacrosse.com/recruiting/profile/107730,boy,,,,,,,,,insidelacrosse
-Thomas Garcia,M,2024,New Canaan High School (CT),10/30/2023,Washington and Lee,--,https://www.insidelacrosse.com/recruiting/profile/88943,boy,,,,,,,,,insidelacrosse
-Alexander Jones-Akien,LSM,2025,Blue Ridge School (VA),10/30/2023,Hampton,--,https://www.insidelacrosse.com/recruiting/profile/98116,boy,,,,,,,,,insidelacrosse
-Wyatt Merandi,M,2025,Allatoona High School (GA),10/30/2023,Air Force,--,https://www.insidelacrosse.com/recruiting/profile/122871,boy,,,,,,,,,insidelacrosse
-Tobey Lappin,M,2024,South Portland High School (ME),10/30/2023,Maine Maritime,--,https://www.insidelacrosse.com/recruiting/profile/121760,boy,,,,,,,,,insidelacrosse
-Donevin Gonzalez,M,2024,Mountain View High School (VA),10/30/2023,Limestone,--,https://www.insidelacrosse.com/recruiting/profile/73001,boy,,,,,,,,,insidelacrosse
-Will Simmons,M,2024,The Hill Academy (ON),10/29/2023,Mount St Mary's,--,https://www.insidelacrosse.com/recruiting/profile/98990,boy,,,,,,,,,insidelacrosse
-Sam Wilmot,D,2025,St John's Preparatory School (MA),10/29/2023,Richmond,--,https://www.insidelacrosse.com/recruiting/profile/108853,boy,,,,,,,,,insidelacrosse
-Holden Hayes,FO,2025,Mountain Vista High School (CO),10/29/2023,Hofstra,--,https://www.insidelacrosse.com/recruiting/profile/121087,boy,,,,,,,,,insidelacrosse
-Cross McKinney,M,2024,St Ignatius High School (OH),10/28/2023,Mars Hill,--,https://www.insidelacrosse.com/recruiting/profile/122789,boy,,,,,,,,,insidelacrosse
-Alec Neuharth,LSM,2024,Arrowhead High School (WI),10/28/2023,MSOE,--,https://www.insidelacrosse.com/recruiting/profile/121041,boy,,,,,,,,,insidelacrosse
-Justin Conly,A,2025,Cardinal Gibbons High School (NC),10/28/2023,Tampa,,https://www.insidelacrosse.com/recruiting/profile/108547,boy,,,,,,,,,insidelacrosse
-Luke Griffin,M,2025,Kings Park High School (NY),10/28/2023,Maryland,,https://www.insidelacrosse.com/recruiting/profile/98128,boy,,,,,,,,,insidelacrosse
-Peter Gerbasi,D,2025,Chaminade High School (NY),10/28/2023,Lehigh,,https://www.insidelacrosse.com/recruiting/profile/120179,boy,,,,,,,,,insidelacrosse
-Jack Sucher,M,2024,Malvern Preparatory School (PA),10/28/2023,Mount St Mary's,--,https://www.insidelacrosse.com/recruiting/profile/109032,boy,,,,,,,,,insidelacrosse
-Nick Miller,FO,2024,Jamesville Dewitt High School (NY),10/28/2023,Le Moyne,--,https://www.insidelacrosse.com/recruiting/profile/120441,boy,,,,,,,,,insidelacrosse
-Gray Tamasco,D,2025,New Canaan High School (CT),10/28/2023,Richmond,,https://www.insidelacrosse.com/recruiting/profile/88935,boy,,,,,,,,,insidelacrosse
-Hunter Molway,FO,2024,Xaverian Brothers High School (MA),10/28/2023,Rutgers,,https://www.insidelacrosse.com/recruiting/profile/89350,boy,,,,,,,,,insidelacrosse
-Thomas Hancock,G,2024,Atlee High School (VA),10/28/2023,Denison,--,https://www.insidelacrosse.com/recruiting/profile/98355,boy,,,,,,,,,insidelacrosse
-Peter Biglin,M,2024,Brother Rice High School (MI),10/27/2023,Canisius,--,https://www.insidelacrosse.com/recruiting/profile/86061,boy,,,,,,,,,insidelacrosse

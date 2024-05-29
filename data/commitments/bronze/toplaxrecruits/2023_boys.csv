@@ -1,4 +1,4 @@
-commitment_year,position,high_school,state,club,college,division,name,gender,club_rank,weight,height,club_year,web_source
+commitment_year,position,high_school,state,club,college,division,name,gender,weight,club_year,height,club_rank,web_source
 2023,Attack,mountain view (ID),ID,True Lacrosse – Boys ID,Adams State University,NCAA DII,Devon Schmidt,boy,,,,,toplaxrecruits
 2023,Attack,Air Academy High School (CO),CO,Bolts,Adams State University,NCAA DII,Joseph Taylor,boy,,,,,toplaxrecruits
 2023,Defense,Conifer Senior High School (CO),CO,,Adams State University,NCAA DII,Wyatt Canaday,boy,,,,,toplaxrecruits
@@ -2758,7 +2758,7 @@ commitment_year,position,high_school,state,club,college,division,name,gender,clu
 2023,Face Off Specialist|Midfield|Right Wing,Galena High School (NV),NV,,William Jewell College,NCAA DII,Hunter Mee,boy,,,,,toplaxrecruits
 2023,Goalie,Bishop Kelly High School (UT),ID,True Lacrosse – Boys National,William Jewell College,NCAA DII,Fynn Ziebarth,boy,,,,,toplaxrecruits
 2023,Goalie,Valor Christian (),CO,Denver Elite Lacrosse Club,William Jewell College,NCAA DII,Kyle Green,boy,,,,,toplaxrecruits
-2023,Long Stick Midfield,Hudson (),WI,None,William Jewell College,NCAA DII,Jacob Nielsen,boy,,,,,toplaxrecruits
+2023,Long Stick Midfield,Hudson (),WI,,William Jewell College,NCAA DII,Jacob Nielsen,boy,,,,,toplaxrecruits
 2023,Midfield,Palmer High School (CO),CO,,William Jewell College,NCAA DII,Josh Bridgmon,boy,,,,,toplaxrecruits
 2023,Midfield,Royal Bay Academy (BC),BC,,William Jewell College,NCAA DII,Olivier Laplante,boy,,,,,toplaxrecruits
 2023,Midfield,McPherson High School (KS),KS,Brady’s Bunch,William Jewell College,NCAA DII,Simon Lyon,boy,,,,,toplaxrecruits
